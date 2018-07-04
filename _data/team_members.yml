@@ -1,0 +1,148 @@
+- name: Dr. Ozan Keysan
+  photo: ozan_keysan.jpg
+  info: Assistant Professor
+  email: keysan@metu.edu.tr
+  number_educ: 3
+  education1: Bsc, METU, 2005
+  education2: Msc, METU, 2007
+  education3: PhD University of Edinburgh Institute for Energy Systems
+
+- name: Dr. Emine Bostancı
+  photo: emine_bostanci.jpg
+  info: Assistant Professor
+  email: emineb@metu.edu.tr
+  number_educ: 3
+  education1: Bsc, METU, 2007
+  education2: Msc, RWTH Aachen, 2010
+  education3: PhD, Leibniz University, Hannover, 2014
+
+- name: Dr. Murat Göl
+  photo: murat_gol.jpg
+  info: Assistant Professor
+  email: mgol@metu.edu.tr
+  number_educ: 3
+  education1: Bsc,METU,2007
+  education2: Msc,METU,2009
+  education3: PhD Northeastern University, 2014
+
+- name: Doğa Ceylan
+  photo: doga.jpg
+  info: Researcher
+  email: Battisti@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Bsc, METU, 2016
+  education2: Msc, METU, 2018
+
+- name: Mesut Uğur
+  photo: reisicumhur.jpg
+  info: Research Assistant
+  email: Bastiaans@Physics.LeidenUniv.nl
+  number_educ: 2
+  education1: Bsc, METU, 2012
+  education2 : Msc, METU, 2015
+
+- name: Erencan Duymaz
+  photo: erencan.png
+  info: Tubitak Scholar
+  email:
+  number_educ: 1
+  education1: Bsc, METU, 2016
+
+- name: Aysel Akgemci
+  photo: aysel.jpg
+  info:
+  email: verdoes@fmd.physics.leidenuniv.nl
+  number_educ: 1
+  education1: Bsc, METU, 2016
+
+- name: İlker Şahin
+  photo: silker.jpg
+  info:
+  email: verdoes@fmd.physics.leidenuniv.nl
+  number_educ: 2
+  education1: Bsc, METU, 2012
+  education2: Msc, METU, 2014
+
+- name: Özgür Yazıcı
+  photo: ozguryazici.jpeg
+  info: Researcher
+  email: verdoes@fmd.physics.leidenuniv.nl
+  number_educ: 1
+  education1: Bsc, METU, 2018
+
+- name: G. Hande Bayazıt
+  photo: hande-3.jpg
+  info: Research Assistant
+  email: verdoes@fmd.physics.leidenuniv.nl
+  number_educ: 1
+  education1: Bsc, METU, 2018
+
+- name: Melisa Sarıcı
+  photo: melisa_sarici.jpg
+  info: Researcher
+  email: verdoes@fmd.physics.leidenuniv.nl
+  number_educ: 1
+  education1: Bsc, METU, 2018
+
+- name: Ali Aydın
+  photo: aliaydin.jpeg
+  info: Researcher
+  email: ali.aydin@metu.edu.tr
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
+
+- name: Enes Ayaz
+  photo: enesayaz.jpg
+  info: Undergraduate Researcher
+  email: enes.ayaz@gmail.com
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
+
+- name: Nail Tosun
+  photo: nailtosun.jpeg
+  info: Undergraduate Researcher
+  email: nailtosun@metu.edu.tr
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
+
+- name: Furkan Tokgöz
+  photo: rock.jpg
+  info: Undergraduate Researcher
+  email: nailtosun@metu.edu.tr
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
+
+- name: Anıl Aydın
+  photo: rock.jpg
+  info: Undergraduate Researcher
+  email: nailtosun@metu.edu.tr
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
+
+- name: Orhun Taşoğlu
+  photo: rock.jpg
+  info: Undergraduate Researcher
+  email: nailtosun@metu.edu.tr
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
+
+- name: İsmail Ataseven
+  photo: rock.jpg
+  info: Undergraduate Researcher
+  email: nailtosun@metu.edu.tr
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
+
+- name: Ömer B. Demir
+  photo: rock.jpg
+  info: Undergraduate Researcher
+  email: nailtosun@metu.edu.tr
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
+
+- name: Yunus Bilge Kurt
+  photo: rock.jpg
+  info: Undergraduate Researcher
+  email: nailtosun@metu.edu.tr
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
