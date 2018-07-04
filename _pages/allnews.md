@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Powerlab at METU."
 sitemap: false
 permalink: /allnews.html
 ---
