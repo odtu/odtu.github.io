@@ -8,8 +8,7 @@
 # Site settings
 title: Powerlab
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-METU PowerLab Research group, ODTÜ PowerLab, A research group in METU (ODTÜ) in renewable energy, power systems, electrical machines and smart grid
+description: > # this means to ignore newlines until "baseurl:" METU PowerLab Research group, ODTÜ PowerLab, A research group in METU (ODTÜ) in renewable energy, power systems, electrical machines and smart grid
 
 baseurl: ""
 url: ""
