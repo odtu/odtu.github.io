@@ -9,9 +9,8 @@
 title: Powerlab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+METU PowerLab Research group, ODTÜ PowerLab, A research group in METU (ODTÜ) in renewable energy, power systems, electrical machines and smart grid
+
 baseurl: ""
 url: ""
 

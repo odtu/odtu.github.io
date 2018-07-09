@@ -1,0 +1,26 @@
+- name: Dr. Emine Bostancı
+  photo: emine_bostanci.jpg
+  info: Assistant Professor
+  email: emineb@metu.edu.tr
+  number_educ: 3
+  education1: BSc, METU, 2007
+  education2: MSc, RWTH Aachen, 2010
+  education3: PhD, Leibniz University, Hannover, 2014
+
+- name: Dr. Murat Göl
+  photo: murat_gol.jpg
+  info: Assistant Professor
+  email: mgol@metu.edu.tr
+  number_educ: 3
+  education1: BSc, METU, 2007
+  education2: MSc, METU, 2009
+  education3: PhD, Northeastern University, 2014
+
+- name: Dr. Ozan Keysan
+  photo: ozan_keysan.jpg
+  info: Assistant Professor
+  email: keysan@metu.edu.tr
+  number_educ: 3
+  education1: BSc, METU, 2005
+  education2: MSc, METU, 2007
+  education3: PhD, University of Edinburgh, UK, 2013

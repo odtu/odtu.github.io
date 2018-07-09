@@ -1,3 +1,4 @@
 # powerlabweb
 PowerLab Web Page
-Updated version can be found nailtosun.github.io
+
+Have a look at https://odtu.github.io/aboutwebsite about how to update this webpage
