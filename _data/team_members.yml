@@ -1,7 +1,7 @@
 - name: Dr. Ozan Keysan
   photo: ozan_keysan.jpg
   info: Assistant Professor
-  email: keysan@metu.edu.tr
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 3
   education1: BSc, METU, 2005
   education2: MSc, METU, 2007
@@ -10,7 +10,7 @@
 - name: Dr. Emine Bostancı
   photo: emine_bostanci.jpg
   info: Assistant Professor
-  email: emineb@metu.edu.tr
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 3
   education1: BSc, METU, 2007
   education2: MSc, RWTH Aachen, 2010
@@ -19,7 +19,7 @@
 - name: Dr. Murat Göl
   photo: murat_gol.jpg
   info: Assistant Professor
-  email: mgol@metu.edu.tr
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 3
   education1: BSc, METU, 2007
   education2: MSc, METU, 2009
@@ -28,7 +28,7 @@
 - name: Doğa Ceylan
   photo: doga.jpg
   info: Researcher
-  email: Battisti@Physics.LeidenUniv.nl
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 2
   education1: Bsc, METU, 2016
   education2: Msc, METU, 2018
@@ -36,7 +36,7 @@
 - name: Mesut Uğur
   photo: reisicumhur.jpg
   info: Research Assistant
-  email: Bastiaans@Physics.LeidenUniv.nl
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 2
   education1: Bsc, METU, 2012
   education2 : Msc, METU, 2015
@@ -44,42 +44,42 @@
 - name: Erencan Duymaz
   photo: erencan.jpg
   info: Tubitak Scholar
-  email:
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2016
 
 - name: Siamak PK
   photo: siamak.jpg
   info: Research Assistant
-  email:
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2016
 
 - name: Aysel Akgemci
   photo: aysel.jpg
   info:
-  email: verdoes@fmd.physics.leidenuniv.nl
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2016
 
 - name: Furkan Karakaya
   photo: furkank.png
   info: Research Assistant
-  email: kk.frkn@gmail.com
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2017
 
 - name: Gökhan Çakal
   photo: gokhan.jpg
   info: Research Assistant
-  email: verdoes@fmd.physics.leidenuniv.nl
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2017
 
 - name: İlker Şahin
   photo: silker.png
   info:
-  email: silker@metu.edu.tr
+  email: var string1 = "silker"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 2
   education1: Bsc, METU, 2012
   education2: Msc, METU, 2014
@@ -87,97 +87,97 @@
 - name: M. Erdem Sezgin
   photo: foto-erdem.jpg
   info: Research Assistant
-  email: erdems@metu.edu.tr
+  email: var string1 = "erdems"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2018
 
 - name: Erdi Saruhan
   photo: erdi_saruhan.png
   info: Research Assistant
-  email:
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2016
 
 - name: Özgür Yazıcı
   photo: ozguryazici.jpeg
   info: Researcher
-  email:
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2018
 
 - name: G. Hande Bayazıt
   photo: hande-3.jpg
   info: Research Assistant
-  email: verdoes@fmd.physics.leidenuniv.nl
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2018
 
 - name: Hakan Polat
   photo: hande-3.jpg
   info: Research Assistant
-  email: verdoes@fmd.physics.leidenuniv.nl
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2018
 
 - name: Ali Aydın
   photo: aliaydin.jpeg
   info: Researcher
-  email: ali.aydin@metu.edu.tr
+  email: var string1 = "ali.aydin"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Enes Ayaz
   photo: enesayaz.jpeg
   info: Undergraduate Researcher
-  email: enes.ayaz@metu.edu.tr
+  email: var string1 = "enes.ayaz"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Nail Tosun
   photo: nailtosun.jpg
   info: Undergraduate Researcher
-  email: nailtosun@metu.edu.tr
+  email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Furkan Tokgöz
   photo: furkan.jpg
   info: Undergraduate Researcher
-  email: nailtosun@metu.edu.tr
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Anıl Aydın
   photo: anilaydin.jpeg
   info: Undergraduate Researcher
-  email: nailtosun@metu.edu.tr
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Orhun Taşoğlu
   photo: htht.jpeg
   info: Undergraduate Researcher
-  email: nailtosun@metu.edu.tr
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: İsmail Ataseven
   photo: ismail_cropped.png
   info: Undergraduate Researcher
-  email: nailtosun@metu.edu.tr
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Ömer B. Demir
   photo: omerbdemir.jpeg
   info: Undergraduate Researcher
-  email: nailtosun@metu.edu.tr
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Yunus Bilge Kurt
   photo: Yunus-Bilge-Kurt.jpeg
   info: Undergraduate Researcher
-  email: nailtosun@metu.edu.tr
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
