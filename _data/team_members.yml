@@ -1,5 +1,5 @@
 - name: Dr. Ozan Keysan
-  photo: ozan_nailtosun.jpg
+  photo: ozan_keysan.jpg
   info: Assistant Professor
   email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 3
