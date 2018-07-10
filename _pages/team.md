@@ -91,7 +91,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br></i>
+  <i>{{ member.info }}</i>
 
   <script type="text/javascript">  {{ member.email | remove: '<p>' | remove: '</p>'}} </script>
 
@@ -222,7 +222,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <i>{{ member.info }}<br></i>
 
   <script type="text/javascript">  {{ member.email | remove: '<p>' | remove: '</p>'}} </script>
-  
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
