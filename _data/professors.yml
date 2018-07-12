@@ -1,6 +1,8 @@
 - name: Dr. Emine Bostancı
   photo: emine_bostanci.jpg
   info: Assistant Professor
+  ofis: C-113
+  tel: 7586
   email: emineb@metu.edu.tr
   number_educ: 3
   education1: BSc, METU, 2007
@@ -10,6 +12,8 @@
 - name: Dr. Murat Göl
   photo: murat_gol.jpg
   info: Assistant Professor
+  ofis: C-113
+  tel: 7586
   email: mgol@metu.edu.tr
   number_educ: 3
   education1: BSc, METU, 2007
@@ -19,6 +23,8 @@
 - name: Dr. Ozan Keysan
   photo: ozan_keysan.jpg
   info: Assistant Professor
+  ofis: C-113
+  tel: 7586
   email: keysan@metu.edu.tr
   number_educ: 3
   education1: BSc, METU, 2005
