@@ -27,10 +27,9 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <b>Office:</b> {{ member.ofis }}<br>
-  <b>Tel:</b> {{ member.tel }}<br>
-
   <script type="text/javascript"> {{ member.email | remove: '<p>' | remove: '</p>'}} </script>
+  <b>Tel:</b> {{ member.tel }}<br>
+  <b>Office:</b> {{ member.ofis }}<br>
 
   <ul style="overflow: hidden">
 
