@@ -1,31 +1,31 @@
-- name: Dr. Emine Bostancı
+- name: Emine Bostancı
   photo: emine_bostanci.jpg
   info: Assistant Professor
-  ofis: C-113
-  tel: 7586
-  email: emineb@metu.edu.tr
+  ofis: C-107
+  tel: 210 2363
+  email:  var string1 = "emineb"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 3
   education1: BSc, METU, 2007
   education2: MSc, RWTH Aachen, 2010
   education3: PhD, Leibniz University, Hannover, 2014
 
-- name: Dr. Murat Göl
+- name: Murat Göl
   photo: murat_gol.jpg
   info: Assistant Professor
-  ofis: C-113
-  tel: 7586
-  email: mgol@metu.edu.tr
+  ofis: E-110
+  tel: 210 4539
+  email:  var string1 = "mgol"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 3
   education1: BSc, METU, 2007
   education2: MSc, METU, 2009
   education3: PhD, Northeastern University, 2014
 
-- name: Dr. Ozan Keysan
+- name: Ozan Keysan
   photo: ozan_keysan.jpg
   info: Assistant Professor
   ofis: C-113
-  tel: 7586
-  email: keysan@metu.edu.tr
+  tel: 210 7586
+  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 3
   education1: BSc, METU, 2005
   education2: MSc, METU, 2007
