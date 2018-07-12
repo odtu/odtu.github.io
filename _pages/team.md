@@ -67,14 +67,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
+{% if even_odd != 0 %}
 </div>
 {% endif %}
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
+{% assign even_odd = number_printed | modulo: 3 %}
+{% if even_odd != 0 %}
 </div>
 {% endif %}
 
