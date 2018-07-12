@@ -24,10 +24,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="40%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <b>Office: {{ member.ofis }}<br></b>
-  <b>Tel: {{ member.tel }}<br></b>
+  <b>Office:</b> {{ member.ofis }}<br>
+  <b>Tel:</b> {{ member.tel }}<br>
 
   <script type="text/javascript"> {{ member.email | remove: '<p>' | remove: '</p>'}} </script>
 
