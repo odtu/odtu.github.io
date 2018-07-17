@@ -145,11 +145,15 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
+{% if number_printed == 13 %}
+</div>
+{% endif %}
+
 ## Undergraduate Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.undergraduate %}
-{% assign even_odd = number_printed | modulo:3  %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd == 0 %}
 <div class = "row">
 {% endif %}
