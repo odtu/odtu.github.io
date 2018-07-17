@@ -148,7 +148,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 ## Alumni
-<div class="row">
+
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
 
