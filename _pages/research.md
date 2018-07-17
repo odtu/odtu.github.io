@@ -15,12 +15,11 @@ Application form: https://goo.gl/forms/pg92Pr1cUjgH5hEl2
 Contact: ugurm@metu.edu.tr
 
 The following are the main topics studied under this project:
-<ul>
-Power electronics design and simulation 
-New generation GaN power semiconductors
-PCB design and implementation
-Embedded control software development
-Power electronics hardware development
-Permanent magnet machine design
-Thermal modelling and analysis
-</ul>
+
+* Power electronics design and simulation
+* New generation GaN power semiconductors
+* PCB design and implementation
+* Embedded control software development
+* Power electronics hardware development
+* Permanent magnet machine design
+* Thermal modelling and analysis
