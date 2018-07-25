@@ -1,0 +1,70 @@
+- title: "Armature Shape Optimization of an Electromagnetic Launcher Including Contact Resistance"
+  image: 1.jpg
+  description: In this paper, the shape of the armature of an EML with 10-MJ current pulse generator, 1000-kA peak current, and 4.5-ms excitation time is optimized by using independent variables to define the exact geometry of the armature.
+  authors: D Ceylan, MU Güdelek, O Keysan
+  link: https://ieeexplore.ieee.org/abstract/document/8393457/
+  url: https://ieeexplore.ieee.org/abstract/document/8393457/
+  display: 10.1109/TPS.2018.2845948
+  highlight: 1
+  news2: IEEE Transactions on Plasma Science
+
+
+- title: "Inter-turn Short Circuit Faults in Permanent Magnet Synchronous Machines: An Extended Review and Comprehensive Analysis"
+  image: 2.png
+  description: This paper presents an extended review and recent advances in modeling and diagnosis inter-turn short circuit (ITSC) faults in PMSM supported with in-depth fault analysis.
+  authors: M Zafarani, E Bostanci, Y Qi, T Goktas, B Akin
+  link: https://ieeexplore.ieee.org/abstract/document/8306090/
+  url: https://ieeexplore.ieee.org/abstract/document/8306090/
+  display:  10.1109/JESTPE.2018.2811538
+  highlight: 1
+  news2: IEEE Journal of Emerging and Selected Topics in Power Electronics
+
+- title: "Hydro-Optimization-Based Medium-Term Price Forecasting Considering Demand and Supply Uncertainty"
+  image: 3.jpg
+  description: "This paper proposes an electricity market model of Turkish electricity market for monthly and yearly electricity price forecasting in medium-term by means of supply and demand dynamics formed via a theoretical approach."
+  authors: E İlseven, M Göl
+  link: https://ieeexplore.ieee.org/document/8101002
+  url: https://ieeexplore.ieee.org/document/8101002
+  display:  10.1109/TPWRS.2017.2771618
+  highlight: 0
+  news2: IEEE Transactions on Power Systems, 2018
+
+- title: A new model predictive torque control strategy with reduced set of prediction vectors
+  image: 4.tftf
+  description: "Major drawback of finite control set model predictive control (FCS-MPC) is its high computational burden. This paper proposes a new optimal vector selection strategy that reduces the computational cost of FCS-MPC technique."
+  authors: İ Şahin, O Keysan
+  link: https://ieeexplore.ieee.org/document/8372531/
+  url: https://ieeexplore.ieee.org/document/8372531/
+  display: 10.1109/CPE.2018.8372531
+  highlight: 0
+  news2:  2018 IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering
+
+- title: A Decentralization Method for Hybrid State Estimators
+  image: 3.jpg
+  description: Hybrid state estimation determines the states of systems monitored both by conventional SCADA measurements and PMUs. This paper proposes a decentralization method in order to improve the computational performance of hybrid state estimators with minimum loss of accuracy
+  authors: M Göl
+  link: https://ieeexplore.ieee.org/abstract/document/7959612/
+  url: https://ieeexplore.ieee.org/abstract/document/7959612/
+  display: 10.1109/TPWRS.2017.2720626
+  highlight: 1
+  new2: IEEE Transactions on Power Systems, 2018
+
+- title: A Comprehensive Analysis of Short Circuit Current Behavior in PMSM Inter Turn Short Circuit Faults
+  image: 3.jpg
+  description: This paper presents a detailed analysis of short circuit current behavior during inter turn short circuit faults in permanent magnet synchronous machines (PMSMs) by considering the short circuit contact resistance.
+  authors: Y Qi, E Bostanci, V Gurusamy, B Akin
+  link: https://ieeexplore.ieee.org/abstract/document/7959612/
+  url: https://ieeexplore.ieee.org/abstract/document/7959612/
+  display: 10.1109/TPEL.2018.2809668
+  highlight: 1
+  new2: IEEE Transactions on Power Electronics
+
+- title: Determination of harmonic current contributions based on robust state estimation
+  image: 5.jpg
+  description: In this paper, a state estimation based method is proposed to determine harmonic current contributions of plants supplied from a point of common coupling (PCC).
+  authors: E Sezgin Ö Salor M Göl
+  link: http://journals.tubitak.gov.tr/elektrik/issues/elk-18-26-1/elk-26-1-27-1607-143.pdf
+  url: http://journals.tubitak.gov.tr/elektrik/issues/elk-18-26-1/elk-26-1-27-1607-143.pdf
+  display:
+  highlight: 1
+  new2: Turkish Journal of Electrical Engineering & Computer Sciences

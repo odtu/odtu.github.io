@@ -16,8 +16,10 @@ permalink: /publications/
 [Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao),
 [Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao)
 
+### 2018
+
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in site.data.publist2018 %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}

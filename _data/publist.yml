@@ -1,5 +1,5 @@
 - title: "Armature Shape Optimization of an Electromagnetic Launcher Including Contact Resistance"
-  image:
+  image: 1.jpg
   description: In this paper, the shape of the armature of an EML with 10-MJ current pulse generator, 1000-kA peak current, and 4.5-ms excitation time is optimized by using independent variables to define the exact geometry of the armature.
   authors: D Ceylan, MU Güdelek, O Keysan
   link:
@@ -10,13 +10,13 @@
 
 - title: "Inter-turn Short Circuit Faults in Permanent Magnet Synchronous Machines: An Extended Review and Comprehensive Analysis"
   image:
-  description: We introduce a platform for bringing new, device-based functionality to STM, with the goal of utilizing decades of progress in device engineering for the field of scanning probe.
-  authors: M Leeuwenhoek,  RA Norte, KM Bastiaans, Doohee Cho, I Battisti, YaM Blanter, S Gröblacher, MP Allan
+  description: This paper presents an extended review and recent advances in modeling and diagnosis inter-turn short circuit (ITSC) faults in PMSM supported with in-depth fault analysis.
+  authors: M Zafarani, E Bostanci, Y Qi, T Goktas, B Akin
   link:
     url: https://arxiv.org/abs/1712.08620
-    display:  arxiv:1712.08620 (2017)
+    display:  02 March 2018
   highlight: 1
-  news2:
+  news2: IEEE Journal of Emerging and Selected Topics in Power Electronics
 
 - title: "Hydro-Optimization-Based Medium-Term Price Forecasting Considering Demand and Supply Uncertainty"
   image:
