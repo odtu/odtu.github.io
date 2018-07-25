@@ -86,7 +86,7 @@
   education1: Bsc, METU, 2018
 
 - name: Hakan Polat
-  photo: hande-3.jpg
+  photo: hakanp.jpeg
   info: Research Assistant
   email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
