@@ -1,0 +1,70 @@
+- title: "Effect of Conducting Containment on Electromagnetic Launcher Efficiency"
+  image: 7.png
+  description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
+  authors: D. Ceylan, O. Keysan
+  link: https://ieeexplore.ieee.org/abstract/document/8090733/
+  url: https://ieeexplore.ieee.org/abstract/document/8090733/
+  display: 10.1109/ISEF.2017.8090733
+  highlight: 1
+  news2: 18th International Symposium on Electromagnetic Fields in Mechatronics, Electrical and Electronic Engineering 2017
+
+
+- title: "DC link capacitor optimization for integrated modular motor drives"
+  image: 8.png
+  description: In this paper, selection of optimum DC link capacitor for Integrated Modular Motor Drives (IMMD) is presented
+  authors: M. Uğur, O. Keysan
+  link: https://ieeexplore.ieee.org/abstract/document/8001258/
+  url: https://ieeexplore.ieee.org/abstract/document/8001258/
+  display: 10.1109/ISIE.2017.8001258
+  highlight: 1
+  news2:  2017 IEEE 26th International Symposium on Industrial Electronics (ISIE)
+
+- title: "Armature shape optimization of an electromagnetic launcher using genetic algorithm"
+  image: 9.png
+  description: "In this study, the shape of the armature is optimized by using independent variables to define the exact geometry of the armature. The main goal is to maximize the muzzle kinetic energy of the projectile."
+  authors: D Ceylan, M.U. Güdelek, O. Keysan
+  link: https://ieeexplore.ieee.org/document/8291202/
+  url: https://ieeexplore.ieee.org/document/8291202/
+  display:  10.1109/PPC.2017.8291202
+  highlight: 1
+  news2: 2017 IEEE 21st International Conference on Pulsed Power (PPC)
+
+- title: Opportunities and Challenges of Switched Reluctance Motor Drives for Electric Propulsion: A Comparative Study
+  image: 10.jfif
+  description: In this paper, a new comprehensive review of electric machines (EMs) that includes various new switched reluctance machine topologies in addition to conventional EMs such as PMSM, induction machine, synchronous reluctance machine (SynRel), and PM-assisted SynRel is presented.
+  authors: E Bostanci, M Moallem, A Parsapour, B Fahimi
+  link: https://ieeexplore.ieee.org/document/7809178/
+  url: https://ieeexplore.ieee.org/document/7809178/
+  display: 10.1109/TTE.2017.2649883
+  highlight: 1
+  new2: IEEE Transactions on Transportation Electrification
+
+- title: Comparison of winding configurations in double-stator switched reluctance machines
+  image: 11.png
+  description: The double-stator configuration of the switched reluctance machine (SRM) aims to maximise the energy conversion efficiency by optimising the ratio of motional force to the total magnetic force. Maintaining the attractive features of SRM, the double-stator switched reluctance machine (DSSRM) proves to have higher torque/power density than the conventional SRM, which is a crucial feature for traction applications.
+  authors: Y Qi, E Bostanci, V Gurusamy, B Akin
+  link: http://digital-library.theiet.org/content/journals/10.1049/iet-epa.2016.0802
+  url: http://digital-library.theiet.org/content/journals/10.1049/iet-epa.2016.0802
+  display:
+  highlight: 1
+  new2: IET Electric Power Applications
+
+- title: On the proximity effects of high-energy magnets on M-19 magnetic steel core
+  image: 12.png
+  description: This paper focusses on the effects of these high-energy magnets on the magnetic properties of M-19 steel core. It is observed that the relative permeability of the M-19 steel decreases when it is kept in contact with three sintered Neodymium (NdFeB), grade N45 permanent magnets …
+  authors:
+  link: https://ieeexplore.ieee.org/document/8002317/
+  url: https://ieeexplore.ieee.org/document/8002317/
+  display: 10.1109/IEMDC.2017.8002317
+  highlight: 1
+  new2: 2017 IEEE International Electric Machines and Drives Conference (IEMDC)
+
+- title: Optimal design of synchronous reluctance machines
+  image: 12.jfif
+  description: This paper proposes a new design approach applied to optimal design of synchronous reluctance machines. The proposed technique removes all the conventional constraints posed by traditional designs of classic magnetic configurations and only keeps a minimum airgap length and shaft diameter as the boundary conditions.
+  authors: M Kiani, E Bostanci, B Fahimi
+  link: https://ieeexplore.ieee.org/document/8216638/
+  url: https://ieeexplore.ieee.org/document/8216638/
+  display: 10.1109/IECON.2017.8216638
+  highlight: 1
+  new2: IECON 2017 - 43rd Annual Conference of the IEEE Industrial Electronics Society
