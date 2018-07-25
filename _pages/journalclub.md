@@ -7,12 +7,15 @@ permalink: /journalclub/
 ---
 
 # Journal Club
+Journal Club is a discussion section in which the up-to-date topics are covered. Each week a trending topic is chosen and related papers are uploaded to PowerLab folder in Mendeley. The only criteria to join this session is reading the chosen papers and keen on to discuss.
+
+
 ## 2018
 ### 23/07/2018 Subject : Thermal Design of Motor Drives (at 16:00 C-114)
-* [**Thermal Design of Motor Drives for High Power Density and Long Life in Harsh Environments**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7104717/)
+* **[Thermal Design of Motor Drives for High Power Density and Long Life in Harsh Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7104717/)**
+
 ### 16/07/2018 Subject : Integrated Electric Drive Concepts for Automotive Traction Applications (at 16:00 C-114)
-- [**Evaluation of Modular Integrated Electric Drive Concepts for Automotive Traction Applications. IEEE Transactions on Transportation Electrification**](https://www.diva-portal.org/smash/get/diva2:1098046/FULLTEXT01.pdf/)
--
+* **[Evaluation of Modular Integrated Electric Drive Concepts for Automotive Traction Applications. IEEE Transactions on Transportation Electrification](https://www.diva-portal.org/smash/get/diva2:1098046/FULLTEXT01.pdf/)**
 
 
 ## 2017
