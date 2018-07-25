@@ -8,6 +8,15 @@
   highlight: 1
   news2: 18th International Symposium on Electromagnetic Fields in Mechatronics, Electrical and Electronic Engineering 2017
 
+- title: "Voltage variation model for DC catenary line of a subway system"
+  image: 17.jpg
+  description:  In this paper a DC catenary voltage model is proposed for a multi substation subway system. The proposed method is capable of simulating dynamic behavior of the train during different modes of operation.
+  authors: E. Sezgin, M. Göl
+  link: https://ieeexplore.ieee.org/document/7980898/
+  url: https://ieeexplore.ieee.org/document/7980898/
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: PowerTech, 2017 IEEE Manchester
 
 - title: "DC link capacitor optimization for integrated modular motor drives"
   image: 8.png
@@ -19,6 +28,16 @@
   highlight: 1
   news2: 2017 IEEE 26th International Symposium on Industrial Electronics (ISIE)
 
+- title: "Medium-term electricity demand forecasting based on MARS"
+  image: 15.jfif
+  description: The paper proposes use of multivariate adaptive regression splines (MARS) method to perform monthly electricity demand forecasting for medium-term. The model is developed based on specific example of Turkey; however is applicable to any other system.
+  authors: E. İlseven, M. Göl
+  link: https://ieeexplore.ieee.org/abstract/document/8260124/
+  url: https://ieeexplore.ieee.org/abstract/document/8260124/
+  display: 10.1109/ISGTEurope.2017.8260124
+  highlight: 1
+  news2: Innovative Smart Grid Technologies Conference Europe (ISGT-Europe), 2017 IEEE PES
+
 - title: "Armature shape optimization of an electromagnetic launcher using genetic algorithm"
   image: 9.PNG
   description: "In this study, the shape of the armature is optimized by using independent variables to define the exact geometry of the armature. The main goal is to maximize the muzzle kinetic energy of the projectile."
@@ -29,15 +48,16 @@
   highlight: 1
   news2: 2017 IEEE 21st International Conference on Pulsed Power (PPC)
 
-- title: Opportunities and Challenges of Switched Reluctance Motor Drives for Electric Propulsion,s A Comparative Study
-  image: 10.jfif
-  description: In this paper, a new comprehensive review of electric machines (EMs) that includes various new switched reluctance machine topologies in addition to conventional EMs such as PMSM, induction machine, synchronous reluctance machine (SynRel), and PM-assisted SynRel is presented.
-  authors: E Bostanci, M Moallem, A Parsapour, B Fahimi
-  link: https://ieeexplore.ieee.org/document/7809178/
-  url: https://ieeexplore.ieee.org/document/7809178/
-  display: 10.1109/TTE.2017.2649883
+
+- title: "Robust local parameter estimator based on least absolute value estimator"
+  image: 5.jpg
+  description:  This work proposes a local parameter estimator based on the least absolute value (LAV) estimator, which is known to be robust against bad measurements, ie measurements with gross error.
+  authors: V. Özdemir, M. Göl
+  link: http://journals.tubitak.gov.tr/elektrik/abstract.htm?id=21030
+  url: http://journals.tubitak.gov.tr/elektrik/abstract.htm?id=21030
+  display:
   highlight: 1
-  new2: IEEE Transactions on Transportation Electrification
+  new2: Turkish Journal of Electrical Engineering & Computer Sciences
 
 - title: Comparison of winding configurations in double-stator switched reluctance machines
   image: 11.png
@@ -49,6 +69,16 @@
   highlight: 1
   new2: IET Electric Power Applications
 
+-title: Identification of bad solar power generation data
+  image: 18.png
+  description: In this paper, a novel method has been presented for the bad data identification of the data recovery process from a solar power measurement data set. Due to failures in solar power measurement logging devices.
+  authors: E. Duymaz, D. Şengül, M. Göl
+  link: https://ieeexplore.ieee.org/document/7960590/
+  url: https://ieeexplore.ieee.org/document/7960590/
+  display: 10.1109/SIU.2017.7960590
+  highlight: 1
+  new2: Signal Processing and Communications Applications Conference (SIU), 2017 25th
+
 - title: On the proximity effects of high-energy magnets on M-19 magnetic steel core
   image: 12.png
   description: This paper focusses on the effects of these high-energy magnets on the magnetic properties of M-19 steel core. It is observed that the relative permeability of the M-19 steel decreases when it is kept in contact with three sintered Neodymium (NdFeB), grade N45 permanent magnets …
@@ -58,6 +88,16 @@
   display: 10.1109/IEMDC.2017.8002317
   highlight: 1
   new2: 2017 IEEE International Electric Machines and Drives Conference (IEMDC)
+
+- title: "Robust local parameter estimator based on least absolute value estimator"
+  image: 5.jpg
+  description:  This work proposes a local parameter estimator based on the least absolute value (LAV) estimator, which is known to be robust against bad measurements, ie measurements with gross error.
+  authors: V. Özdemir, M. Göl
+  link: http://journals.tubitak.gov.tr/elektrik/abstract.htm?id=21030
+  url: http://journals.tubitak.gov.tr/elektrik/abstract.htm?id=21030
+  display:
+  highlight: 1
+  new2: Turkish Journal of Electrical Engineering & Computer Sciences
 
 - title: Optimal design of synchronous reluctance machines
   image: 12.jfif
