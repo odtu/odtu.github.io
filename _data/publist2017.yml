@@ -69,12 +69,12 @@
   highlight: 1
   new2: IET Electric Power Applications
 
--title: Identification of bad solar power generation data
-  image: 18.png
+- title: Identification of bad solar power generation data
+  image: 11.png
   description: In this paper, a novel method has been presented for the bad data identification of the data recovery process from a solar power measurement data set. Due to failures in solar power measurement logging devices.
   authors: E. Duymaz, D. Şengül, M. Göl
   link: https://ieeexplore.ieee.org/document/7960590/
-  url: https://ieeexplore.ieee.org/document/7960590/
+  url: http://digital-library.theiet.org/content/jour
   display: 10.1109/SIU.2017.7960590
   highlight: 1
   new2: Signal Processing and Communications Applications Conference (SIU), 2017 25th
