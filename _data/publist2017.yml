@@ -48,7 +48,6 @@
   highlight: 1
   news2: 2017 IEEE 21st International Conference on Pulsed Power (PPC)
 
-
 - title: "Robust local parameter estimator based on least absolute value estimator"
   image: 5.jpg
   description:  This work proposes a local parameter estimator based on the least absolute value (LAV) estimator, which is known to be robust against bad measurements, ie measurements with gross error.
@@ -70,7 +69,7 @@
   new2: IET Electric Power Applications
 
 - title: Identification of bad solar power generation data
-  image: 11.png
+  image: 18.png
   description: In this paper, a novel method has been presented for the bad data identification of the data recovery process from a solar power measurement data set. Due to failures in solar power measurement logging devices.
   authors: E. Duymaz, D. Şengül, M. Göl
   link: https://ieeexplore.ieee.org/document/7960590/
