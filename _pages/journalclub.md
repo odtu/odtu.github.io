@@ -8,21 +8,21 @@ permalink: /journalclub/
 
 # Journal Club
 ## 2018
-### ****23/07/2018 Subject :**  Thermal Design of Motor Drives (at 16:00 C-114)**
+### ** 23/07/2018 Subject :**  Thermal Design of Motor Drives (at 16:00 C-114)**
 * [**Thermal Design of Motor Drives for High Power Density and Long Life in Harsh Environments**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7104717/)
-### ****16/07/2018 Subject :**  Integrated Electric Drive Concepts for Automotive Traction Applications (at 16:00 C-114)**
+### ** 16/07/2018 Subject :**  Integrated Electric Drive Concepts for Automotive Traction Applications (at 16:00 C-114)**
 - [**Evaluation of Modular Integrated Electric Drive Concepts for Automotive Traction Applications. IEEE Transactions on Transportation Electrification**](https://www.diva-portal.org/smash/get/diva2:1098046/FULLTEXT01.pdf/)
 -
 
 
 ## 2017
 
-### ****14/03/2017 Subject :**  Wind Turbine Power Electronics (at 15:40 Ayaslı)**
+### ** 14/03/2017 Subject :**  Wind Turbine Power Electronics (at 15:40 Ayaslı) **
 -   [**Future on Power Electronics for Wind Turbine Systems**](http://ieeexplore.ieee.org/abstract/document/6573352/)
 -   [**A review of offshore wind turbine nacelle: Technical challenges, and research and developmental trends**](http://www.sciencedirect.com/science/article/pii/S1364032114001087)
 -   [**Long-term research challenges in wind energy –a research agenda by the European Academy of Wind Energy**](https://drive.google.com/open?id=0B9yY-MQMXmKGS2dZR2stMGZROXM)
 
-### ****07/03/2017 Subject :**  Wind Turbine Generators (at 15:40 Ayaslı)**
+### ** 07/03/2017 Subject :**  Wind Turbine Generators (at 15:40 Ayaslı) **
 -   [**Trends in Wind Turbine Generator Systems**](http://ieeexplore.ieee.org/abstract/document/6588570/)
 -   [**The state of the art of wind energy conversion systems and technologies: A review**](http://www.sciencedirect.com/science/article/pii/S0196890414007614)
 
