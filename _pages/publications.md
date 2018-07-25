@@ -11,7 +11,10 @@ permalink: /publications/
 
 ## Highlights
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+(For a full list see [below](#full-list) or go to Google Scholar
+[Ozan Keysan](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao),
+[Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao),
+[Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
