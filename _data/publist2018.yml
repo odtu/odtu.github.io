@@ -26,17 +26,17 @@
   link: https://ieeexplore.ieee.org/document/8101002
   url: https://ieeexplore.ieee.org/document/8101002
   display:  10.1109/TPWRS.2017.2771618
-  highlight: 0
+  highlight: 1
   news2: IEEE Transactions on Power Systems, 2018
 
 - title: A new model predictive torque control strategy with reduced set of prediction vectors
-  image: 4.tftf
+  image: 4.jfif
   description: "Major drawback of finite control set model predictive control (FCS-MPC) is its high computational burden. This paper proposes a new optimal vector selection strategy that reduces the computational cost of FCS-MPC technique."
   authors: İ Şahin, O Keysan
   link: https://ieeexplore.ieee.org/document/8372531/
   url: https://ieeexplore.ieee.org/document/8372531/
   display: 10.1109/CPE.2018.8372531
-  highlight: 0
+  highlight: 1
   news2:  2018 IEEE 12th International Conference on Compatibility, Power Electronics and Power Engineering
 
 - title: A Decentralization Method for Hybrid State Estimators
