@@ -17,7 +17,7 @@
   url: https://ieeexplore.ieee.org/abstract/document/8001258/
   display: 10.1109/ISIE.2017.8001258
   highlight: 1
-  news2:  2017 IEEE 26th International Symposium on Industrial Electronics (ISIE)
+  news2: 2017 IEEE 26th International Symposium on Industrial Electronics (ISIE)
 
 - title: "Armature shape optimization of an electromagnetic launcher using genetic algorithm"
   image: 9.png
@@ -29,7 +29,7 @@
   highlight: 1
   news2: 2017 IEEE 21st International Conference on Pulsed Power (PPC)
 
-- title: Opportunities and Challenges of Switched Reluctance Motor Drives for Electric Propulsion: A Comparative Study
+- title: Opportunities and Challenges of Switched Reluctance Motor Drives for Electric Propulsion, A Comparative Study
   image: 10.jfif
   description: In this paper, a new comprehensive review of electric machines (EMs) that includes various new switched reluctance machine topologies in addition to conventional EMs such as PMSM, induction machine, synchronous reluctance machine (SynRel), and PM-assisted SynRel is presented.
   authors: E Bostanci, M Moallem, A Parsapour, B Fahimi
