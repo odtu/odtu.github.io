@@ -1,9 +1,9 @@
 ---
-title: "Powerlab - Vacancies"
+title: "Powerlab - Projects"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /vacancies
+permalink: /projects
 ---
 
 # Open positions
