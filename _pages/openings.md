@@ -1,29 +1,61 @@
 ---
 title: "Powerlab - Projects"
-layout: textlay
-excerpt: "Openings"
+layout: gridlay
+excerpt: "Powerlab -- Projects."
 sitemap: false
-permalink: /projects
+permalink: /projects/
 ---
 
-# Open positions
 
-We are always looking for new group members with passion, talent, and grit!
+# Projects
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
-
-#### PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line.
-
-There are some postdoc scholarship available.  I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](http://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/veni/index.html) or the [Marie Curie fellowship](http://ec.europa.eu/research/mariecurieactions/about-msca/actions/if/index_en.htm).
-
-#### Leiden University master students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-#### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades or a personal recomendation).
+## On-going Projects
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
+{% assign number_printed = 0 %}
+{% for publi in site.data.ongoingprojects %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if publi.highlight == 1 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+ <div class="well">
+  <pubtit>{{ publi.title }}</pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <p>{{ publi.description }}</p>
+  <p><em>{{ publi.authors }}</em></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
+  <p> {{ publi.news2 }}</p>
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endif %}
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<p> &nbsp; </p>
+
+
+## Achieved Projects
+
+{% for publi in site.data.publist %}
+
+  {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+{% endfor %}
