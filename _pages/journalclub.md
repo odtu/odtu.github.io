@@ -12,10 +12,10 @@ Journal Club is a discussion section in which the up-to-date topics are covered.
 
 ## 2018
 ### 06/08/2018 Subject : GaN Power Devices and GaN-Based Converter Design Challenges (at 16:40 C-114)
- * **[Review of Commercial GaN Power Devices and GaN-Based Converter Design Challanges]**(https://ieeexplore.ieee.org/document/7496807/)
+ * **[Review of Commercial GaN Power Devices and GaN-Based Converter Design Challanges](https://ieeexplore.ieee.org/document/7496807/)**
 
 ### 30/07/2018 Subject : Fractional-slot winding configurations of synchronous machines (at 16:40 C-114)
-* **[Design considerations for fractional-slot winding configurations of synchronous machines]**(https://ieeexplore.ieee.org/document/1658329/)
+* **[Design considerations for fractional-slot winding configurations of synchronous machines](https://ieeexplore.ieee.org/document/1658329/)**
 
 ### 23/07/2018 Subject : Thermal Design of Motor Drives (at 16:00 C-114)
 * **[Thermal Design of Motor Drives for High Power Density and Long Life in Harsh Environments](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7104717/)**
