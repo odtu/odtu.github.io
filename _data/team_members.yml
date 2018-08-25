@@ -1,5 +1,6 @@
 - name: Doğa Ceylan
   photo: doga.jpg
+  ofis: C-114
   info: Researcher
   email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 2
@@ -8,6 +9,7 @@
 
 - name: Mesut Uğur
   photo: reisicumhur.jpg
+  ofis: ARC-300
   info: Research Assistant
   email: var string1 = "mugur"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 2
@@ -16,6 +18,7 @@
 
 - name: Erencan Duymaz
   photo: erencan.jpg
+  ofis: C-114
   info: Tubitak Scholar
   email: var string1 = "erencan.duymaz"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
@@ -23,6 +26,7 @@
 
 - name: Siamak PK
   photo: siamak.jpg
+  ofis: C-114
   info: Research Assistant
   email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
@@ -30,6 +34,7 @@
 
 - name: Aysel Akgemci
   photo: aysel.jpg
+  ofis: C-114
   info: Research Assistant
   email: var string1 = "akgemci.aysel"; var string2 = "@"; var string3 = "gmail.com"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
@@ -37,6 +42,7 @@
 
 - name: Furkan Karakaya
   photo: furkank.png
+  ofis: ARC-300
   info: Research Assistant
   email: var string1 = "kk.frkn"; var string2 = "@"; var string3 = "gmail.com"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
@@ -44,6 +50,7 @@
 
 - name: Gökhan Çakal
   photo: gokhan.jpg
+  ofis: ARC-300
   info: Research Assistant
   email: var string1 = "gcakal"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
@@ -51,6 +58,7 @@
 
 - name: İlker Şahin
   photo: silker.png
+  ofis: C-114
   info: Research Assistant
   email: var string1 = "silker"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 2
@@ -59,6 +67,7 @@
 
 - name: M. Erdem Sezgin
   photo: foto-erdem.jpg
+  ofis: E-101
   info: Research Assistant
   email: var string1 = "erdems"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
@@ -66,6 +75,7 @@
 
 - name: Erdi Saruhan
   photo: erdi_saruhan.png
+  ofis: E-101
   info: Research Assistant
   email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
@@ -80,6 +90,7 @@
 
 - name: G. Hande Bayazıt
   photo: hande-3.jpg
+  ofis: C-114
   info: Research Assistant
   email: var string1 = "handebayazit"; var string2 = "@"; var string3 = "gmail.com"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
@@ -87,7 +98,14 @@
 
 - name: Hakan Polat
   photo: hakanp.jpeg
+  ofis: C-114
   info: Research Assistant
   email: var string1 = "polat94hakan"; var string2 = "@"; var string3 = "gmail.com"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2018
+
+- name: Tuna Yıldız
+  photo: tuna.jpg
+  ofis: E-101
+  info: Research Assistant
+  email: var string1 = "tuna.yildiz"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
