@@ -220,7 +220,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br></i>
 
   <script type="text/javascript">  {{ member.email | remove: '<p>' | remove: '</p>'}} </script>
 
