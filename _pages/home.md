@@ -60,6 +60,3 @@ Power Lab seeks for motivated graduate and undergraduate students that would lik
   </a>
 </div>
  **We are  looking for passionate new PhD students, Postdocs, Master and Undergraduate students to join the team**
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
