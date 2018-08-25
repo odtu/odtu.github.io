@@ -221,7 +221,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="35%" style="float: left" />
   <h4>{{ member.name }}</h4>
 
-  <script type="text/javascript">  {{ member.email | remove: '<p>' | remove: '</p>'}} </script>
+  <p>  {{ member.email | remove: '<p>' | remove: '</p>'}} </p>
 
   <ul style="overflow: hidden">
 
