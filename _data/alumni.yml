@@ -1,7 +1,7 @@
 - name: Mert Bildirici
   photo: mert_bildirici.jpg
   info: Senior Researcher, TUBITAK MAM
-  email: [Linkedin](https://www.linkedin.com/in/mertbildirici/)
+  email:
   number_educ: 2
   education1: Bsc, METU, 2013
   education2 : Msc, METU, 2018
@@ -9,7 +9,7 @@
 - name: Aydın Başkaya
   photo: aydin_baskaya.jpg
   info: Researcher, TUBITAK
-  email: [Linkedin](linkedin.com/in/aydinbaskaya)
+  email:
   number_educ: 2
   education1: Bsc, Gazi University, 2014
   education2 : Msc, METU, 2018
@@ -17,7 +17,7 @@
 - name: Reza Zeinali
   photo: reza.png
   info: Research Assistant
-  email: [Linkedin](https://www.linkedin.com/in/reza-zeinali-2ab62462/)
+  email: 
   number_educ: 1
   education1: Bsc, Tehran Polytechnic, 2012
 
