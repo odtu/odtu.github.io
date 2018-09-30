@@ -2,7 +2,7 @@
   photo: doga.jpg
   ofis: C-114
   info: Researcher
-  email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  email: var string1 = "doga.ceylan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 2
   education1: Bsc, METU, 2016
   education2: Msc, METU, 2018
@@ -77,14 +77,14 @@
   photo: erdi_saruhan.png
   ofis: E-101
   info: Research Assistant
-  email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  email: var string1 = "erdi.saruhan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2016
 
 - name: Özgür Yazıcı
   photo: ozguryazici.jpeg
   info: Researcher
-  email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  email: var string1 = "ozguryazici.ee"; var string2 = "@"; var string3 = "gmail.com"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Bsc, METU, 2018
 
