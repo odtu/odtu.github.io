@@ -205,9 +205,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 2 %}
 </div>
 {% endif %}
+</div>
+
 
 ## Alumni
- <ul>
+
+<ul>
 {% for member in site.data.alumni %}
 
 <li> {{ member.name }}</li>
