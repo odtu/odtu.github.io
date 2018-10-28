@@ -1,48 +1,47 @@
 - name: Ali Aydın
   photo: aliaydin.jpeg
   info: Researcher
-  email: var string1 = "ali.aydin"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Enes Ayaz
   photo: enesayaz.jpeg
   info: Undergraduate Researcher
-  email: var string1 = "enes.ayaz"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Nail Tosun
   photo: nailtosun.jpg
   info: Undergraduate Researcher
-  email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Furkan Tokgöz
   photo: furkan.jpg
   info: Undergraduate Researcher
-  email: var string1 = "tokgozfurkan"; var string2 = "@"; var string3 = "gmail.com"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Orhun Taşoğlu
   photo: htht.jpeg
   info: Undergraduate Researcher
-  email: var string1 = "orhuntasoglu"; var string2 = "@"; var string3 = "gmail.com"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: İsmail Ataseven
   photo: ismail_cropped.png
   info: Undergraduate Researcher
-  email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
 
 - name: Yunus Bilge Kurt
   photo: Yunus-Bilge-Kurt.jpeg
   info: Undergraduate Researcher
-  email: var string1 = "nailtosun"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  number_educ: 1
+  education1: Undergraduate, METU, 2019(Expected)
+
+- name: Batuhan Bülbül
+  photo: batuhan.png
+  info: Undergraduate Researcher
   number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
