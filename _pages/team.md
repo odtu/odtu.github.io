@@ -208,12 +208,12 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 
-## Alumni
+## Alumni of PowerLab
 
 <ul>
 {% for member in site.data.alumni %}
 
-<li> {{ member.name }}</li>
+<li> {{ member.name }}, {{ member.education }}, {{ member.info }}</li>
 
 {% endfor %}
 </ul> 
