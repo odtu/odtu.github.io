@@ -214,7 +214,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 {% for member in site.data.alumni %}
 
-<li> {{ member.name }} <p style="padding-right: 5px;"> {{ member.education }} </p>  , {{ member.info }}</li>
+<li> {{ member.name }}: &emsp; {{ member.education }}, &emsp;  {{ member.info }}</li>
 
 {% endfor %}
 </ul> 
