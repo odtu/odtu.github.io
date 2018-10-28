@@ -210,10 +210,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Alumni of PowerLab
 
-
+<ul> 
 {% for member in site.data.alumni %}
-
-<div class = "row">
 
 <li> {{ member.name }} <p style="padding-right: 5px;">{{ member.education }}</p>  , {{ member.info }}</li>
 
