@@ -209,11 +209,11 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Alumni of PowerLab
 
-<ul> 
+<ul>
 
 {% for member in site.data.alumni %}
 
 <li> {{ member.name }}: &emsp; {{ member.education }}, &emsp;  {{ member.info }}</li>
 
 {% endfor %}
-</ul> 
+</ul>
