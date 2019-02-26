@@ -26,7 +26,7 @@
   photo: htht.jpeg
   info: Undergraduate Researcher
   number_educ: 1
-  education1: Undergraduate, METU, 2019(Expected)
+  education1: Undergraduate, METU, 2020(Expected)
 
 - name: İsmail Ataseven
   photo: ismail_cropped.png
@@ -38,4 +38,16 @@
   photo: Yunus-Bilge-Kurt.jpeg
   info: Undergraduate Researcher
   number_educ: 1
+  education1: Undergraduate, METU, 2021(Expected)
+
+- name: Etki AÇILAN
+  photo: etki_acilan.jpg
+  info: Undergraduate Researcher
+  number_educ: 1
   education1: Undergraduate, METU, 2019(Expected)
+
+- name: Yunus Bilge Kurt
+  photo: Yunus-Bilge-Kurt.jpeg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2021(Expected)

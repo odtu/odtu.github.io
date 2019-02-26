@@ -7,29 +7,15 @@
   education2: MSc, METU, 2018
 
 - name: Mesut Uğur
-  photo: reisicumhur.jpg
+  photo: mesutugur.jpg
   ofis: ARC-300
   info: Research Assistant
   number_educ: 2
   education1: BSc, METU, 2012
   education2 : MSc, METU, 2015
 
-- name: Erencan Duymaz
-  photo: erencan.jpg
-  ofis: C-114
-  info: Tubitak Scholar
-  number_educ: 1
-  education1: BSc, METU, 2016
-
 - name: Siamak PK
   photo: siamak.jpg
-  ofis: C-114
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2016
-
-- name: Aysel Akgemci
-  photo: aysel.jpg
   ofis: C-114
   info: Research Assistant
   number_educ: 1
@@ -96,3 +82,10 @@
   photo: tuna.jpg
   ofis: E-101
   info: Research Assistant
+  education1: BSc, METU, 2018
+
+- name: Uğur Can Yılmaz
+  photo: ugur_can_yilmaz.jpg
+  ofis: E-101
+  info: Research Assistants
+  education1: BSc, METU, 2018
