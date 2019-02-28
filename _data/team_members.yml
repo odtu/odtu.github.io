@@ -47,8 +47,9 @@
   photo: foto-erdem.jpg
   ofis: E-101
   info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2018
+  number_educ: 2
+  education1: BSc, METU, 2015
+  education2: MSc, METU, 2018
 
 - name: Erdi Saruhan
   photo: erdi_saruhan.png
@@ -82,10 +83,12 @@
   photo: tuna.jpg
   ofis: E-101
   info: Research Assistant
+  number_educ: 1
   education1: BSc, METU, 2018
 
 - name: Uğur Can Yılmaz
   photo: ugur_can_yilmaz.jpg
   ofis: E-101
   info: Research Assistants
+  number_educ: 1
   education1: BSc, METU, 2018
