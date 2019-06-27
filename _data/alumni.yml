@@ -1,5 +1,9 @@
+- name: Doğa Ceylan
+  info: PhD Canditate in Univ. of Eindhoven
+  education: BSc 2018
+
 - name: Melisa Sarıcı
-  info: PhD Canditatein DTU
+  info: PhD Canditate in DTU
   education: BSc 2018
 
 - name: Mert Karaçelebi
@@ -7,11 +11,11 @@
   education: BSc 2018
 
 - name: Aysel Akgemci
-  info: Aselsan
+  info: Roketsan
   education: BSc 2016, MSc 2018
 
 - name: Erencan Duymaz
-  info: Aselsan
+  info: Aselsan UGES
   education: BSc 2016, MSc 2018
 
 - name: Caner Yağcı

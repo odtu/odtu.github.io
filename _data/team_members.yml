@@ -1,32 +1,9 @@
-- name: Doğa Ceylan
-  photo: doga.jpg
-  ofis: C-114
-  info: Researcher
-  number_educ: 2
-  education1: BSc, METU, 2016
-  education2: MSc, METU, 2018
-
-- name: Mesut Uğur
-  photo: mesutugur.jpg
-  ofis: ARC-300
-  info: Research Assistant
-  number_educ: 2
-  education1: BSc, METU, 2012
-  education2 : MSc, METU, 2015
-
-- name: Siamak PK
-  photo: siamak.jpg
+- name: G. Hande Bayazıt
+  photo: hande-3.jpg
   ofis: C-114
   info: Research Assistant
   number_educ: 1
-  education1: BSc, METU, 2016
-
-- name: Furkan Karakaya
-  photo: furkank.png
-  ofis: ARC-300
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2017
+  education1: BSc, METU, 2018
 
 - name: Gökhan Çakal
   photo: gokhan.jpg
@@ -35,13 +12,39 @@
   number_educ: 1
   education1: BSc, METU, 2017
 
-- name: İlker Şahin
-  photo: silker.png
+- name: Furkan Karakaya
+  photo: furkank.png
+  ofis: ARC-300
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2017
+
+- name: Serhat Özküçük
+  photo: serhat.jpg
+  ofis: C-106
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, Dokuz Eylül U., 2015
+  education2: MSc, Bursa Technical U., 2019
+
+- name: Hakan Polat
+  photo: hakanp.jpeg
   ofis: C-114
   info: Research Assistant
-  number_educ: 2
-  education1: BSc, METU, 2012
-  education2: MSc, METU, 2014
+  number_educ: 1
+  education1: BSc, METU, 2018
+
+- name: Soheil Pouraltafi
+  photo: soheil.jpeg
+  ofis: E-101
+  info: Research Assistants
+
+- name: Siamak PK
+  photo: siamak.jpg
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 1
+  education1: MSc, METU, 2019
 
 - name: M. Erdem Sezgin
   photo: foto-erdem.jpg
@@ -58,24 +61,26 @@
   number_educ: 1
   education1: BSc, METU, 2016
 
+- name: İlker Şahin
+  photo: silker.png
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 2
+  education1: BSc, METU, 2012
+  education2: MSc, METU, 2014
+
+- name: Mesut Uğur
+  photo: mesutugur.jpg
+  ofis: ARC-300
+  info: Research Assistant
+  number_educ: 2
+  education1: BSc, METU, 2012
+  education2 : MSc, METU, 2015
+
 - name: Özgür Yazıcı
   photo: ozguryazici.jpeg
   ofis: C-114
   info: Researcher
-  number_educ: 1
-  education1: BSc, METU, 2018
-
-- name: G. Hande Bayazıt
-  photo: hande-3.jpg
-  ofis: C-114
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2018
-
-- name: Hakan Polat
-  photo: hakanp.jpeg
-  ofis: C-114
-  info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2018
 
@@ -93,9 +98,6 @@
   number_educ: 1
   education1: BSc, METU, 2018
 
-- name: Soheil Pouraltafi
-  photo: soheil.jpeg
-  ofis: E-101
-  info: Research Assistants
+
   number_educ: 1
   education1: BSc, University of Tabriz, 2018
