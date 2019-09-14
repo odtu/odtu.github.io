@@ -29,6 +29,14 @@
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
   news2: TUBITAK 1003
+  
+- title: "Metro Ve Hafif Rayli Ulaşim Araçlari İçin Yeni Nesil Cer Çevirgeci Sistemi Geliştirilmesi Projesi"
+  image: tübitak-logo.png
+  description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
+  authors: M. Göl
+  display: 10.1109/ISEF.2017.8090733
+  highlight: 1
+  news2: TEYDEP 1505
 
 - title: "Development of an Optimum PMU Placement Method with respect to a Pre – Determined Redundancy Index Considering Installed Power Flow Measurements"
   image: tubitak-3501.jpg
@@ -37,6 +45,14 @@
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
   news2: TUBITAK 3501
+  
+- title: "Investigating Effects of MILGES Solar Power Plant to Turkish Electric System"
+  image: odtülogo.jpg
+  description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
+  authors: M. Gol
+  display: 10.1109/ISEF.2017.8090733
+  highlight: 1
+  news2: ODTÜ BAP
 
 - title: "Metro Ve Hafif Rayli Ulaşim Araçlari İçin Yeni Nesil Cer Çevirgeci Sistemi Geliştirilmesi Projesi"
   image: tübitak-logo.png
@@ -62,3 +78,11 @@
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
   news2: ASELSAN-PARGE
+  
+- title: "Alçak Gerilim Güneş Enerjisi Sistemlerinin Varlığında Yük Talep Tahmini Yöntemi"
+  image: odtülogo.jpg
+  description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
+  authors: M. Gol
+  display: 10.1109/ISEF.2017.8090733
+  highlight: 1
+  news2: ODTÜ BAP
