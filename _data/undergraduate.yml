@@ -1,27 +1,3 @@
-- name: Ali Aydın
-  photo: aliaydin.jpeg
-  info: Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2019(Expected)
-
-- name: Enes Ayaz
-  photo: enesayaz.jpeg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2019(Expected)
-
-- name: Nail Tosun
-  photo: nailtosun.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2019(Expected)
-
-- name: Furkan Tokgöz
-  photo: furkan.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2019(Expected)
-
 - name: Orhun Taşoğlu
   photo: htht.jpeg
   info: Undergraduate Researcher
@@ -33,21 +9,3 @@
   info: Undergraduate Researcher
   number_educ: 1
   education1: Undergraduate, METU, 2021(Expected)
-
-- name: Etki AÇILAN
-  photo: etki_acilan.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2019(Expected)
-
-- name: Berkay Sağlam
-  photo: berkay_saglam.jpeg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2019(Expected)
-
-- name: İven Güzel
-  photo: iven_guzel.jpeg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2019(Expected)
