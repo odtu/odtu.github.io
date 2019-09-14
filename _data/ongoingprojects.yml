@@ -1,3 +1,11 @@
+- title: "Development of Decision Support Methods for Restoration in Earthquake-Damaged Medium Voltage Electrical Distribution Networks"
+  image: tübitak-logo.png
+  description: Following an earthquake, the electrical infrastructure can significantly disrupt. The duration of this loss is directly related with economic disruption. The aim is developing decision support algorithm which accelarate recovery of electrical grid after earthquake.
+  authors: M. Göl
+  display: 10.1109/ISEF.2017.8090733
+  highlight: 1
+  news2: TUBITAK 1001
+
 - title: "Development of Permanent Magnet Integrated Modular Motor Drive System"
   image: immd.png
   description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
