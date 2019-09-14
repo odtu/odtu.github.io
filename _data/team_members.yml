@@ -1,4 +1,4 @@
-- name: Etki AÇILAN
+- name: Etki Açılan
   photo: etki_acilan.jpg
   ofis: E-101
   info: Research Assistant
@@ -74,6 +74,12 @@
   number_educ: 1
   education1: BSc, METU, 2019
 
+- name: Erdi Saruhan
+  photo: erdi_saruhan.png
+  ofis: E-101
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2016
 
 - name: M. Erdem Sezgin
   photo: foto-erdem.jpg
@@ -83,13 +89,6 @@
   education1: BSc, METU, 2015
   education2: MSc, METU, 2018
 
-- name: Erdi Saruhan
-  photo: erdi_saruhan.png
-  ofis: E-101
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2016
-
 - name: İlker Şahin
   photo: silker.png
   ofis: C-114
@@ -98,17 +97,17 @@
   education1: BSc, METU, 2012
   education2: MSc, METU, 2014
 
-- name: Nail Tosun
-  photo: nailtosun.jpg
-  info: Research Assistant
-  ofis: C-114
-  number_educ: 1
-  education1: BSc, METU, 2019
-
 - name: Furkan Tokgöz
   photo: furkan.jpg
   ofis: ARC-300
   info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2019
+
+- name: Nail Tosun
+  photo: nailtosun.jpg
+  info: Research Assistant
+  ofis: C-114
   number_educ: 1
   education1: BSc, METU, 2019
 
