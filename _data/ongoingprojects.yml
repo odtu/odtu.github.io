@@ -1,6 +1,5 @@
 - title: "Development of Decision Support Methods for Restoration in Earthquake-Damaged Medium Voltage Electrical Distribution Networks"
   image: tübitak-logo.png
-  description: Following an earthquake, the electrical infrastructure can significantly disrupt. The duration of this loss is directly related with economic disruption. The aim is developing decision support algorithm which accelarate recovery of electrical grid after earthquake.
   authors: M. Göl
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
@@ -8,7 +7,6 @@
 
 - title: "Development of Permanent Magnet Integrated Modular Motor Drive System"
   image: immd.png
-  description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
   authors: M. Uğur, F. Karakaya, O. Keysan
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
@@ -16,7 +14,6 @@
 
 - title: "1 kW Contactless Slip Ring Design Using SiC Series-Series Resonant  DC-DC Converter"
   image: tübitak-logo.png
-  description: In this project, the aim is transfer 1kW power wirelessly using resonant DC-DC Converter with SiC semiconductor devices.
   authors: H. Polat, O. Keysan
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
@@ -24,7 +21,6 @@
   
 - title: "Analysis and Optimization of a Electromagnetic Launcher System"
   image: aselsan.jpg
-  description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
   authors: N. Tosun, H. Polat, O. Keysan
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
