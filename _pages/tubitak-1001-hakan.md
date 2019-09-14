@@ -18,6 +18,8 @@ permalink: /projects/wirelessPowerTransfer.html
 In small power applications inductive wireless power transfer has been used in the consumer electronics and for high power applications (>1kW) many research outputs are presented especially in wireless electric vehicle charger. Other uses of contactless slip rings are the rotating systems of radar-guidance systems, pitch angle adjuster servo motors in wind turbines and field excitation slip rings. Although brushless exciters are used for field excitation of electrical machines (high power applications) these units have narrow operating speed range and they are not efficient. 
 In the industry, contactless slip rings are produced by a few companies. However they require separate shafts and mounting. Moreover, these systems have single transmitter and receiver modules therefore their fault tolerances are low. 
 
+![slip](/images/pubpic/contactlessslip.jpg)
+
 **Modular structure**: Using multi transmitter and multi receiver it is aimed to increase the tolerance to fault conditions and increase the operating speed range. In the case of a fault in single transmitter and receiver the unit need replacement whereas in the modular case like in Figure 1.b only the fault modüle needs replacement. Moreover with modular units the product can be mounted on a single shaft where in the case of Figure 1.a two seperate shafts are required.
 
 **Series-series resonant converter**: Using series-series resonant converter the overall system efficiency is aimed to be kept >90% for all conditions.
