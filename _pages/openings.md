@@ -51,7 +51,7 @@ permalink: /projects/
 <p> &nbsp; </p>
 ## Finished Projects
 {% assign number_printed = 0 %}
-{% for publi in site.data.ongoingprojects %}
+{% for publi in site.data.finishedprojects %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
