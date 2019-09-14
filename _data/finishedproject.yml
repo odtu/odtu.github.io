@@ -5,6 +5,14 @@
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
   news2: ANDAR-Teknokent
+  
+- title: "Development of an Optimum PMU Placement Method with respect to a Pre – Determined Redundancy Index Considering Installed Power Flow Measurements"
+  image: tübitak-logo.png
+  description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
+  authors: M. Göl
+  display: 10.1109/ISEF.2017.8090733
+  highlight: 1
+  news2: TUBITAK 3501
 
 - title: "Rüzgar Türbinleri için Hata Toleranslı ve Moduler Sabit Mıknatıslı Generatör Geliştilmesi"
   image: tübitak-logo.png
@@ -13,6 +21,14 @@
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
   news2: TUBITAK 2232
+  
+- title: "Monitoring and Recording  Power and Power Quality Data of Low Voltage Distribution System"
+  image: tübitak-logo.png
+  description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
+  authors: M. Göl, O. Keysan
+  display: 10.1109/ISEF.2017.8090733
+  highlight: 1
+  news2: TUBITAK 1003
 
 - title: "Development of an Optimum PMU Placement Method with respect to a Pre – Determined Redundancy Index Considering Installed Power Flow Measurements"
   image: tubitak-3501.jpg
@@ -30,14 +46,15 @@
   highlight: 1
   news2: TUBITAK 1505
 
-- title: "Monitoring and Recording  Power and Power Quality Data of Low Voltage Distribution System"
-  image: 1003.gif
-  description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
-  authors: O. Keysan
+
+- title: "Development of Local Analysis Methods"
+  image: aselsan.jpg
+  description: The aim of this project is to investigate the wind turbine generator technologies and to decide on the most suitable generator topology to be designed and manufactured in Turkey. The project includes the market analysis of the wind turbine sector in the world and the future projections in the industry.
+  authors: M. Göl
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
-  news2: TUBITAK 1003
-
+  news2: ASELSAN-PARGE
+  
 - title: "Feasibility Study of Developing MW Scale Wind Turbine Generator"
   image: aselsan.jpg
   description: The aim of this project is to investigate the wind turbine generator technologies and to decide on the most suitable generator topology to be designed and manufactured in Turkey. The project includes the market analysis of the wind turbine sector in the world and the future projections in the industry.
