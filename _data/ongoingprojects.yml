@@ -6,10 +6,18 @@
   highlight: 1
   news2: TUBITAK 3501
 
-- title: "Analysis and Optimization of a Electromagnetic Launcher System"
+- title: "1 kW Contactless Slip Ring Design Using SiC Series-Series Resonant  DC-DC Converter"
+  image: tübitak-logo.png
+  description: In this project, the aim is transfer 1kW power wirelessly using resonant DC-DC Converter with SiC semiconductor devices.
+  authors: H. Polat, O. Keysan
+  display: 10.1109/ISEF.2017.8090733
+  highlight: 1
+  news2: TUBITAK 1001
+  
+  - title: "Analysis and Optimization of a Electromagnetic Launcher System"
   image: aselsan.jpg
   description: In this study, the effect of distance between non-laminated conducting containment and rails, and the effect of the lamination thickness on the efficiency of railgun are investigated.
-  authors: D. Ceylan, O. Keysan
+  authors: N. Tosun, H. Polat, O. Keysan
   display: 10.1109/ISEF.2017.8090733
   highlight: 1
   news2: ASELSAN-PARGE
