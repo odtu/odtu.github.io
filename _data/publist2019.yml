@@ -1,0 +1,92 @@
+- title: "A Rare-Earth Free Magnetically Geared Generator for Direct-Drive Wind Turbines"
+  image: 17.jpg
+  description: A novel Vernier type magnetically geared direct-drive generator for large wind turbines is introduced in this paper. Conventional Vernier-type machines and most of the direct-drive wind turbine generators use excessive amount of permanent magnet, which increases the overall cost and makes the manufacturing process challenging.
+  authors: R. Zeinali, O. Keysan
+  link: https://www.mdpi.com/1996-1073/12/3/447
+  url: https://www.mdpi.com/1996-1073/12/3/447/
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: Energies 12 (3), 447
+  
+- title: "A Malfunction Detection Method For PV Systems"
+  image: 1.jpg
+  description:  Considering that number of operational PV systems is very high, and occurrence of a malfunction is rare, use of automatic malfunction detection methods necessitates. This paper develops a method that detects any malfunction of a PV system. The malfunction may refer to failure of communication network, sensor malfunctions or data logging unit errors as well as problems of inverters and PV panels.
+  authors: T Yildiz, M Gol
+  link: https://ieeexplore.ieee.org/abstract/document/8810946
+  url: https://ieeexplore.ieee.org/abstract/document/8810946
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: 2019 IEEE Milan PowerTech, 1-6
+  
+- title: "Multi-physics design optimisation of a GaN-based integrated modular motor drive system"
+  image: 17.jpg
+  description: Here, a multi-physics approach is presented for the design optimisation of an integrated modular motor drive (IMMD). The system is composed of a modular permanent magnet synchronous motor (PMSM) and a GaN-based modular motor drive power stage.
+  authors: M. Ugur, O. Keysan
+  link: https://digital-library.theiet.org/content/journals/10.1049/joe.2018.8258
+  url: https://digital-library.theiet.org/content/journals/10.1049/joe.2018.8258
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: The Journal of Engineering, 2019
+  
+- title: "A Comparative Study on Feature Selection Based Improvement of Medium-Term Demand Forecast Accuracy"
+  image: 1.jpg
+  description:  Considering that number of operational PV systems is very high, and occurrence of a malfunction is rare, use of automatic malfunction detection methods necessitates. This paper develops a method that detects any malfunction of a PV system. The malfunction may refer to failure of communication network, sensor malfunctions or data logging unit errors as well as problems of inverters and PV panels.
+  authors: E Ilseven, M Gol
+  link: https://ieeexplore.ieee.org/abstract/document/8810598
+  url: https://ieeexplore.ieee.org/abstract/document/8810598
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: 2019 IEEE Milan PowerTech, 1-6
+  
+- title: "Simulations and Experiments of EMFY-1 Electromagnetic Launcher"
+  image: 1.jpg
+  description: ASELSAN Inc. has been conducting experimental research on electromagnetic launch technologies since 2014. The first prototype, EMFY-1, has 25 mm × 25 mm square bore and 3-m-length rails. In addition, two capacitor-based pulsed-power supplies (PPSs) with 1- and 4-MJ stored energy are built to supply launcher.
+  authors: D Ceylan, M Karagöz, Y Çevik, B Yildirim, H Polat, O Keysan
+  link: https://ieeexplore.ieee.org/abstract/document/8727719
+  url: https://ieeexplore.ieee.org/abstract/document/8727719
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: IEEE Transactions on Plasma Science ( Volume: 47 , Issue: 7 , July 2019 )
+  
+- title: "Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding"
+  image: 1.jpg
+  description: This paper presents a double sided permanent magnet linear synchronous motor (DSPMLSM) with novel V-shaped hairpin plate windings and diagonally placed square magnets.
+  authors: G Çakal, O Keysan 
+  link: https://ieeexplore.ieee.org/abstract/document/8771020
+  url: https://ieeexplore.ieee.org/abstract/document/8771020
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: 2019 12th International Symposium on Linear Drives for Industry Applications (LDIA)
+  
+- title: "Multi-objective design optimization of a permanent magnet axial flux eddy current brake"
+  image: 1.jpg
+  description: The main aim of this study is to optimize an axial flux eddy current damper to be used in a specific aviation application. Eddy current dampers are more advantageous compared to conventional mechanical dampers as they are maintenance-free due to contactless structure and have higher reliability, which is very desirable in aerospace applications..
+  authors: RT ASL, HM YÜKSEL, O Keysan
+  link: https://dergipark.org.tr/tr/pub/tbtkelektrik
+  url: https://dergipark.org.tr/tr/pub/tbtkelektrik
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: Turkish Journal of Electrical Engineering and Computer Science
+ 
+- title: "METU Smart Campus Project (iEAST)"
+  image: 1.jpg
+  description: The main aim of this study is to optimize an axial flux eddy current damper to be used in a specific aviation application. Eddy current dampers are more advantageous compared to conventional mechanical dampers as they are maintenance-free due to contactless structure and have higher reliability, which is very desirable in aerospace applications..
+  authors: Ş. Ertekin, O. Keysan, M. Göl, H. Bayazıt, T. Yıldız, A. Marr, M. Ganji, S. Teimourzadeh, O. Tör, S. Özkavaf
+  link: https://link.springer.com/chapter/10.1007/978-3-030-18072-0_34
+  url: https://link.springer.com/chapter/10.1007/978-3-030-18072-0_34
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: International Conference “New Technologies, Development and Applications”
+  
+- title: "Performance comparison of passive series R and shunt RC damped LCL filter for grid-connected inverters"
+  image: 1.jpg
+  description: LCL filters are widely used in distributed power-generation systems to attenuate high-frequency harmonics caused by pulse-width modulation switching of grid-connected inverters. A resonance occurs due to the series-connected reactive components. In order to damp resonance effects, active and passive damping methods are used.
+  authors: H Temiz, E Demirok, O Keysan, A Türkay, B Çetinkaya
+  link: https://ieeexplore.ieee.org/abstract/document/8804928
+  url: https://ieeexplore.ieee.org/abstract/document/8804928
+  display: 10.1109/PTC.2017.7980898
+  highlight: 1
+  new2: The Journal of Engineering 2019 (18), 4698-4702
+  
+ 
+  
