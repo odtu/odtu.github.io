@@ -1,5 +1,5 @@
 - title: "A Rare-Earth Free Magnetically Geared Generator for Direct-Drive Wind Turbines"
-  image: 17.jpg
+  image: energies.jpg
   description: A novel Vernier type magnetically geared direct-drive generator for large wind turbines is introduced in this paper. Conventional Vernier-type machines and most of the direct-drive wind turbine generators use excessive amount of permanent magnet, which increases the overall cost and makes the manufacturing process challenging.
   authors: R. Zeinali, O. Keysan
   link: https://www.mdpi.com/1996-1073/12/3/447
@@ -19,7 +19,7 @@
   new2: 2019 IEEE Milan PowerTech, 1-6
   
 - title: "Multi-physics design optimisation of a GaN-based integrated modular motor drive system"
-  image: 17.jpg
+  image: iet.jpg
   description: Here, a multi-physics approach is presented for the design optimisation of an integrated modular motor drive (IMMD). The system is composed of a modular permanent magnet synchronous motor (PMSM) and a GaN-based modular motor drive power stage.
   authors: M. Ugur, O. Keysan
   link: https://digital-library.theiet.org/content/journals/10.1049/joe.2018.8258
@@ -79,7 +79,7 @@
   new2: International Conference “New Technologies, Development and Applications”
   
 - title: "Performance comparison of passive series R and shunt RC damped LCL filter for grid-connected inverters"
-  image: 1.jpg
+  image: iet.jpg
   description: LCL filters are widely used in distributed power-generation systems to attenuate high-frequency harmonics caused by pulse-width modulation switching of grid-connected inverters. A resonance occurs due to the series-connected reactive components. In order to damp resonance effects, active and passive damping methods are used.
   authors: H Temiz, E Demirok, O Keysan, A Türkay, B Çetinkaya
   link: https://ieeexplore.ieee.org/abstract/document/8804928
