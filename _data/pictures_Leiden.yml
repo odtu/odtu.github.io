@@ -1,4 +1,16 @@
 - title: pic1_description
+  image: gökhanposter.jpg
+- title: pic1_description
+  image: hakanposter.jpg
+- title: pic1_description
+  image: handeposter.jpg
+- title: pic1_description
+  image: tunaposter.jpg
+- title: pic1_description
+  image: gokhan_cakal_poster.jpg
+- title: pic1_description
+  image: furkan_karakaya_poster.jpg
+- title: pic1_description
   image: 1.jpg
 - title: pic1_description
   image: 2.jpg
@@ -26,7 +38,3 @@
   image: eekosuyor2.jpg
 - title: pic1_description
   image: eekosuyor.jpg
-- title: pic1_description
-  image: gokhan_cakal_poster.jpg
-- title: pic1_description
-  image: furkan_karakaya_poster.jpg
