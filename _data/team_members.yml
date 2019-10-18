@@ -74,13 +74,6 @@
   number_educ: 1
   education1: BSc, METU, 2019
 
-- name: Erdi Saruhan
-  photo: erdi_saruhan.png
-  ofis: E-101
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2016
-
 - name: M. Erdem Sezgin
   photo: foto-erdem.jpg
   ofis: E-101
@@ -129,13 +122,21 @@
 - name: Tuna Yıldız
   photo: tuna.jpg
   ofis: E-101
-  info: Research Assistant
+  info: Researcher
   number_educ: 1
   education1: BSc, METU, 2018
 
 - name: Uğur Can Yılmaz
   photo: ugur_can_yilmaz.jpg
   ofis: E-101
-  info: Research Assistants
+  info: Researcher
   number_educ: 1
   education1: BSc, METU, 2018
+
+- name: Pouya Zolfi
+  photo: pouya_zolfi.JPG
+  ofis: C-114
+  info: Researcher
+  number_educ: 2
+  education1: BSc, AzarUniv, 2016
+  education2 : MSc, AzarUniv, 2019
