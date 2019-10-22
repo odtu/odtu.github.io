@@ -141,16 +141,16 @@
   education1: BSc, AzarUniv, 2016
   education2 : MSc, AzarUniv, 2019
 
-  - name: Hakan Saraç
-    photo: hakan_sarac.jpg
-    ofis: ARC-300
-    info: Researcher
-    number_educ: 1
-    education1: BSc, METU, 2018
+- name: Hakan Saraç
+  photo: hakan_sarac.jpg
+  ofis: ARC-300
+  info: Researcher
+  number_educ: 1
+  education1: BSc, METU, 2018
 
-  - name: Yusuf Basri Yılmaz
-    photo: yusuf_basri.jpg
-    ofis: ARC-300
-    info: Researcher
-    number_educ: 1
-    education1: BSc, METU, 2018
+- name: Yusuf Basri Yılmaz
+  photo: yusuf_basri.jpg
+  ofis: ARC-300
+  info: Researcher
+  number_educ: 1
+  education1: BSc, METU, 2018
