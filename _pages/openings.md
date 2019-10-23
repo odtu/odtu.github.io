@@ -49,7 +49,7 @@ permalink: /projects/
 {% endif %}
 
 <p> &nbsp; </p>
-## Finished Projects
+## Completed Projects
 {% assign number_printed = 0 %}
 {% for publi in site.data.finishedproject %}
 
