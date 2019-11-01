@@ -26,7 +26,11 @@ Power Lab is a research group in Department of Electrical and Electronics Engine
         <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
-Power Lab seeks for motivated graduate and undergraduate students that would like to work in power systems, power electronics and electric machines area. For more information please contact Murat Göl, Ozan Keysan or Emine Bostancı. Alternatively, you can attend one of the PowerLab Seminars, which are usually on Fridays or PowerLab Workshops.
+Power Lab seeks for motivated graduate and undergraduate students that would like to work in power systems, power electronics and electric machines area. For more information please contact Murat Göl, Ozan Keysan or Emine Bostancı. 
+
+You can attend the Powerlab mail-list with following link;
+https://mailman.metu.edu.tr/mailman/listinfo/ee-powerlab
+
 <!-- I added images as png but is the page opens slowly these can be reuploaded as jpg -->
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
