@@ -8,11 +8,6 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for motivated graduate and undergraduate students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni).
-
 ## Principal Researchers
 
 {% assign number_printed = 0 %}
