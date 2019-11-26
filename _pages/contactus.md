@@ -6,19 +6,11 @@ sitemap: false
 permalink: /contactus/
 ---
 
-#Contact Us
-
 Tel +90 312 210 2303
 
 ODTÜ Elektrik Elektronik Mühendisliği Bölümü
 
 Üniversiteler Mahallesi, 06800 Çankaya/Ankara
-
-
-<iframe width="560" height="315" src="https://www.instagram.com/metupowerlab/" frameborder="0" allowfullscreen></iframe>
-
-<a href="https://www.instagram.com/metupowerlab/">Follow Us On Instagram</a>
-
 
 
 
