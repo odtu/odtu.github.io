@@ -9,8 +9,6 @@ permalink: /contactus/
 
 # Contact Us
 
-## Contact Us
-
 Tel +90 312 210 2303
 
 ODTÜ Elektrik Elektronik Mühendisliği Bölümü
