@@ -4,8 +4,8 @@
 ### Project Duration: 15 months
 
 ## Brief Summary: 
-<iframe width="315" height="315" src="https://www.youtube.com/watch?v=syG2RI37XII" frameborder="0" allowfullscreen></iframe>
-<iframe width="315" height="315" src="https://www.youtube.com/watch?v=58MmOpSm4LY" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/syG2RI37XII" width="440" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/58MmOpSm4LY" width="440" height="315" frameborder="0"></iframe>
 
 
 Third phase of the [TUFAN](http://www.millisavunma.com/aselsan-tufan-elektromanyetik-top-sistemi/) railgun project in which a 10 MJ prototype will be tested. Detailed 3D FEA models are developed to obtain electrical, mechanical force, and thermal characteristics of the railgun.
