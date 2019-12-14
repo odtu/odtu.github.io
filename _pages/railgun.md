@@ -19,17 +19,11 @@ The following are the main topics under this project:
 * Electrical Machine Design
 * Pulse Power Supplies and Topologies
 
-![railgun1](https://github.com/odtu/odtu.github.io/tree/master/images/pubpic/railgun2.png)
-![railgun2](https://github.com/odtu/odtu.github.io/tree/master/images/pubpic/images/pubpic/railgun3.png)
+![railgun1](railgun2.png)
+![railgun2](railgun3.png)
 
 ### News on Media
 * [Star Gazetesi](https://www.star.com.tr/savunma/muthis-basari-yerli-elektromanyetik-top-tufan-rekor-kirdi-haber-1499785/)
 * [AA](https://www.aa.com.tr/tr/bilim-teknoloji/tufandan-namlu-cikis-enerjisi-rekoru/1670322)
 * [Habertürk](https://www.haberturk.com/yazarlar/guntay-simsek-1019/1977989-aselsanin-sesten-6-kat-hizli-elektromanyetik-topu-tufan-teste-hazir)
 * [Twitter](https://twitter.com/IsmailDemirSSB/status/1204663001065938945?s=08)
-
-
-
-
-
-
