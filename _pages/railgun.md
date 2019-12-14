@@ -1,4 +1,6 @@
 # Electromagnetic Design and Optimization of Electromagnetic Launchers (Phase III)
+
+
 ### Project Type: ASELSAN
 ### Project Budget: 860.000 TL
 ### Project Duration: 15 months
@@ -17,10 +19,10 @@ The following are the main topics under this project:
 * Pulse Power Supplies and Topologies
 
 ### News on Media
-* https://www.star.com.tr/savunma/muthis-basari-yerli-elektromanyetik-top-tufan-rekor-kirdi-haber-1499785/
-* https://www.aa.com.tr/tr/bilim-teknoloji/tufandan-namlu-cikis-enerjisi-rekoru/1670322
-* https://www.haberturk.com/yazarlar/guntay-simsek-1019/1977989-aselsanin-sesten-6-kat-hizli-elektromanyetik-topu-tufan-teste-hazir
-* https://twitter.com/IsmailDemirSSB/status/1204663001065938945?s=08
+* [Star Gazetesi](https://www.star.com.tr/savunma/muthis-basari-yerli-elektromanyetik-top-tufan-rekor-kirdi-haber-1499785/)
+* [AA](https://www.aa.com.tr/tr/bilim-teknoloji/tufandan-namlu-cikis-enerjisi-rekoru/1670322)
+* [Habertürk](https://www.haberturk.com/yazarlar/guntay-simsek-1019/1977989-aselsanin-sesten-6-kat-hizli-elektromanyetik-topu-tufan-teste-hazir)
+* [Twitter](https://twitter.com/IsmailDemirSSB/status/1204663001065938945?s=08)
 
 
 
