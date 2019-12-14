@@ -19,10 +19,12 @@ The following are the main topics under this project:
 * Electrical Machine Design
 * Pulse Power Supplies and Topologies
 
+If you are interested with the project, please contact Nail Tosun (C-114) or Dr. Ozan Keysan (C-113). 
+
+### News on Media
 ![railgun1](railgun2.PNG)
 ![railgun2](railgun3.PNG)
 
-### News on Media
 * [Star Gazetesi](https://www.star.com.tr/savunma/muthis-basari-yerli-elektromanyetik-top-tufan-rekor-kirdi-haber-1499785/)
 * [AA](https://www.aa.com.tr/tr/bilim-teknoloji/tufandan-namlu-cikis-enerjisi-rekoru/1670322)
 * [Habertürk](https://www.haberturk.com/yazarlar/guntay-simsek-1019/1977989-aselsanin-sesten-6-kat-hizli-elektromanyetik-topu-tufan-teste-hazir)
