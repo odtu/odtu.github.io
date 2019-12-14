@@ -18,6 +18,9 @@ The following are the main topics under this project:
 * Electrical Machine Design
 * Pulse Power Supplies and Topologies
 
+![](/images/pubpic/railgun2.png)
+![](/images/pubpic/railgun3.png)
+
 ### News on Media
 * [Star Gazetesi](https://www.star.com.tr/savunma/muthis-basari-yerli-elektromanyetik-top-tufan-rekor-kirdi-haber-1499785/)
 * [AA](https://www.aa.com.tr/tr/bilim-teknoloji/tufandan-namlu-cikis-enerjisi-rekoru/1670322)
