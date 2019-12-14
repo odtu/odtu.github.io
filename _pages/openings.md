@@ -8,6 +8,7 @@ permalink: /projects/
 
 
 # Projects
+These are some informations about on-going projects, [electromagnetic launchers](/railgun.md), [wireless power transfer](/tubitak-1001-hakan.md). 
 
 ## On-going Projects
 
