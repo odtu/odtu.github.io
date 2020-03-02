@@ -1,49 +1,73 @@
 - name: Etki Açılan
   photo: etki_acilan.jpg
   ofis: E-101
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2019
 
 - name: Enes Ayaz
   photo: enesayaz.jpeg
   ofis: ARC-300
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2019
 
-- name: G. Hande Bayazıt
-  photo: hande-3.jpg
+- name: Göksenin Hande Bayazıt
+  photo: hande.jpg
   ofis: C-114
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2018
 
 - name: Gökhan Çakal
   photo: gokhan.jpg
   ofis: ARC-300
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2017
 
 - name: İven Güzel
   photo: iven_guzel.jpeg
   ofis: E-101
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2019
 
 - name: Furkan Karakaya
   photo: furkank.png
   ofis: ARC-300
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2017
+
+- name: Salar Koushan
+  photo: mohammed.jpeg
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 2
+  education1: BSc, University of Tabriz, 2014
+  education2 : MSc, METU, 2020
+
+- name: Barış Kuseyri
+  photo: mohammed.jpeg
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 2
+  education1: BSc, Koç University, 2016
+  education2 : MSc, University of Sheffield, 2019
+
+- name: Mohammad Hossein Mokhtare
+  photo: mohammed.jpeg
+  ofis: ARC-301
+  info: Research Assistant
+  number_educ: 2
+  education1: BSc, University of Tabriz, 2016
+  education2 : MSc, KNTU, 2019
 
 - name: Serhat Özküçük
   photo: serhat.jpg
   ofis: C-106
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 2
   education1: BSc, Dokuz Eylül U., 2015
   education2: MSc, Bursa Technical U., 2019
@@ -58,9 +82,9 @@
 - name: Soheil Pouraltafi
   photo: soheil.jpeg
   ofis: E-101
-  info: Research Assistants
+  info: Research Assistant
 
-- name: Siamak PK
+- name: Siamak Pourkeivannour
   photo: siamak.jpg
   ofis: C-114
   info: Research Assistant
@@ -77,7 +101,7 @@
 - name: M. Erdem Sezgin
   photo: foto-erdem.jpg
   ofis: E-101
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 2
   education1: BSc, METU, 2015
   education2: MSc, METU, 2018
@@ -90,10 +114,17 @@
   education1: BSc, METU, 2012
   education2: MSc, METU, 2014
 
-- name: Furkan Tokgöz
-  photo: furkan.jpg
+- name: Hakan Saraç
+  photo: hakan_sarac.jpg
   ofis: ARC-300
   info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2018
+
+  - name: Furkan Tokgöz
+  photo: furkan.jpg
+  ofis: ARC-300
+  info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2019
 
@@ -115,42 +146,35 @@
 - name: Özgür Yazıcı
   photo: ozguryazici.jpeg
   ofis: C-114
-  info: Researcher
+  info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2018
 
 - name: Tuna Yıldız
   photo: tuna.jpg
   ofis: E-101
-  info: Researcher
+  info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2018
 
 - name: Uğur Can Yılmaz
   photo: ugur_can_yilmaz.jpg
   ofis: E-101
-  info: Researcher
+  info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2018
 
 - name: Pouya Zolfi
   photo: pouya_zolfi.JPG
-  ofis: C-114
-  info: Researcher
+  ofis: ARC-301
+  info: Research Assistant
   number_educ: 2
   education1: BSc, AzarUniv, 2016
   education2 : MSc, AzarUniv, 2019
 
-- name: Hakan Saraç
-  photo: hakan_sarac.jpg
-  ofis: ARC-300
-  info: Researcher
-  number_educ: 1
-  education1: BSc, METU, 2018
-
 - name: Yusuf Basri Yılmaz
   photo: yusuf_basri.jpg
   ofis: ARC-300
-  info: Researcher
+  info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2018
