@@ -8,9 +8,20 @@ permalink: /projects/
 
 
 # Projects
-These are some informations about on-going projects, [electromagnetic launchers](/railgun.md), [wireless power transfer](/tubitak-1001-hakan.md). 
+These are some informations about on-going projects:
+- [Electromagnetic launcher](/railgun.md)
+- [Wireless power transfer](/tubitak-1001-hakan.md)
+- PCB motor
+- Axial flux PM motor
+- Gimbal linear motor
+- Integrated modular motor drive system
+- Model predictive control of an induction motor with fault detection
+- [Multiphase axial flux PM motor](/multiphase.md)
+- Arçelik collaboration
+- METU as a Smart Campus
 
-## On-going Projects
+
+## On-going Funded Projects
 
 
 {% assign number_printed = 0 %}
