@@ -17,7 +17,7 @@ These are some informations about on-going projects:
 - Integrated modular motor drive system
 - Model predictive control of an induction motor with fault detection
 - [Multiphase axial flux PM motor](/multiphase.md)
-- Arçelik collaboration
+- [Arçelik collaboration](/arcelik.md)
 - METU as a Smart Campus
 
 
