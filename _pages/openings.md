@@ -12,8 +12,8 @@ These are some informations about on-going projects:
 - [Electromagnetic launcher](/railgun.md)
 - [Wireless power transfer](/tubitak-1001-hakan.md)
 - PCB motor
-- Axial flux PM motor
-- Gimbal linear motor
+- [Axial flux PM motor](/AxialFPMMNFW.md)
+- [Gimbal linear motor](/gimbal.md)
 - Integrated modular motor drive system
 - Model predictive control of an induction motor with fault detection
 - [Multiphase axial flux PM motor](/multiphase.md)
