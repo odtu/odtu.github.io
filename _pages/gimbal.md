@@ -1,3 +1,5 @@
+## Rotary Voice Coil Actuator for Gimbal Systems
+
 This industry-funded project is focused on design, optimization, and implementation of the aircored rotary voice coil actuator that will be used in gimbal systems. The designed actuator is aimed to
 be used as an active vibration isolator in order to get stabilized monitoring. The project is funded by
 Aselsan, which is the top defense industry company in Turkey. The designed non-conventional actuator
@@ -9,3 +11,5 @@ optimization study using genetic algorithm is conducted and the results are veri
 analysis. Some parts of the research work yielded an IEEE conference publication titled "Design and
 Optimization of Reduced Torque Ripple Rotary Voice Coil Motor," which is presented at ICEM 2018,
 Alexandroupoli, Greece. 
+
+![gimbal](\gimbal.png)
