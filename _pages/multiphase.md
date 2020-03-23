@@ -1,10 +1,3 @@
----
-title: "Powerlab - Research"
-layout: textlay
-excerpt: "Powerlab -- Research"
-sitemap: false
-permalink: /projects/multiphase.html
----
 
 ## Fault Tolerant Multiphase Axial Flux PM Synchronous Machine
 
