@@ -1,19 +1,43 @@
-7.5 kW Sabit Mıknatıslı Tümleşik Modüler Motor Sürücü Sistemi Geliştirilmesi
-Development of a 7.5 kW Permanent Magnet Integrated Modular Motor Drive System
+## Development of a 7.5 kW Permanent Magnet Integrated Modular Motor Drive System
 
-Bütçe: 150,000 TL
+#### Project Budget: 150,000 TL
+#### Project Duration: 26 month
+#### Project Start Date: 15.10.2017
+#### Project End Date: 15.12.2019
 
-Tarihler: 15.10.2017 - 15.12.2019
+### Brief Summary: 
+In this project, it has been aimed to combine the motor and motor drive,
+which are separately packaged conventionally, and obtain an integrated
+modular motor drive (IMMD) system. This system is expected to introduce
+major advantages in aerospace, automotive and defense industries with size
+reduction, fault tolerance and modularity. Moreover, utilization of new
+generation Gallium Nitride (GAN) transistors, which have gained popularity
+in recent years, has been achieved to obtain efficiency and power density
+increase.
 
-Bu projenin amacı ayrı ayrı paketlenen motor ve motor sürücüsünün tek bir paket altında birleştirilerek tümleşik modüler motor sürücü (Integrated modular motor drive, IMMD) sisteminin hayata geçirilmesi olarak planlanmıştır. Böylelikle, boyut avantajları, arıza toleranslı yapıları ve modülerlik sayesinde havacılık/uzay, otomotiv ve savunma sanayi gibi alanlardaki motor sürücü sistemlerinde önemli avantajlar sağlayacağı beklenmektedir. Ayrıca, son yıllarda giderek popülerleşen, yenilikçi transistörlerden Galyum-Nitrat (GaN) transistörlerin kullanılmasıyla, verim ve güç yoğunluğunda artış hedeflenmiştir. 
+In the project, an 8 kW, 600 rpm permanent magnet motor suitable for direct
+drive applications, and four GaN based motor drive inverters each having 2
+kW rated power are developed, manufactured and successfully tested.
+Furthermore, to control these four motor drive modules, a motor drive
+control board containing a dual core microcontroller is developed which is
+also integrated to the motor.
 
-Projede 8 kW gücünde, 600 rpm dönüş hızında, doğrudan sürüş uygulamaları için uygun sabit mıknatıslı bir motor, ve her biri 2 kW gücünde dört adet GaN tabanlı motor sürücü evirici geliştirilmiş, ürettirilmiş ve testleri başarıyla tamamlanmıştır. Ayrıca, bu dört motor sürücü modülünü kontrol etmek üzere, motora entegre çift çekirdekli bir mikro-denetleyici içeren motor sürücü kontrol kartı geliştirilmiştir.
+GaN based motor drive is tested at rated power (2 kW), 40 kHz switching
+frequency and 300 V DC bus voltage, and has reached up to 98.7 % efficiency
+levels. The power density of the motor drive module is 2.8 kW/lt. Moreover,
+the motor drive modules are operated in series and parallel connection
+configurations on the DC bus and the resulting current and voltage
+unbalance cases are investigated. Phase-shifting technique is used in
+series and parallel configurations and it has been shown that the capacitor
+voltage ripple and capacitors size can be reduced.
 
-GaN tabanlı motor sürücü, anma gücünde (2 kW) test edilmiş, 40 kHz anahtarlama frekansında, 300 V DC bara geriliminde, %98.7 verime ulaşmıştır. Motor sürücünün güç yoğunluğu 2.8 kW/lt olarak gerçekleşmiştir. Ayrıca, motor sürücüler DC bara üzerinde seri ve paralel olarak çalıştırılmış, bu durumlarda oluşan akım-gerilim dengesizlikleri incelenmiştir. Seri ve paralel bağlı modüllerde faz kayması tekniği kullanılarak, kapasitör gerilim dalgalanmalarının azaltılabileceği, böylelikle kapasitör boyutunun da küçültülebileceği gösterilmiştir.
-
-Geliştirilen motor,  değişik hız ve yük koşulları altında test edilmiştir. Motora uygulanan testler neticesinde % 96 verim elde edilmiştir. Motor sürücü ile uyumlu bir şekilde bağımsız dört stator sargı grubundan oluşan motorda böylelikle, arıza dayanıklılığı ve modülerlik elde edilmiştir.
-
-Geliştirilen bu prototip ürün sayesinde tümleşik motor sürücüler, modülerlik, GaN tabanlı motor sürücüler ve sabit mıknatıslı motorlar üzerine yapılacak ilerideki çalışmalar için büyük bir bilgi birikimi elde edilmiştir.
+The developed motor is tested under several speed and loading conditions
+and 96 % efficiency level is obtained. Fault tolerance and modularity is
+achieved in the developed motor which has four stator winding groups, in
+compliance with the motor drive modules. With this prototype, a
+comprehensive know-how is attained for future studies on the topics of
+integrated motor drives, modularity, GaN based motor drives and permanent
+magnet motors.
 ![pcb1](immd1.png)
 ![pcb2](immd2.png)
 ![pcb3](immd3.png)
