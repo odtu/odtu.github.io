@@ -8,13 +8,13 @@ permalink: /projects/wirelessPowerTransfer.html
 
 
 
-# 1 kW Contactless Slip Ring Design Using SiC Series-Series Resonant  DC-DC Converter
-### Project Type: TUBITAK 1001 Scientific and Technological Research Projects Funding Program
-### Project Budget: 380.000 TL
-### Project Duration: 24 months
-### Project Start Date: 01 November 2019
+## 1 kW Contactless Slip Ring Design Using SiC Series-Series Resonant  DC-DC Converter
+#### Project Type: TUBITAK 1001 Scientific and Technological Research Projects Funding Program
+#### Project Budget: 380.000 TL
+#### Project Duration: 24 months
+#### Project Start Date: 01 November 2019
 
-## Brief Summary: 
+### Brief Summary: 
 In small power applications inductive wireless power transfer has been used in the consumer electronics and for high power applications (>1kW) many research outputs are presented especially in wireless electric vehicle charger. Other uses of contactless slip rings are the rotating systems of radar-guidance systems, pitch angle adjuster servo motors in wind turbines and field excitation slip rings. Although brushless exciters are used for field excitation of electrical machines (high power applications) these units have narrow operating speed range and they are not efficient. 
 In the industry, contactless slip rings are produced by a few companies. However they require separate shafts and mounting. Moreover, these systems have single transmitter and receiver modules therefore their fault tolerances are low. 
 
