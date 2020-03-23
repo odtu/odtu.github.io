@@ -38,6 +38,9 @@ compliance with the motor drive modules. With this prototype, a
 comprehensive know-how is attained for future studies on the topics of
 integrated motor drives, modularity, GaN based motor drives and permanent
 magnet motors.
+
+
+
 ![pcb1](immd1.png)
 ![pcb2](immd2.png)
 ![pcb3](immd3.png)
