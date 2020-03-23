@@ -1,5 +1,4 @@
 ## Electromagnetic Design and Optimization of Electromagnetic Launchers (Phase III)
-
 #### Project Type: ASELSAN
 #### Project Budget: 860.000 TL
 #### Project Duration: 15 months
