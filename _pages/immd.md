@@ -1,3 +1,11 @@
+---
+title: "Powerlab - Research"
+layout: textlay
+excerpt: "Powerlab -- Research"
+sitemap: false
+permalink: /projects/immd.html
+---
+
 ## Development of a 7.5 kW Permanent Magnet Integrated Modular Motor Drive System
 
 #### Project Budget: 150,000 TL
