@@ -1,4 +1,13 @@
+---
+title: "Powerlab - Research"
+layout: textlay
+excerpt: "Powerlab -- Research"
+sitemap: false
+permalink: /projects/multiphase.html
+---
+
 ## Fault Tolerant Multiphase Axial Flux PM Synchronous Machine
+
 
 ### Main Motivation
 Electric machines have widely been used for electric power generation, industrial and
