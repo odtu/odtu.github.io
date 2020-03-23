@@ -14,6 +14,6 @@ GaN tabanlı motor sürücü, anma gücünde (2 kW) test edilmiş, 40 kHz anahta
 Geliştirilen motor,  değişik hız ve yük koşulları altında test edilmiştir. Motora uygulanan testler neticesinde % 96 verim elde edilmiştir. Motor sürücü ile uyumlu bir şekilde bağımsız dört stator sargı grubundan oluşan motorda böylelikle, arıza dayanıklılığı ve modülerlik elde edilmiştir.
 
 Geliştirilen bu prototip ürün sayesinde tümleşik motor sürücüler, modülerlik, GaN tabanlı motor sürücüler ve sabit mıknatıslı motorlar üzerine yapılacak ilerideki çalışmalar için büyük bir bilgi birikimi elde edilmiştir.
-![pcb1](immd1.jpg)
-![pcb2](immd2.jpg)
+![pcb1](immd1.png)
+![pcb2](immd2.png)
 ![pcb3](immd3.png)
