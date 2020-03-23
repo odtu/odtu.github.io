@@ -12,4 +12,4 @@ analysis. Some parts of the research work yielded an IEEE conference publication
 Optimization of Reduced Torque Ripple Rotary Voice Coil Motor," which is presented at ICEM 2018,
 Alexandroupoli, Greece. 
 
-![gimbal](\gimbal.png)
+[asd](\gimbal.png)
