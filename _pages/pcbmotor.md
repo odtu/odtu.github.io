@@ -8,5 +8,7 @@ Properties & Advantages
 •	High torque density
 •	Low inductance & better dynamics
 
-
+![pcb1](pcb1.jpg)
+![pcb2](pcb2.jpg)
 In this research, we have analytically calculated the motor parameters starting from Maxwell’s equations. After that, using a genetic algorithm the design parameters are optimized. Finite element analysis of the motor is conducted on ANSYS Maxwell. Finally, the prototype is tested under different load conditions and results of the analytical calculations and finite element analysis is validated. 
+![pcb3](pcb3.png)
