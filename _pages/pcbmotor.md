@@ -15,4 +15,3 @@ In this research, we have analytically calculated the motor parameters starting 
 
 ![pcb1](pcb1.jpg)
 ![pcb2](pcb2.jpg)
-![pcb3](pcb3.png)
