@@ -25,7 +25,20 @@ These are some informations about on-going projects:
     <ul>
       <li>Project Type: TUBITAK 1001</li>
       <li>Project Budget: 380.000 TL</li>
-      <li>Project Duration: 24 months<\li>
+      <li>Project Duration: 24 months</li>
+    </ul>
+    
+   <li><a href="/immd.md">Integrated modular motor drive system</a></li>
+    <ul>
+      <li>Project Type: TUBITAK 3501</li>
+      <li>Project Budget: 177.000 TL</li>
+      <li>Project Duration: 26 months</li>
+    </ul>
+  
+  <li><a href="/arcelik.md">Arçelik collaboration</a></li>
+     <ul>
+      <li>Project Type: ARÇELİK </li>
+      <li>Project Duration: 33 months</li>
     </ul>
   
   <li><a href="/pcbmotor.md">PCB motor</a></li>
@@ -34,15 +47,16 @@ These are some informations about on-going projects:
   
   <li><a href="/gimbal.md">Gimbal linear motor</a></li>
   
-  <li><a href="/immd.md">Integrated modular motor drive system</a></li>
-  
+
   <li><a href="/multiphase.md">Multiphase axial flux PM motor</a></li>
   
-  <li><a href="/arcelik.md">Arçelik collaboration</a></li>
   
   <li> Model predictive control of an induction motor with fault detection </li>
   
   <li> METU as a Smart Campus </li>
+     <ul>
+      <li>Project Type: USTDA, USA Trade and Development Agency </li>
+    </ul>
 </ul>
 
 
