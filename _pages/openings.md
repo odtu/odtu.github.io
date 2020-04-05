@@ -9,32 +9,23 @@ permalink: /projects/
 
 # Projects
 These are some informations about on-going projects:
-- [Electromagnetic launcher](/railgun.md)
-⋅⋅⋅ASELSAN Project
-- [Wireless power transfer](/tubitak-1001-hakan.md)
-⋅⋅⋅TUBITAK 1001 Project
-- [PCB motor](/pcbmotor.md)
-- [Axial flux PM motor](/AxialFPMMNFW.md)
-- [Gimbal linear motor](/gimbal.md)
-- [Integrated modular motor drive system](/immd.md)
-⋅⋅⋅TUBITAK 1001 Project
-- Model predictive control of an induction motor with fault detection
-- [Multiphase axial flux PM motor](/multiphase.md)
-- [Arçelik collaboration](/arcelik.md)
-⋅⋅⋅Arçelik Project
-- METU as a Smart Campus
+
 
 
 <ul>
-  <li><a href="/railgun.md">Electromagnetic launcher</a></li>
+  <li><a href="/railgun.md">Electromagnetic launcher: Phase 3</a></li>
   
   <ul>
-    <li>ASELSAN Project</li>
+  <li>Project Type: ASELSAN </li>
+  <li>Project Budget: 860.000 TL </li>
+  <li>Project Duration: 15 months </li>
   </ul>
   
   <li><a href="/tubitak-1001-hakan.md">Wireless power transfer</a></li>
     <ul>
-      <li>TUBITAK 1001 Project</li>
+      <li>Project Type: TUBITAK 1001</li>
+      <li>Project Budget: 380.000 TL</li>
+      <li>Project Duration: 24 months<\li>
     </ul>
   
   <li><a href="/pcbmotor.md">PCB motor</a></li>
