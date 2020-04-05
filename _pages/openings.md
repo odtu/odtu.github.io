@@ -40,27 +40,31 @@ These are some informations about on-going projects:
       <li>Project Type: ARÇELİK </li>
       <li>Project Duration: 33 months</li>
     </ul>
-  
+    
+   <li><a href="/smart_campus.md"> METU as a Smart Campus</a></li>
+     <ul>
+      <li>Project Type: USTDA, USA Trade and Development Agency </li>
+      <li>Project Budget: $830.000</li>
+      <li>Project Duration: 18 months </li>
+   </ul>
+   
   <li><a href="/pcbmotor.md">PCB motor</a></li>
   
   <li><a href="/AxialFPMMNFW.md">Axial flux PM motor</a></li>
   
   <li><a href="/gimbal.md">Gimbal linear motor</a></li>
-  
-
+  <ul>
+  <li>Project Type: ASELSAN </li>
+  </ul>    
   <li><a href="/multiphase.md">Multiphase axial flux PM motor</a></li>
   
   
   <li> Model predictive control of an induction motor with fault detection </li>
   
-  <li> METU as a Smart Campus </li>
-     <ul>
-      <li>Project Type: USTDA, USA Trade and Development Agency </li>
-    </ul>
+
+  
+
 </ul>
-
-
-
 
 ## Completed Projects
 
