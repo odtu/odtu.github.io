@@ -7,7 +7,7 @@ permalink: /publications/
 ---
 
 
-# Journal Publications
+# Publications
 
 (For full and recent list of publications please visit the Google Scholar profiles of principal investigators: 
 [Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao),
