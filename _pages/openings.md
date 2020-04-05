@@ -67,4 +67,39 @@ These are some informations about on-going projects:
 </ul>
 
 ## Completed Projects
-
+<ul>
+   <li> Electromagnetic Design and Optimization of a Electromagnetic Launcher Phase II</li>
+   <ul>
+      <li>Project Type: ASELSAN SST </li>
+      <li>Project Budget: 392.000 TL</li>
+      <li>Project Duration: 12 months </li>
+  </ul>
+  
+  
+  <li> Design of a high performance linear servo actuator and PCB Motor</li>
+   <ul>
+      <li>Project Type: ASELSAN MGEO </li>
+      <li>Project Budget: 198.000 TL</li>
+      <li>Project Duration: 12 months </li>
+  </ul>
+  <li> Pattern Recognition in Power Systems </li>
+  <ul>
+      <li>Project Type: Enerjisa H2020 Project </li>
+      <li>Project Budget: € 2.400.000</li>
+      <li>Project Duration: 12 months </li>
+  </ul>
+  
+  <li> Feasibility analysis and design of a 2.5MW direct-drive wind turbine generator</li>
+   <ul>
+      <li>Project Type: ASELSAN UGES </li>
+      <li>Project Budget: 87.000 TL</li>
+  </ul>
+  
+   <li> Electromagnetic Design and Optimization of a Electromagnetic Launcher Phase I</li>
+   <ul>
+      <li>Project Type: ASELSAN SST </li>
+      <li>Project Budget: 397.000 TL</li>
+      <li>Project Duration: 12 months </li>
+  </ul>
+  
+</ul> 
