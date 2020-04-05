@@ -21,39 +21,34 @@ permalink: /publications/
 
 * Zeinali, Reza & Keysan, Ozan. (2019). A Rare-Earth Free Magnetically Geared Generator for Direct-Drive Wind Turbines. Energies. 12. 447. 10.3390/en12030447. 
 
-T. Yildiz and M. Gol, "[A Malfunction Detection Method For PV Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8810946&isnumber=8810400)," 2019 IEEE Milan PowerTech, Milan, Italy, 2019, pp. 1-6. doi: 10.1109/PTC.2019.8810946,
+* T. Yildiz and M. Gol, "[A Malfunction Detection Method For PV Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8810946&isnumber=8810400)," 2019 IEEE Milan PowerTech, Milan, Italy, 2019, pp. 1-6. doi: 10.1109/PTC.2019.8810946,
 
-* M. Uğur and O. Keysan, "Multi-physics design optimisation of a GaN-based integrated modular motor drive system," in The Journal of Engineering, vol. 2019, no. 17, pp. 3900-3905, 6 2019.doi: 10.1049/joe.2018.8258,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737042&isnumber=8737023
-* E. A. Gol, B. G. Erkal and M. Göl, "A Novel MDP Based Decision Support Framework to Restore Earthquake Damaged Distribution Systems," 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest, Romania, 2019, pp. 1-5. doi: 10.1109/ISGTEurope.2019.8905675,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8905675&isnumber=8905428
+* M. Uğur and O. Keysan, "[Multi-physics design optimisation of a GaN-based integrated modular motor drive system](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737042&isnumber=8737023)," in The Journal of Engineering, vol. 2019, no. 17, pp. 3900-3905, 6 2019.doi: 10.1049/joe.2018.8258,
 
-* A. Madan and E. Bostanci, "Comparison of Two-Level and Three-Level NPC Inverter Topologies for a PMSM Drive for Electric Vehicle Applications," 2019 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2019 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM), Istanbul, Turkey, 2019, pp. 147-154.
+* E. A. Gol, B. G. Erkal and M. Göl, "[A Novel MDP Based Decision Support Framework to Restore Earthquake Damaged Distribution Systems,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8905675&isnumber=8905428)" 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest, Romania, 2019, pp. 1-5. doi: 10.1109/ISGTEurope.2019.8905675,
+
+
+* A. Madan and E. Bostanci, "[Comparison of Two-Level and Three-Level NPC Inverter Topologies for a PMSM Drive for Electric Vehicle Applications,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007197&isnumber=9007116)" 2019 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2019 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM), Istanbul, Turkey, 2019, pp. 147-154.
 doi: 10.1109/ACEMP-OPTIM44294.2019.9007197,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007197&isnumber=9007116
 
-* U. C. Yilmaz, M. E. Sezgin and M. Gol, "A Model Predictive Control for Microgrids Considering Battery Aging," in Journal of Modern Power Systems and Clean Energy.
+* U. C. Yilmaz, M. E. Sezgin and M. Gol, " [A Model Predictive Control for Microgrids Considering Battery Aging,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913672&isnumber=8816648)" in Journal of Modern Power Systems and Clean Energy.
 doi: 10.35833/MPCE.2018.000804,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913672&isnumber=8816648
 
 * Ilseven, Engin & Gol, Murat. (2019). A Comparative Study on Feature Selection Based Improvement of Medium-Term Demand Forecast Accuracy. 1-6. 10.1109/PTC.2019.8810598. 
 
-* D. Ceylan, M. Karagöz, Y. Çevik, B. Yıldırım, H. Polat and O. Keysan, "Simulations and Experiments of EMFY-1 Electromagnetic Launcher," in IEEE Transactions on Plasma Science, vol. 47, no. 7, pp. 3336-3343, July 2019. doi: 10.1109/TPS.2019.2916220,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8727719&isnumber=8753765
-
+* D. Ceylan, M. Karagöz, Y. Çevik, B. Yıldırım, H. Polat and O. Keysan, "[Simulations and Experiments of EMFY-1 Electromagnetic Launcher,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8727719&isnumber=8753765
+)" in IEEE Transactions on Plasma Science, vol. 47, no. 7, pp. 3336-3343, July 2019. doi: 10.1109/TPS.2019.2916220,
+ 
 * G. Çakal and O. Keysan, "Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding," 2019 12th International Symposium on Linear Drives for Industry Applications (LDIA), Neuchatel, Switzerland, 2019, pp. 1-5. doi: 10.1109/LDIA.2019.8771020,
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8771020&isnumber=8770968
 
 * Tarvirdilu Asl, Rasul & YÜKSEL, HÜSEYİN & keysan, ozan. (2019). Multi-objective design optimization of a permanent magnet axial flux eddy current brake. Turkish Journal of Electrical Engineering and Computer Sciences. 27. 998-1011. 10.3906/elk-1802-65. 
 
-* H. Polat, D. Ceylan and O. Keysan, "Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems," 2019 IEEE Pulsed Power & Plasma Science (PPPS), Orlando, FL, USA, 2019, pp. 1-6. doi: 10.1109/PPPS34859.2019.9009612
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009612&isnumber=9009611
+* H. Polat, D. Ceylan and O. Keysan, "[Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009612&isnumber=9009611)" 2019 IEEE Pulsed Power & Plasma Science (PPPS), Orlando, FL, USA, 2019, pp. 1-6. doi: 10.1109/PPPS34859.2019.9009612
 
-* G. H. Bayazıt, M. Uğur and O. Keysan, "Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM," 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 2019, pp. 1-6. doi: 10.1109/PEDS44367.2019.8998851,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8998851&isnumber=8998754
+* G. H. Bayazıt, M. Uğur and O. Keysan, "[Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8998851&isnumber=8998754)," 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 2019, pp. 1-6. doi: 10.1109/PEDS44367.2019.8998851,
 
-* D. Ceylan, S. Pourkeivannour and O. Keysan, "A Comparative Study of Capacitive and Inductive Pulsed Power Supply Topologies for Electromagnetic Launcher Applications," 2019 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2019 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM), Istanbul, Turkey, 2019, pp. 297-303. doi:10.1109/ACEMP-OPTIM44294.2019.9007196
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007196&isnumber=9007116
+* D. Ceylan, S. Pourkeivannour and O. Keysan, "[A Comparative Study of Capacitive and Inductive Pulsed Power Supply Topologies for Electromagnetic Launcher Applications,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007196&isnumber=9007116)" 2019 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2019 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM), Istanbul, Turkey, 2019, pp. 297-303. doi:10.1109/ACEMP-OPTIM44294.2019.9007196
 
 ### 2018
 * M. A. Mueller et al., "Improving the Thermal Performance of Rotary and Linear Air-Cored Permanent Magnet Machines for Direct Drive Wind and Wave Energy Applications," in IEEE Transactions on Energy Conversion, vol. 34, no. 2, pp. 773-781, June 2019. doi: 10.1109/TEC.2018.2881340,
