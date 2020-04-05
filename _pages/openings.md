@@ -62,8 +62,10 @@ These are some informations about on-going projects:
   <li> Model predictive control of an induction motor with fault detection </li>
   
 
-  
-
+  <li> Development of Decision Support Methods for Restoration in Earthquake-Damaged Medium Voltage Electrical Distribution Networks</li>
+  <ul>
+  <li>Project Type: TÜBİTAK – 1001 </li>
+  </ul>    
 </ul>
 
 ## Completed Projects
@@ -100,6 +102,26 @@ These are some informations about on-going projects:
       <li>Project Type: ASELSAN SST </li>
       <li>Project Budget: 397.000 TL</li>
       <li>Project Duration: 12 months </li>
+  </ul>
+  
+  <li> Design and Manufacturing of a Eddy Current Damper for Aerospace Application</li>
+  <ul>
+      <li>Project Type: Andar Servo </li>
+  </ul>
+  
+   <li>Design and Manufacturing of a Brushless PM Servo Motor</li>
+  <ul>
+      <li>Project Type: Andar Servo </li>
+  </ul>
+  
+   <li>Design of a superconducting wind turbine prototype</li>
+  <ul>
+      <li>Project Type: Newton Fund Mobility Grant </li>
+  </ul>
+  
+  <li>Design of modular and fault-tolerant generators for direct-drive wind turbines.</li>
+  <ul>
+      <li>Project Type: TUBITAK 2232 </li>
   </ul>
   
 </ul> 
