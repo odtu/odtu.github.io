@@ -7,7 +7,7 @@
 
 _Abstract_: This paper presents a double sided permanent magnet linear synchronous motor (DSPMLSM) with novel V-shaped hairpin plate windings and diagonally placed square magnets. Unlike the conventional stranded round wires, proposed winding type offers easy manufacturing and high current densities. Air cored structure eliminates problems related to cogging torque. In order to obtain fast results, analytical magnetic field model of the motor is derived using magnetic scalar potential and verified with finite element analysis. Optimization using genetic algorithm is executed with analytical model, and 1 kW, 150 N, and 30 A DSPMLSM is proposed.
 
-<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/gokhanldia.jpg" width=800 align=left>
+<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/gokhanldia.jpg" width="800" align="left">
 
 
 ## Pulsed Power and Plasma Science Conference 2019 Orlando, USA 23-28 June, 2019
