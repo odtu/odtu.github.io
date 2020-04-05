@@ -10,6 +10,7 @@ permalink: /projects/
 # Projects
 These are some informations about on-going projects:
 - [Electromagnetic launcher](/railgun.md)
+⋅⋅* ASELSAN
 - [Wireless power transfer](/tubitak-1001-hakan.md)
 - [PCB motor](/pcbmotor.md)
 - [Axial flux PM motor](/AxialFPMMNFW.md)
