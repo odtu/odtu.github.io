@@ -16,15 +16,12 @@ permalink: /publications/
 
 ### 2020
 ### 2019
-* O. S. Alemdar, F. Karakaya and O. Keysan, "PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 2212-2218. doi: 10.1109/ECCE.2019.8913081,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913081&isnumber=8911826
-
-* İ. Şahin and O. Keysan, "A simplified discrete-time implementation of FCS-MPC applied to an IM drive," 2019 21st European Conference on Power Electronics and Applications (EPE '19 ECCE Europe), Genova, Italy, 2019, pp. P.1-P.8. doi: 10.23919/EPE.2019.8915204,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8915204&isnumber=8914733
+* O. S. Alemdar, F. Karakaya and O. Keysan, "[PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs]((http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913081&isnumber=8911826))," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 2212-2218. doi: 10.1109/ECCE.2019.8913081 
+* İ. Şahin and O. Keysan, "[A simplified discrete-time implementation of FCS-MPC applied to an IM drive](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8915204&isnumber=8914733)," 2019 21st European Conference on Power Electronics and Applications (EPE '19 ECCE Europe), Genova, Italy, 2019, pp. P.1-P.8. doi: 10.23919/EPE.2019.8915204,
 
 * Zeinali, Reza & Keysan, Ozan. (2019). A Rare-Earth Free Magnetically Geared Generator for Direct-Drive Wind Turbines. Energies. 12. 447. 10.3390/en12030447. 
-T. Yildiz and M. Gol, "A Malfunction Detection Method For PV Systems," 2019 IEEE Milan PowerTech, Milan, Italy, 2019, pp. 1-6. doi: 10.1109/PTC.2019.8810946,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8810946&isnumber=8810400
+
+T. Yildiz and M. Gol, "[A Malfunction Detection Method For PV Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8810946&isnumber=8810400)," 2019 IEEE Milan PowerTech, Milan, Italy, 2019, pp. 1-6. doi: 10.1109/PTC.2019.8810946,
 
 * M. Uğur and O. Keysan, "Multi-physics design optimisation of a GaN-based integrated modular motor drive system," in The Journal of Engineering, vol. 2019, no. 17, pp. 3900-3905, 6 2019.doi: 10.1049/joe.2018.8258,
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737042&isnumber=8737023
