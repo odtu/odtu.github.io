@@ -10,6 +10,11 @@ _Abstract_: This paper presents a double sided permanent magnet linear synchrono
 <img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/gokhanldia.jpg" width="800" align="left">
 <br>
 <br>
+
+
+
+
+
 ## Pulsed Power and Plasma Science Conference 2019 Orlando, USA 23-28 June, 2019
 ### Hakan Polat
 
