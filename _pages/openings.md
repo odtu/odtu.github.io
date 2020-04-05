@@ -25,6 +25,21 @@ These are some informations about on-going projects:
 - METU as a Smart Campus
 
 
+<ul>
+  <li>[Electromagnetic launcher](/railgun.md)</li>
+  <ul>
+    <li>ASELSAN Project</li>
+  </ul>
+  <li>[Wireless power transfer](/tubitak-1001-hakan.md)
+    <ul>
+      <li>TUBITAK 1001 Project</li>
+    </ul>
+  </li>
+  <li>[PCB motor](/pcbmotor.md)</li>
+</ul>
+
+
+
 
 ## Completed Projects
 
