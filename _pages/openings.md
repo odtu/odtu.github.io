@@ -23,7 +23,7 @@ These are some informations about on-going projects:
 - [Arçelik collaboration](/arcelik.md)
 ⋅⋅⋅Arçelik Project
 - METU as a Smart Campus
-
+<a href="/railgun.md">Electromagnetic launcher</a>
 
 <ul>
   <li>[Electromagnetic launcher](/railgun.md)</li>
