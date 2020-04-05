@@ -23,19 +23,35 @@ These are some informations about on-going projects:
 - [Arçelik collaboration](/arcelik.md)
 ⋅⋅⋅Arçelik Project
 - METU as a Smart Campus
-<a href="/railgun.md">Electromagnetic launcher</a>
+
 
 <ul>
-  <li>[Electromagnetic launcher](/railgun.md)</li>
+  <li><a href="/railgun.md">Electromagnetic launcher</a></li>
+  
   <ul>
     <li>ASELSAN Project</li>
   </ul>
-  <li>[Wireless power transfer](/tubitak-1001-hakan.md)
+  
+  <li><a href="/tubitak-1001-hakan.md">Wireless power transfer</a></li>
     <ul>
       <li>TUBITAK 1001 Project</li>
     </ul>
-  </li>
-  <li>[PCB motor](/pcbmotor.md)</li>
+  
+  <li><a href="/pcbmotor.md">PCB motor</a></li>
+  
+  <li><a href="/AxialFPMMNFW.md">Axial flux PM motor</a></li>
+  
+  <li><a href="/gimbal.md">Gimbal linear motor</a></li>
+  
+  <li><a href="/immd.md">Integrated modular motor drive system</a></li>
+  
+  <li><a href="/multiphase.md">Multiphase axial flux PM motor</a></li>
+  
+  <li><a href="/arcelik.md">Arçelik collaboration</a></li>
+  
+  <li> Model predictive control of an induction motor with fault detection </li>
+  
+  <li> METU as a Smart Campus </li>
 </ul>
 
 
