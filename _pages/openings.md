@@ -13,7 +13,7 @@ These are some informations about on-going projects:
 
 
 <ul>
-  <li><a href="/railgun.md">Electromagnetic launcher: Phase 3</a></li>
+  <li><a href="https://odtu.github.io/_pages/railgun.html">Electromagnetic launcher: Phase 3</a></li>
   
   <ul>
   <li>Project Type: ASELSAN </li>
