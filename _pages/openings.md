@@ -21,14 +21,14 @@ These are some informations about on-going projects:
   <li>Project Duration: 15 months </li>
   </ul>
   
-  <li><a href="/tubitak-1001-hakan.md">Wireless power transfer</a></li>
+  <li><a href="https://odtu.github.io/projects/tubitak-1001-hakan.md">Wireless power transfer</a></li>
     <ul>
       <li>Project Type: TUBITAK 1001</li>
       <li>Project Budget: 380.000 TL</li>
       <li>Project Duration: 24 months</li>
     </ul>
     
-   <li><a href="/immd.md">Integrated modular motor drive system</a></li>
+   <li><a href="/immd.md">Integrated modular motor drive system (IMMD)</a></li>
     <ul>
       <li>Project Type: TUBITAK 3501</li>
       <li>Project Budget: 177.000 TL</li>
