@@ -14,7 +14,6 @@ permalink: /publications/
 [Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao),
 [Ozan Keysan](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao),
 
-### 2020
 ### 2019 
 * O. S. Alemdar, F. Karakaya and O. Keysan, "[PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs]((http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913081&isnumber=8911826))," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 2212-2218. doi: 10.1109/ECCE.2019.8913081 
 * İ. Şahin and O. Keysan, "[A simplified discrete-time implementation of FCS-MPC applied to an IM drive](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8915204&isnumber=8914733)," 2019 21st European Conference on Power Electronics and Applications (EPE '19 ECCE Europe), Genova, Italy, 2019, pp. P.1-P.8. doi: 10.23919/EPE.2019.8915204,
