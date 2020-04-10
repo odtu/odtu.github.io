@@ -1,15 +1,3 @@
-- name: Orhun Taşoğlu
-  photo: htht.jpeg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2020(Expected)
-
-- name: Yunus Bilge Kurt
-  photo: Yunus-Bilge-Kurt.jpeg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2021(Expected)
-
 - name: Fahri Türedi
   photo: fahri_turedi.jpg
   info: Undergraduate Researcher
@@ -42,12 +30,6 @@
 
 - name: Ogün Altun
   photo: ogun_altun.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2020(Expected)
-
-- name: Burak Yalçın
-  photo: burak_yalcın.JPG
   info: Undergraduate Researcher
   number_educ: 1
   education1: Undergraduate, METU, 2020(Expected)
