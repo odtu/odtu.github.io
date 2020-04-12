@@ -2,7 +2,7 @@
 title: "Powerlab - Pictures"
 layout: piclay
 excerpt: "Powerlab -- Pictures"
-permalink: /pictures/
+permalink: /pictures2/
 ---
 
 # Pictures
