@@ -9,11 +9,11 @@ permalink: /publications/
 
 # Publications
 
-(For full and recent list of publications please visit the Google Scholar profiles of principal investigators: 
+(For full and recent list of publications please visit the [Google Scholar](https://scholar.google.com/) profiles of principal investigators: 
 
-- [Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao),
-- [Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao),
-- [Ozan Keysan](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao),
+- [Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao)
+- [Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao)
+- [Ozan Keysan](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao)
 
 ## 2019 
 
@@ -21,106 +21,61 @@ permalink: /publications/
 
 #### Gökhan Çakal, LDIA, 2019, Switzerland
 
-* The 12th International Symposium on Linear Drives for Industry Applications (LDIA 2019), Neuchatel, Switzerland
-
-* [Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding](https://ieeexplore.ieee.org/document/8771020)
+* [Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding](https://ieeexplore.ieee.org/document/8771020), The 12th International Symposium on Linear Drives for Industry Applications (LDIA 2019), Neuchatel, Switzerland
 
 <img src="../images/confpic/gokhanldia.jpg" width="500" align="center">
 
 
 #### Hakan Polat, IEEE PPS, Orlando USA
 
-* Pulsed Power and Plasma Science Conference 2019 Orlando, USA
-* [Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems](https://ieeexplore.ieee.org/document/9009612)
+* [Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems](https://ieeexplore.ieee.org/document/9009612), Pulsed Power and Plasma Science Conference 2019 Orlando, USA
 
-
-<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/hakanppps.jfif" width="500" align="center">
+<img src="../images/confpic/hakanppps.jfif" width="500" align="center">
 
 
 #### Hande Bayazıt,  PEDS, France
 
-* 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 9-12 July 2019
+* [Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM](https://ieeexplore.ieee.org/document/8998851), 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 9-12 July 2019
 
-* [Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM](https://ieeexplore.ieee.org/document/8998851)
-
-_Abstract_: In this study, fault tolerance and redundancy capabilities of different phase and winding configurations of an Integrated Modular Motor Drive (IMMD) system are investigated. This is made possible by manipulating gate drive signals of the inverter and phase connections. Three and four phase connections as well as symmetric and asymmetric six-phase topologies are described. Control strategies and redundancy possibilities of these different topologies under an open circuit fault condition are examined in MATLAB/Simulink environment and validated with Finite Element Analysis (FEA) software ANSYS/Maxwell. Considering a decrease of only 12% in average output torque and 0.7% torque ripple under an open circuit failure recovery operation with rated currents, symmetric six-phase topology is decided to be the most promising configuration by means of fault tolerance.
-
-<br>
-<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/handepeds.jpg" width="600" align="center">
-<br>
-<br>
-
-## EPE’19 ECCE Europe, Genova, Italy, September 2-6 2019
-### İlker Şahin
-#### A Simplified Discrete-Time Implementation of FCS-MPC Applied to an IM Drive
-
-_Abstract_: Model predictive control (MPC) has drawn significant attention from the power electronics research community in the last decade. Regarding the application of MPC in motor control, several studies have been conducted that include design and implementation of various predictive torque control techniques. In this study, MPC of an induction motor is implemented via TMDXIDDK379D, a motor drive development platform produced by Texas Instruments (TI). The main motivation is to show the engineers and researchers a way of simple, fast and low cost experimentation on MPC. By using an off the shelf motor drive development platform and modifying the existing macros and libraries for motor control, the implementation time and difficulty can be reduced considerably. Extensive experimental data on the drive performance is also provided.
+<img src="../images/confpic/handepeds.jpg" width="500" align="center">
 
 
 
-## 2019 IEEE 13th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), Sonderborg, Denmark, 23-25 April 2019.
+#### Öztürk Şahin Alemdar, ECCE, Baltimore USE
 
-### Hüseyin Yürük
+* [PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs](https://ieeexplore.ieee.org/document/8913081), 2019 IEEE Energy Conversion Congress and Exposition (ECCE),  Baltimore, MD, USA, 29 Sept.-3 Oct. 2019.
 
-#### High Bandwidth Current Control via Nonlinear Compensation and GaN-based VSI
+<img src="../images/confpic/sahinecce.jpg" width="800" align="center">
 
-_Abstract_: Nonlinearities in the voltage source inverter (VSI) such as dead time, switching time, delay time, voltage drops on the power switches, parasitic capacitances etc. are considered to be the main sources of the output voltage distortions. These distortions result in low order harmonics in the output current, which in turn increase core losses and create torque ripples. In particular, in the low speed and low torque applications the control performance and the stability of the system degrades substantially. Although as the switching frequency increases the effects of the dead time, the switching time and the delay time become more notable, to achieve a high current control bandwidth higher switching frequency is required. High performance VSI-fed motor drive can be realized both by reducing the effects of the VSI nonlinearities and by having a high current control bandwidth. In this work, GaN transistor based VSI-fed permanent magnet synchronous motor (PMSM) drive is used to achieve a high current control bandwidth. Since the current loop is the inner most loop of the control loop, it enables the outer speed and position loops to be faster. This high performance servo motor drive can be used in applications such as control of pedestals, robot arms, optic stabilizers, CNC machines, active vibration cancellers etc. that require high control bandwidths.
+#### Furkan Karakaya, SiC-GaN Forum, Germany
 
-##  2019 IEEE Energy Conversion Congress and Exposition (ECCE),  Baltimore, MD, USA, 29 Sept.-3 Oct. 2019.
+* ECPE SiC & GaN Forum Potential of Wide Bandgap Semiconductors in Power Electronic Applications, 26-27 March 2019, Munich, Germany
 
-### Öztürk Şahin Alemdar
-#### PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs
+<img src="../images/confpic/furkanseminer.jpg" width="500" align="center">
 
-_Abstract_: Gallium Nitride Enhancement-Mode High Electron Mobility Transistors (GaN HEMTs) are superior to other power transistors in terms of efficiency, package size and switching speed which leads to increased power density in power converter applications. However, GaN HEMTs have much shorter short-circuit withstand time compared to the conventional devices, which is limited to several hundred nanoseconds. Therefore, reliable and fast protection solutions are required to protect GaN HEMTs from fatal over-current failures. In this paper, a novel short-circuit (SC) protection scheme based on fault current sensing by using Printed Circuit Board (PCB) layout parasitics is proposed. The proposed scheme uses the voltage drop on the parasitic inductance of the PCB trace to detect very intense high slew rate SC faults. In addition, the voltage drop on the parasitic resistance of the PCB trace is utilized to detect relatively slow over-current (OC) faults. Once a fault is detected, a soft turn-off mechanism is initiated by the proposed circuit to turnoff devices gradually to eliminate over-voltage breakdown risk. The proposed circuit is verified by both SPICE simulations and hardware implementation. The experimental results show that both SC and OC faults can be detected and GaN HEMTs can be protected. The total operation duration for the circuit is 370 ns during a SC fault. The SC fault can be detected within 30 ns and the soft turn-off mechanism is initiated within 80 ns to terminate the SC current flowing through the GaN HEMTs within 290 ns.
+#### Furkan Karakaya, EPFL, Switzerland
 
-<br>
-<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/sahinecce.jpg" width="600" align="center">
-<br>
-<br>
+* E3 - EPFL Excellence in Engineering Summer Fellowship Program, 1 June - 28 August 2019, Lausanne, Switzerland
 
 
-## ECPE Tutorial 'Power Circuits for Clean Switching and Low Losses', 17-18 October 2018, Lyon, France
-### Furkan Karakaya
-
-The tutorial covered the best layout design techniques to minimize parasitic effects on a circuitry. The source of disturbances is analyzed and explained.
-
-## ECPE SiC & GaN Forum Potential of Wide Bandgap Semiconductors in Power Electronic Applications, 26-27 March 2019, Munich, Germany
-### Furkan Karakaya
-Researchers from all around the world had met to discuss the future potentials of wide bandgap semiconductors in power electronics applications. Researchers shared experience and ideas to discuss and find out which power electronic systems are predestinated for the usage of wide bandgap devices and how to appropriately design-in those novels, almost ideal but also challenging components.
-
-<br>
-<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/furkanseminer.jpg" width="600" align="center">
-<br>
-<br>
+<img src="../images/confpic/furkanepfl.jpeg" width="800" align="center">
 
 
-## E3 - EPFL Excellence in Engineering Summer Fellowship Program, 1 June - 28 August 2019, Lausanne, Switzerland
-### Furkan Karakaya
-I joined Powerlab research group at EPFL under the supervision of Prof. Elison Matioli. I mainly studied on a GaN-based Dual-Active-Bridge Converter project and I have designed a control board for this project. Besides, I worked on the characterization of gate charge of GaNFETs and we characterized gate charge for soft-switching and hard-switching conditions.  
+#### İlker Şahin, EPE, Italy
+
+* [A Simplified Discrete-Time Implementation of FCS-MPC Applied to an IM Drive](https://ieeexplore.ieee.org/abstract/document/8915204), EPE’19 ECCE Europe, Genova, Italy, September 2-6 2019
+
+#### Hüseyin Yürük,  CPE-Powereng, Denmark
+
+* [High Bandwidth Current Control via Nonlinear Compensation and GaN-based VSI](https://ieeexplore.ieee.org/abstract/document/8862414), 2019 IEEE 13th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), Sonderborg, Denmark, 23-25 April 2019.
+
+#### Enes Ayaz, ECPE Workshop, Germany
+
+* ECPE Workshop: “Power Semiconductors in Medium Voltage Applications- SiC vs. Silicon”, December 3-4, 2019, Freiburg, Germany.
 
 
-<br>
-<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/furkanepfl.jpeg" width="600" align="center">
-<br>
-<br>
+## Publications
 
-
-
-## ECPE Workshop:“Power Semiconductors in Medium Voltage Applications- SiC vs. Silicon”, December 3-4, 2019, Freiburg, Germany.
-### Enes Ayaz
-The workshop is organized by ECPE , the European Center for Power
-Electronics, which has a lot of industrial members such as ABB, BMW,
-ALSTOM, etc. The workshop is mainly about the comparison of SiC and
-Silicon-based power semiconductors such as IGBTs and diodes for medium
-voltage applications. It lasted 2 days and there were 22 sections that
-are divided into the topics which are called High Voltage Power
-Devices, High Voltage Packaging, and Isolation, Passive Components,
-Medium Voltage Converter design, Gate driver for medium voltage and
-Future of the DCHV. Also, there were  lab tours to Fraunhofer ISE. The
-laboratories are used for 100kV/20kV/40MVA AC/AC (Transformer), DC/AC
-(Inverter Applications), DC/DC (SMPS topologies)
-
-### Publications
 
 * O. S. Alemdar, F. Karakaya and O. Keysan, "[PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs]((http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913081&isnumber=8911826))," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 2212-2218. doi: 10.1109/ECCE.2019.8913081 
 
@@ -158,6 +113,7 @@ URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8771020&isnumber=87
 
 
 ### 2018
+
 * M. A. Mueller et al., "Improving the Thermal Performance of Rotary and Linear Air-Cored Permanent Magnet Machines for Direct Drive Wind and Wave Energy Applications," in IEEE Transactions on Energy Conversion, vol. 34, no. 2, pp. 773-781, June 2019. doi: 10.1109/TEC.2018.2881340,
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8534445&isnumber=8714086
 
