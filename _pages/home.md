@@ -39,7 +39,10 @@ Please [join to our mail-list](https://mailman.metu.edu.tr/mailman/listinfo/ee-p
 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/6.jpg" alt="Slide 1" />
-        </div>
+         	<div class="carousel-caption d-none d-md-block">
+    		 <p>Deneme</p>
+  		</div>
+	 </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5.jpg" alt="Slide 2" />
         </div>
