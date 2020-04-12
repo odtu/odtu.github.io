@@ -10,74 +10,31 @@ permalink: /publications/
 # Publications
 
 (For full and recent list of publications please visit the Google Scholar profiles of principal investigators: 
-[Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao),
-[Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao),
-[Ozan Keysan](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao),
 
-### 2019 
-* O. S. Alemdar, F. Karakaya and O. Keysan, "[PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs]((http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913081&isnumber=8911826))," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 2212-2218. doi: 10.1109/ECCE.2019.8913081 
-* İ. Şahin and O. Keysan, "[A simplified discrete-time implementation of FCS-MPC applied to an IM drive](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8915204&isnumber=8914733)," 2019 21st European Conference on Power Electronics and Applications (EPE '19 ECCE Europe), Genova, Italy, 2019, pp. P.1-P.8. doi: 10.23919/EPE.2019.8915204,
+- [Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao),
+- [Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao),
+- [Ozan Keysan](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao),
 
-* Zeinali, Reza & Keysan, Ozan. (2019). A Rare-Earth Free Magnetically Geared Generator for Direct-Drive Wind Turbines. Energies. 12. 447. 10.3390/en12030447. 
+## 2019 
 
-* T. Yildiz and M. Gol, "[A Malfunction Detection Method For PV Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8810946&isnumber=8810400)," 2019 IEEE Milan PowerTech, Milan, Italy, 2019, pp. 1-6. doi: 10.1109/PTC.2019.8810946,
+### Conferences and Seminars
 
-* M. Uğur and O. Keysan, "[Multi-physics design optimisation of a GaN-based integrated modular motor drive system](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737042&isnumber=8737023)," in The Journal of Engineering, vol. 2019, no. 17, pp. 3900-3905, 6 2019.doi: 10.1049/joe.2018.8258,
+#### Gökhan Çakal, LDIA, 2019, Switzerland
 
-* E. A. Gol, B. G. Erkal and M. Göl, "[A Novel MDP Based Decision Support Framework to Restore Earthquake Damaged Distribution Systems,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8905675&isnumber=8905428)" 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest, Romania, 2019, pp. 1-5. doi: 10.1109/ISGTEurope.2019.8905675,
+* The 12th International Symposium on Linear Drives for Industry Applications (LDIA 2019), Neuchatel, Switzerland
 
+* [Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding](https://ieeexplore.ieee.org/document/8771020)
 
-* A. Madan and E. Bostanci, "[Comparison of Two-Level and Three-Level NPC Inverter Topologies for a PMSM Drive for Electric Vehicle Applications,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007197&isnumber=9007116)" 2019 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2019 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM), Istanbul, Turkey, 2019, pp. 147-154.
-doi: 10.1109/ACEMP-OPTIM44294.2019.9007197,
-
-* U. C. Yilmaz, M. E. Sezgin and M. Gol, " [A Model Predictive Control for Microgrids Considering Battery Aging,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913672&isnumber=8816648)" in Journal of Modern Power Systems and Clean Energy.
-doi: 10.35833/MPCE.2018.000804,
-
-* Ilseven, Engin & Gol, Murat. (2019). A Comparative Study on Feature Selection Based Improvement of Medium-Term Demand Forecast Accuracy. 1-6. 10.1109/PTC.2019.8810598. 
-
-* D. Ceylan, M. Karagöz, Y. Çevik, B. Yıldırım, H. Polat and O. Keysan, "[Simulations and Experiments of EMFY-1 Electromagnetic Launcher,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8727719&isnumber=8753765
-)" in IEEE Transactions on Plasma Science, vol. 47, no. 7, pp. 3336-3343, July 2019. doi: 10.1109/TPS.2019.2916220,
- 
-* G. Çakal and O. Keysan, "Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding," 2019 12th International Symposium on Linear Drives for Industry Applications (LDIA), Neuchatel, Switzerland, 2019, pp. 1-5. doi: 10.1109/LDIA.2019.8771020,
-URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8771020&isnumber=8770968
-
-* Tarvirdilu Asl, Rasul & YÜKSEL, HÜSEYİN & keysan, ozan. (2019). Multi-objective design optimization of a permanent magnet axial flux eddy current brake. Turkish Journal of Electrical Engineering and Computer Sciences. 27. 998-1011. 10.3906/elk-1802-65. 
-
-* H. Polat, D. Ceylan and O. Keysan, "[Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009612&isnumber=9009611)" 2019 IEEE Pulsed Power & Plasma Science (PPPS), Orlando, FL, USA, 2019, pp. 1-6. doi: 10.1109/PPPS34859.2019.9009612
-
-* G. H. Bayazıt, M. Uğur and O. Keysan, "[Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8998851&isnumber=8998754)," 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 2019, pp. 1-6. doi: 10.1109/PEDS44367.2019.8998851,
-
-* D. Ceylan, S. Pourkeivannour and O. Keysan, "[A Comparative Study of Capacitive and Inductive Pulsed Power Supply Topologies for Electromagnetic Launcher Applications,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007196&isnumber=9007116)" 2019 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2019 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM), Istanbul, Turkey, 2019, pp. 297-303. doi:10.1109/ACEMP-OPTIM44294.2019.9007196
-
-# 2019 Conferences and Seminars
-
-## The 12th International Symposium on Linear Drives for Industry Applications (LDIA 2019), Neuchatel, Switzerland, July 1-3, 2019.
-### Gökhan Çakal
-
-#### Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding
-
-_Abstract_: This paper presents a double sided permanent magnet linear synchronous motor (DSPMLSM) with novel V-shaped hairpin plate windings and diagonally placed square magnets. Unlike the conventional stranded round wires, proposed winding type offers easy manufacturing and high current densities. Air cored structure eliminates problems related to cogging torque. In order to obtain fast results, analytical magnetic field model of the motor is derived using magnetic scalar potential and verified with finite element analysis. Optimization using genetic algorithm is executed with analytical model, and 1 kW, 150 N, and 30 A DSPMLSM is proposed.
-
-<br>
-<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/gokhanldia.jpg" width="600" align="center">
-<br>
-<br>
+<img src="../images/confpic/gokhanldia.jpg" width="500" align="center">
 
 
+#### Hakan Polat, IEEE PPS, Orlando USA
+
+* Pulsed Power and Plasma Science Conference 2019 Orlando, USA
+* [Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems](https://ieeexplore.ieee.org/document/9009612)
 
 
-
-## Pulsed Power and Plasma Science Conference 2019 Orlando, USA 23-28 June, 2019
-### Hakan Polat
-
-#### Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems
-
-_Abstract_: The utilization of external field windings in electromagnetic launchers provides an additional electromagnetic field between the rails of an electromagnetic launcher which increases the Lorentz force acting on the armature in the acceleration direction. However, additional magnetic field created by the conventional copper windings are very limited due to their low maximum current carrying capability. Therefore, using high temperature superconductors (HTS) with a current carrying capability up to 100 A/mm^2 for the external coils can be used to increase the magnetic field density between  rails. This paper presents an optimization study for the design of two external coils with rectangular tape YBCO superconducting wire. The HTS coils are proposed to increase the efficiency of a 3 meter long launcher with 25 mm x 20 mm rectangular bore caliber. The optimization parameters are selected as the magnitude of the DC coil current, the coil position, the number of turns of the coil, and the number of coil layers. Also, the objective function of the optimization is the electromagnetic force acting on the armature, which is dependent of the rail current and B field on the armature. During the operation of the launcher and the external coils, it is critical to prevent quenching of the HTS coils due to the perpendicular and tangential magnetic field on the coils, temperature and current density of the coils. In order to estimate the quench and calculate the objective function, finite element analysis (FEA) is used in 2D. Real coded genetic algorithm (RCGA) is also used as optimization method. The results of the optimization study shows that HTS coil augmentation is feasible for small caliber railguns. The HTS coil position is limited by cryogenic chamber and rail containment dimensions. The maximum coil current is determined by the self field due to cancellation B field generated by the rails and the coils. For 500 kA rail current the force acting on the armature increases from 55 kN to 70 kN with and increase rate of 26\% , a muzzle velocity increase from 1650 m/s to 1900 m/s with an increase rate of 12\% and a muzzle energy increase from 160 kJ to 210 kJ with and increase rate of 25\% when external HTS coil augmentation is used.
-
-<br>
-<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/hakanppps.jfif" width="600" align="center">
-<br>
-<br>
+<img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/hakanppps.jfif" width="500" align="center">
 
 
 ## 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 9-12 July 2019
@@ -160,6 +117,43 @@ Medium Voltage Converter design, Gate driver for medium voltage and
 Future of the DCHV. Also, there were  lab tours to Fraunhofer ISE. The
 laboratories are used for 100kV/20kV/40MVA AC/AC (Transformer), DC/AC
 (Inverter Applications), DC/DC (SMPS topologies)
+
+### Publications
+
+* O. S. Alemdar, F. Karakaya and O. Keysan, "[PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs]((http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913081&isnumber=8911826))," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 2212-2218. doi: 10.1109/ECCE.2019.8913081 
+
+* İ. Şahin and O. Keysan, "[A simplified discrete-time implementation of FCS-MPC applied to an IM drive](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8915204&isnumber=8914733)," 2019 21st European Conference on Power Electronics and Applications (EPE '19 ECCE Europe), Genova, Italy, 2019, pp. P.1-P.8. doi: 10.23919/EPE.2019.8915204,
+
+* Zeinali, Reza & Keysan, Ozan. (2019). A Rare-Earth Free Magnetically Geared Generator for Direct-Drive Wind Turbines. Energies. 12. 447. 10.3390/en12030447. 
+
+* T. Yildiz and M. Gol, "[A Malfunction Detection Method For PV Systems](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8810946&isnumber=8810400)," 2019 IEEE Milan PowerTech, Milan, Italy, 2019, pp. 1-6. doi: 10.1109/PTC.2019.8810946,
+
+* M. Uğur and O. Keysan, "[Multi-physics design optimisation of a GaN-based integrated modular motor drive system](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737042&isnumber=8737023)," in The Journal of Engineering, vol. 2019, no. 17, pp. 3900-3905, 6 2019.doi: 10.1049/joe.2018.8258,
+
+* E. A. Gol, B. G. Erkal and M. Göl, "[A Novel MDP Based Decision Support Framework to Restore Earthquake Damaged Distribution Systems,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8905675&isnumber=8905428)" 2019 IEEE PES Innovative Smart Grid Technologies Europe (ISGT-Europe), Bucharest, Romania, 2019, pp. 1-5. doi: 10.1109/ISGTEurope.2019.8905675,
+
+* A. Madan and E. Bostanci, "[Comparison of Two-Level and Three-Level NPC Inverter Topologies for a PMSM Drive for Electric Vehicle Applications,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007197&isnumber=9007116)" 2019 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2019 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM), Istanbul, Turkey, 2019, pp. 147-154.
+doi: 10.1109/ACEMP-OPTIM44294.2019.9007197,
+
+* U. C. Yilmaz, M. E. Sezgin and M. Gol, " [A Model Predictive Control for Microgrids Considering Battery Aging,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8913672&isnumber=8816648)" in Journal of Modern Power Systems and Clean Energy.
+doi: 10.35833/MPCE.2018.000804,
+
+* Ilseven, Engin & Gol, Murat. (2019). A Comparative Study on Feature Selection Based Improvement of Medium-Term Demand Forecast Accuracy. 1-6. 10.1109/PTC.2019.8810598. 
+
+* D. Ceylan, M. Karagöz, Y. Çevik, B. Yıldırım, H. Polat and O. Keysan, "[Simulations and Experiments of EMFY-1 Electromagnetic Launcher,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8727719&isnumber=8753765
+)" in IEEE Transactions on Plasma Science, vol. 47, no. 7, pp. 3336-3343, July 2019. doi: 10.1109/TPS.2019.2916220,
+ 
+* G. Çakal and O. Keysan, "Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding," 2019 12th International Symposium on Linear Drives for Industry Applications (LDIA), Neuchatel, Switzerland, 2019, pp. 1-5. doi: 10.1109/LDIA.2019.8771020,
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8771020&isnumber=8770968
+
+* Tarvirdilu Asl, Rasul & YÜKSEL, HÜSEYİN & keysan, ozan. (2019). Multi-objective design optimization of a permanent magnet axial flux eddy current brake. Turkish Journal of Electrical Engineering and Computer Sciences. 27. 998-1011. 10.3906/elk-1802-65. 
+
+* H. Polat, D. Ceylan and O. Keysan, "[Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9009612&isnumber=9009611)" 2019 IEEE Pulsed Power & Plasma Science (PPPS), Orlando, FL, USA, 2019, pp. 1-6. doi: 10.1109/PPPS34859.2019.9009612
+
+* G. H. Bayazıt, M. Uğur and O. Keysan, "[Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8998851&isnumber=8998754)," 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 2019, pp. 1-6. doi: 10.1109/PEDS44367.2019.8998851,
+
+* D. Ceylan, S. Pourkeivannour and O. Keysan, "[A Comparative Study of Capacitive and Inductive Pulsed Power Supply Topologies for Electromagnetic Launcher Applications,](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007196&isnumber=9007116)" 2019 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2019 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM), Istanbul, Turkey, 2019, pp. 297-303. doi:10.1109/ACEMP-OPTIM44294.2019.9007196
+
 
 ### 2018
 * M. A. Mueller et al., "Improving the Thermal Performance of Rotary and Linear Air-Cored Permanent Magnet Machines for Direct Drive Wind and Wave Energy Applications," in IEEE Transactions on Energy Conversion, vol. 34, no. 2, pp. 773-781, June 2019. doi: 10.1109/TEC.2018.2881340,
