@@ -43,21 +43,41 @@ Please [join to our mail-list](https://mailman.metu.edu.tr/mailman/listinfo/ee-p
     		 <p>Deneme</p>
   		</div>
 	 </div>
+
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/5.jpg" alt="Slide 2" />
-        </div>
+		<div class="carousel-caption d-none d-md-block">
+    		 <p>Deneme</p>
+  		</div>        
+	</div>
+
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.jpg" alt="Slide 3" />
+		<div class="carousel-caption d-none d-md-block">
+    		 <p>Deneme</p>
+  		</div>
         </div>
+
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/3.jpg" alt="Slide 4" />
+		<div class="carousel-caption d-none d-md-block">
+    		 <p>Deneme</p>
+  		</div>
         </div>
+
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.jpg" alt="Slide 5" />
+		<div class="carousel-caption d-none d-md-block">
+    		 <p>Deneme</p>
+  		</div>
         </div>
+
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.jpg" alt="Slide 6" />
-        </div>
+		<div class="carousel-caption d-none d-md-block">
+    		 <p>Deneme</p>
+  		</div>      
+	  </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
