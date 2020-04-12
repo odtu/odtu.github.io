@@ -1,14 +1,14 @@
 ---
-title: "News"
+title: "Latest News"
 layout: textlay
 excerpt: "Powerlab at METU."
 sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+# Latest News
 
 {% for article in site.data.news %}
-<p>{{ article.date }} <br>
+<p><b>{{ article.date }} </b> <br>
 <em>{{ article.headline }}</em></p>
 {% endfor %}
