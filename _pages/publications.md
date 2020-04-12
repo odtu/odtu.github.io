@@ -9,11 +9,11 @@ permalink: /publications/
 
 # Publications
 
-(For full and recent list of publications please visit the [Google Scholar](https://scholar.google.com/) profiles of principal investigators: 
+#### (For full and recent list of publications please visit the [Google Scholar](https://scholar.google.com/) profiles of principal investigators: 
 
-- [Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao)
-- [Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao)
-- [Ozan Keysan](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao)
+#### - [Emine Bostancı, Google Scholar](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao)
+#### - [Murat Göl, Google Scholar](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao)
+#### - [Ozan Keysan, Google Scholar](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao)
 
 ## 2019 
 
