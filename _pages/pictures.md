@@ -14,6 +14,6 @@ Click for larger images.
 
 #### Our office, C-114 has been renewed :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDRVwYTOJbw" frameborder="0" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/cDRVwYTOJbw" frameborder="0" allowfullscreen></iframe>
 
 
