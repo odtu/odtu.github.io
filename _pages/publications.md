@@ -37,9 +37,11 @@ permalink: /publications/
 <img src="https://raw.githubusercontent.com/odtu/odtu.github.io/master/_pages/hakanppps.jfif" width="500" align="center">
 
 
-## 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 9-12 July 2019
-### Göksenin Hande Bayazıt
-#### Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM
+#### Hande Bayazıt,  PEDS, France
+
+* 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 9-12 July 2019
+
+* [Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM](https://ieeexplore.ieee.org/document/8998851)
 
 _Abstract_: In this study, fault tolerance and redundancy capabilities of different phase and winding configurations of an Integrated Modular Motor Drive (IMMD) system are investigated. This is made possible by manipulating gate drive signals of the inverter and phase connections. Three and four phase connections as well as symmetric and asymmetric six-phase topologies are described. Control strategies and redundancy possibilities of these different topologies under an open circuit fault condition are examined in MATLAB/Simulink environment and validated with Finite Element Analysis (FEA) software ANSYS/Maxwell. Considering a decrease of only 12% in average output torque and 0.7% torque ripple under an open circuit failure recovery operation with rated currents, symmetric six-phase topology is decided to be the most promising configuration by means of fault tolerance.
 
