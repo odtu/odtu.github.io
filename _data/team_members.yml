@@ -5,6 +5,13 @@
   number_educ: 1
   education1: BSc, METU, 2019
 
+- name: Ogün Altun
+  photo: ogun_altun.jpg
+  ofis: C-114
+  info: Research & Teaching Assistant
+  number_educ: 1
+  education1: BSc, METU, 2020
+
 - name: Enes Ayaz
   photo: enesayaz.jpeg
   ofis: ARC-300
@@ -33,6 +40,13 @@
   number_educ: 1
   education1: BSc, METU, 2019
 
+- name: Emre Karabakla
+  photo: emre_karabakla.png
+  ofis: ARC-300
+  info: Research & Teaching Assistant
+  number_educ: 1
+  education1: BSc, METU, 2020
+  
 - name: Furkan Karakaya
   photo: furkank.png
   ofis: ARC-300
@@ -84,13 +98,6 @@
   ofis: E-101
   info: Research Assistant
 
-- name: Siamak Pourkeivannour
-  photo: siamak.jpg
-  ofis: C-114
-  info: Research Assistant
-  number_educ: 1
-  education1: MSc, METU, 2019
-
 - name: Berkay Sağlam
   photo: berkay_saglam.jpeg
   ofis: E-101
@@ -100,7 +107,6 @@
 
 - name: M. Erdem Sezgin
   photo: foto-erdem.jpg
-  ofis: E-101
   info: Research & Teaching Assistant
   number_educ: 2
   education1: BSc, METU, 2015
@@ -108,7 +114,6 @@
 
 - name: İlker Şahin
   photo: silker.png
-  ofis: C-114
   info: Research Assistant
   number_educ: 2
   education1: BSc, METU, 2012
@@ -116,7 +121,6 @@
 
 - name: Hakan Saraç
   photo: hakan_sarac.jpg
-  ofis: ARC-300
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2018
@@ -137,7 +141,6 @@
 
 - name: Mesut Uğur
   photo: mesutugur.jpg
-  ofis: ARC-300
   info: Research Assistant
   number_educ: 2
   education1: BSc, METU, 2012
