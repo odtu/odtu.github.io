@@ -4,6 +4,18 @@
   number_educ: 1
   education1: Undergraduate, METU, 2021(Expected)
 
+- name: Enes Canbolat
+  photo: enes_canbolat.jpg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2021(Expected)
+
+- name: Zeynep Çöklü
+  photo: zeynep_coklu.jpg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2023(Expected)
+  
 - name: Ahmet Fatih Eser
   photo: fatih_eser.jpeg
   info: Undergraduate Researcher
