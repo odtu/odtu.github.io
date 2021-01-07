@@ -28,10 +28,11 @@
 
 - name: Gökhan Çakal
   photo: gokhan.jpg
-  ofis: ARC-300
+  ofis: ARC-301
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2017
+  education2 : MSc, METU, 2020
 
 - name: İven Güzel
   photo: iven_guzel.jpeg
@@ -42,7 +43,7 @@
 
 - name: Emre Karabakla
   photo: emre_karabakla.png
-  ofis: ARC-300
+  ofis: RÜZGEM
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2020
@@ -53,10 +54,11 @@
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2017
+  education2 : MSc, METU, 2020
 
 - name: Salar Koushan
   photo: salarcim.jpg
-  ofis: C-114
+  ofis: ARC-301
   info: Research Assistant
   number_educ: 2
   education1: BSc, University of Tabriz, 2014
@@ -80,7 +82,7 @@
 
 - name: Serhat Özküçük
   photo: serhat.jpg
-  ofis: C-106
+  ofis: C-114
   info: Research & Teaching Assistant
   number_educ: 2
   education1: BSc, Dokuz Eylül U., 2015
