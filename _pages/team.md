@@ -139,7 +139,7 @@ permalink: /team/
 {% if number_printed == 13 %}
 </div>
 {% endif %}
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 ## Undergraduate Students
 
@@ -200,7 +200,7 @@ permalink: /team/
 {% if even_odd == 2 %}
 </div>
 {% endif %}
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 ## Alumni of PowerLab
 
