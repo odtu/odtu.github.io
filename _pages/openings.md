@@ -11,16 +11,31 @@ permalink: /projects/
 These are some informations about on-going projects:
 
 
-ASELSAN: Hibrit Durum Kestirimi Algoritması Geliştirilmesi (Development of Hybrid State Estimation Algorithm), 2020-2021, Yürütücü (PI).
-ENERJİSA: Merkezi Mikro Şebeke Kontrol Sistemi ve Saha Birimi Geliştirilmesi (Developing a Centralized Micro Grid Controller and Field Remote Unit), 2019-2021.
-ASELSAN: Yerel Analiz Algoritmaları Geliştirilmesi (Development of Local Analysis Methods), 2017-2018, Yürütücü (PI).
-ENERJİSA: Üretim Tesislerinin Dağıtım Şebekesine Bağlantı Kriterlerinin Belirlenmesi
-Projesi (Determining Distribution System Connection Criteria for Generation Plants Project), 2017-2018, Yürütücü (PI).
-EPRA: Güç Sistemleri için Web Tabanlı Şebeke Kısıtlılık Analiz Yazılımı Geliştirme Projesi, 2017-2018, Danışman.
-
-
 <ul>
 
+  <li> Güç Sistemleri için Web Tabanlı Şebeke Kısıtlılık Analiz Yazılımı Geliştirme Projesi, 2017-2018, (Danışman.) </li>
+  <ul>
+  <li> Project Type: EPRA </li>
+  <li> Project Duration: 12 months (2020-2021) </li>
+  </ul>
+  
+  <li> Güç Sistemleri için Web Tabanlı Şebeke Kısıtlılık Analiz Yazılımı Geliştirme Projesi, 2017-2018, (Danışman.) </li>
+  <ul>
+  <li> Project Type: EPRA </li>
+  <li> Project Duration: 12 months (2020-2021) </li>
+  </ul>
+
+  <li> Hibrit Durum Kestirimi Algoritması Geliştirilmesi (Development of Hybrid State Estimation Algorithm), 2020-2021, Yürütücü (PI).</li>
+  <ul>
+  <li>Project Type: ASELSAN </li>
+  <li>Project Duration: 12 months (2020-2021) </li>
+  </ul>
+  
+  <li> Merkezi Mikro Şebeke Kontrol Sistemi ve Saha Birimi Geliştirilmesi (Developing a Centralized Micro Grid Controller and Field Remote Unit) </li>
+  <ul>
+  <li>Project Type: ENERJISA </li>
+  <li>Project Duration: 24 months (2019-2021) </li>
+  </ul>
   
   <li><a href="https://odtu.github.io/_pages/railgun.html">Electromagnetic launcher: Phase 4</a></li>
   
@@ -70,11 +85,7 @@ EPRA: Güç Sistemleri için Web Tabanlı Şebeke Kısıtlılık Analiz Yazılı
   
   <li> Model predictive control of an induction motor with fault detection </li>
   
-
-  <li> Development of Decision Support Methods for Restoration in Earthquake-Damaged Medium Voltage Electrical Distribution Networks</li>
-  <ul>
-  <li>Project Type: TÜBİTAK – 1001 </li>
-  </ul>    
+  
 </ul>
 
 
