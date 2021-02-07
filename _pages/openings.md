@@ -11,7 +11,12 @@ permalink: /projects/
 These are some informations about on-going projects:
 
 
-
+ASELSAN: Hibrit Durum Kestirimi Algoritması Geliştirilmesi (Development of Hybrid State Estimation Algorithm), 2020-2021, Yürütücü (PI).
+ENERJİSA: Merkezi Mikro Şebeke Kontrol Sistemi ve Saha Birimi Geliştirilmesi (Developing a Centralized Micro Grid Controller and Field Remote Unit), 2019-2021.
+ASELSAN: Yerel Analiz Algoritmaları Geliştirilmesi (Development of Local Analysis Methods), 2017-2018, Yürütücü (PI).
+ENERJİSA: Üretim Tesislerinin Dağıtım Şebekesine Bağlantı Kriterlerinin Belirlenmesi
+Projesi (Determining Distribution System Connection Criteria for Generation Plants Project), 2017-2018, Yürütücü (PI).
+EPRA: Güç Sistemleri için Web Tabanlı Şebeke Kısıtlılık Analiz Yazılımı Geliştirme Projesi, 2017-2018, Danışman.
 
 
 <ul>
@@ -110,6 +115,18 @@ These are some informations about on-going projects:
       <li>Project Duration: 12 months </li>
   </ul>
   
+  <li> Yerel Analiz Algoritmaları Geliştirilmesi (Development of Local Analysis Methods), 2017-2018, Yürütücü (PI). </li>
+  <ul>
+  <li>Project Type: ASELSAN </li>
+  <li>Project Duration: 12 months (2016-2017) </li>
+  </ul>
+  
+  <li> Üretim Tesislerinin Dağıtım Şebekesine Bağlantı Kriterlerinin Belirlenmesi
+  Projesi (Determining Distribution System Connection Criteria for Generation Plants Project), 2017-2018, Yürütücü (PI). </li>
+  <ul>
+  <li>Project Type: ENERJISA </li>
+  <li>Project Duration: 12 months (2016-2017) </li>
+  </ul>
   
   <li> Design of a high performance linear servo actuator and PCB Motor</li>
    <ul>
