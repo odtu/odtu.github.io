@@ -12,13 +12,17 @@ These are some informations about on-going projects:
 
 
 
+
+
 <ul>
-  <li><a href="https://odtu.github.io/_pages/railgun.html">Electromagnetic launcher: Phase 3</a></li>
+
+  
+  <li><a href="https://odtu.github.io/_pages/railgun.html">Electromagnetic launcher: Phase 4</a></li>
   
   <ul>
   <li>Project Type: ASELSAN </li>
-  <li>Project Budget: 860.000 TL </li>
-  <li>Project Duration: 15 months </li>
+  <li>Project Budget: - </li>
+  <li>Project Duration: 9 months </li>
   </ul>
   
   <li><a href="https://odtu.github.io/_pages/tubitak-1001-hakan.html">Wireless power transfer</a></li>
@@ -73,7 +77,33 @@ These are some informations about on-going projects:
 
 ## Completed Projects
 <ul>
-   <li> Electromagnetic Design and Optimization of a Electromagnetic Launcher Phase II</li>
+  
+  <li>  Depremde Zarar Görmüş Orta Gerilim Elektrik Dağıtım Şebekelerinde Ayağa Kaldırma için Karar Destek Yöntemlerinin Geliştirilmesi (Development of Decision Support Methods   for Restoration in Earthquake-Damaged Medium Voltage Electrical Distribution Networks), 2018-2020, Yürütücü (PI) </li>
+  <ul>
+  <li>Project Type: TÜBİTAK 1001 </li>
+  <li>Project Duration: 24 months </li>
+  </ul>
+  
+  <li> Mevcut Güç Akışı Ölçüm Cihazlarını Hesaba Katarak Belirlenmiş Artıklık Endeksine Göre Optimum Fazör Ölçüm Ünitesi Yerleştirme Metodu Geliştirilmesi (Development of an       Optimum PMU Placement Method with respect to a Pre – Determined Redundancy Index Considering Installed Power Flow Measurements), 2015-2017, Yürütücü (PI).  </li>
+  <ul>
+  <li>Project Type: TÜBİTAK 3501 </li>
+  <li>Project Duration: 24 months </li>
+  </ul>
+  
+  <li> Alçak Gerilim Dağıtım Sistemi Verilerinin İzlenmesi Ve Kayıt Altına Alınması (Monitoring and Recording  Power and Power Quality Data of Low Voltage Distribution System),   2016, Araştırmacı (Researcher). </li>
+  <ul>
+  <li>Project Type: TÜBİTAK 1505 </li>
+  <li>Project Duration: 24 months </li>
+  </ul>
+  
+   <li> Electromagnetic Design and Optimization of a Electromagnetic Launcher Phase 3 </li>
+   <ul>
+      <li>Project Type: ASELSAN SST </li>
+      <li>Project Budget: 890.000 TL</li>
+      <li>Project Duration: 18 months </li>
+  </ul>
+  
+   <li> Electromagnetic Design and Optimization of a Electromagnetic Launcher Phase 2 </li>
    <ul>
       <li>Project Type: ASELSAN SST </li>
       <li>Project Budget: 392.000 TL</li>
