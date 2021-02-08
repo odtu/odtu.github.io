@@ -10,7 +10,6 @@
   number_educ: 1
   education1: Undergraduate, METU, 2024(Expected)
 
-
 - name: Enes Canbolat
   photo: enes_canbolat.jpg
   info: Undergraduate Researcher
@@ -49,6 +48,12 @@
 
 - name: Eren Özkara
   photo: eren_ozkara.jpg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2021(Expected)
+  
+- name: Mustafa Mert Sarıkaya
+  photo: mustafa_mert_sarikaya.png
   info: Undergraduate Researcher
   number_educ: 1
   education1: Undergraduate, METU, 2021(Expected)
