@@ -12,6 +12,14 @@
   number_educ: 1
   education1: BSc, METU, 2020
 
+- name: Paul Brown
+  photo: paul.png
+  ofis: ARC-301
+  info: Research Assistant
+  number_educ: 2
+  education1: BSc, Iowa State University, 2004
+  education2: University of Porto Faculty of Engineering, 2014
+
 - name: Enes Ayaz
   photo: enesayaz.jpeg
   ofis: ARC-300
