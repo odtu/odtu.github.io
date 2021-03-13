@@ -12,14 +12,6 @@
   number_educ: 1
   education1: BSc, METU, 2020
 
-- name: Paul Brown
-  photo: paul.jpg
-  ofis: ARC-301
-  info: Research Assistant
-  number_educ: 2
-  education1: BSc, Iowa State University, 2004
-  education2: Msc, University of Porto Faculty of Engineering, 2006
-
 - name: Enes Ayaz
   photo: enesayaz.jpeg
   ofis: ARC-300
@@ -33,6 +25,14 @@
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2018
+  
+- name: Paul Brown
+  photo: paul.jpg
+  ofis: ARC-301
+  info: Research Assistant
+  number_educ: 2
+  education1: BSc, Iowa State University, 2004
+  education2: Msc, University of Porto Faculty of Engineering, 2006
 
 - name: Gökhan Çakal
   photo: gokhan.jpg
@@ -90,7 +90,7 @@
   
 - name: Serhat Emir Ogan
   photo: emir.jpeg
-  ofis: C-206
+  ofis: C-106
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2017
@@ -102,6 +102,13 @@
   number_educ: 2
   education1: BSc, Dokuz Eylül U., 2015
   education2: MSc, Bursa Technical U., 2019
+  
+- name: Kemal Parlaktuna
+  photo: kemal_parlaktuna.jpg
+  ofis: E-101
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2020
 
 - name: Hakan Polat
   photo: hakanp.jpeg
@@ -121,6 +128,12 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2019
+  
+- name: Hakan Saraç
+  photo: hakan_sarac.jpg
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2018
 
 - name: M. Erdem Sezgin
   photo: foto-erdem.jpg
@@ -135,12 +148,6 @@
   number_educ: 2
   education1: BSc, METU, 2012
   education2: MSc, METU, 2014
-
-- name: Hakan Saraç
-  photo: hakan_sarac.jpg
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2018
 
 - name: Furkan Tokgöz
   photo: furkan.jpg
@@ -162,13 +169,6 @@
   number_educ: 2
   education1: BSc, METU, 2012
   education2 : MSc, METU, 2015
-
-- name: Kemal Parlaktuna
-  photo: kemal_parlaktuna.jpg
-  ofis: E-101
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2020
 
 - name: Özgür Yazıcı
   photo: ozguryazici.jpeg
