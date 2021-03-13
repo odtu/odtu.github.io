@@ -55,7 +55,7 @@
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2020
-  
+
 - name: Furkan Karakaya
   photo: furkank.png
   ofis: ARC-300
@@ -79,6 +79,13 @@
   number_educ: 2
   education1: BSc, Koç University, 2016
   education2: MSc, University of Sheffield, 2019
+
+- name: Serhat Emir Ogan
+  photo: emir.jpeg
+  ofis: C-206
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2017
 
 - name: Mohammad Hossein Mokhtare
   photo: mohammed.jpeg
