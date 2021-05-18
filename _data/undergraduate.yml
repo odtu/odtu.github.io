@@ -65,7 +65,27 @@
   number_educ: 1
   education1: Undergraduate, METU, 2021(Expected)
   
+- name: Fatih Erden
+  photo: fatih_erden.JPG
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2023(Expected)
   
+- name: Mehmet Beyarslan
+  photo: mehmet_beyaslan.jpg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2022(Expected)
   
+- name: Özgür Arda Küçükaslan
+  photo: arda_kucukaslan.png
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2022(Expected)
   
-
+- name: Ozan Aktürk
+  photo: ozan_akturk.jpg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2022(Expected)
+  
