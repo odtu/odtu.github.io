@@ -1,8 +1,3 @@
-- name: Halil Çağrı Bilgi
-  photo: halil_cagrı.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2021(Expected)
 
 - name: Erdem Canaz
   photo: erdem_canaz.jpg
@@ -22,11 +17,6 @@
   number_educ: 1
   education1: Undergraduate, METU, 2023(Expected)
   
-- name: Ahmet Fatih Eser
-  photo: fatih_eser.jpeg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2020(Expected)
 
 - name: Görkem Gülletutan
   photo: gorkem_gulletutan.jpeg
@@ -40,11 +30,6 @@
   number_educ: 1
   education1: Undergraduate, METU, 2022(Expected)
 
-- name: Mehmet Kılıç
-  photo: mehmet_kılıc.jpeg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2021(Expected)
 
 - name: Eren Özkara
   photo: eren_ozkara.jpg
