@@ -1,3 +1,35 @@
+- name: Uğur Can Yılmaz
+  info: PhD Candiate in Northeastern Univ.
+  education: PhD 2021
+  
+- name: Tuna Yıldız
+  info: PhD Candiate in Northeastern Univ.
+  education: PhD 2021
+  
+- name: İlker Şahin
+  info: ASELSAN UGES
+  education: PhD 2021
+  
+- name: Hakan Polat
+  info: PhD Candiate in VUB University, Brussel
+  education: Msc 2021
+  
+- name: Furkan Karakaya
+  info: PhD Candiate University of Illinois Urbana-Champaign
+  education: Msc 2020
+
+- name: Salar Koushan
+  info: PhD Candiate in Marquette University
+  education: Msc 2021
+    
+- name: Gökhan Çakal
+  info: PhD Candiate in Univ. of Wisconsin
+  education: Msc 2020
+  
+- name: Göksenin Hande Bayazıt
+  info: PhD Candiate in Univ. of Eindhoven
+  education: Msc 2021
+  
 - name: Ahmet Fatih Eser
   info: MSc Canditate in ETH-Zurich
   education: Msc 2021
@@ -23,7 +55,7 @@
   education: BSc 2018
 
 - name: Aysel Akgemci
-  info: Roketsan
+  info: Lightyear
   education: BSc 2016, MSc 2018
 
 - name: Erencan Duymaz

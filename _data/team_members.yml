@@ -18,14 +18,7 @@
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2019
-
-- name: Göksenin Hande Bayazıt
-  photo: hande.jpg
-  ofis: C-114
-  info: Research & Teaching Assistant
-  number_educ: 1
-  education1: BSc, METU, 2018
-  
+ 
 - name: Paul Brown
   photo: paul.jpg
   ofis: ARC-301
@@ -34,13 +27,11 @@
   education1: BSc, Iowa State University, 2004
   education2: Msc, University of Porto Faculty of Engineering, 2006
 
-- name: Gökhan Çakal
-  photo: gokhan.jpg
-  ofis: ARC-301
-  info: Research & Teaching Assistant
-  number_educ: 2
-  education1: BSc, METU, 2017
-  education2: MSc, METU, 2020
+- name: Görkem Gülletutan
+  photo: gorkem_gulletutan.jpeg
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: BSc, METU, 2021
 
 - name: İven Güzel
   photo: iven_guzel.jpeg
@@ -55,22 +46,6 @@
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2020
-
-- name: Furkan Karakaya
-  photo: furkank.png
-  ofis: ARC-300
-  info: Research & Teaching Assistant
-  number_educ: 2
-  education1: BSc, METU, 2017
-  education2: MSc, METU, 2020
-
-- name: Salar Koushan
-  photo: salarcim.jpg
-  ofis: ARC-301
-  info: Research Assistant
-  number_educ: 2
-  education1: BSc, University of Tabriz, 2014
-  education2: MSc, METU, 2020
 
 - name: Barış Kuseyri
   photo: baris.jpeg
@@ -94,28 +69,13 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2017
-
-- name: Serhat Özküçük
-  photo: serhat.jpg
-  ofis: C-114
-  info: Research & Teaching Assistant
-  number_educ: 2
-  education1: BSc, Dokuz Eylül U., 2015
-  education2: MSc, Bursa Technical U., 2019
-  
+ 
 - name: Kemal Parlaktuna
   photo: kemal_parlaktuna.jpg
   ofis: E-101
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2020
-
-- name: Hakan Polat
-  photo: hakanp.jpeg
-  ofis: C-114
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2018
 
 - name: Soheil Pouraltafi
   photo: soheil.jpeg
@@ -142,13 +102,6 @@
   education1: BSc, METU, 2015
   education2: MSc, METU, 2018
 
-- name: İlker Şahin
-  photo: silker.png
-  info: Research Assistant
-  number_educ: 2
-  education1: BSc, METU, 2012
-  education2: MSc, METU, 2014
-
 - name: Furkan Tokgöz
   photo: furkan.jpg
   ofis: ARC-300
@@ -160,8 +113,9 @@
   photo: nailtosun.jpg
   info: Research Assistant
   ofis: C-114
-  number_educ: 1
+  number_educ: 2
   education1: BSc, METU, 2019
+  education2: MSc, METU, 2021
 
 - name: Mesut Uğur
   photo: mesutugur.jpg
@@ -179,13 +133,6 @@
 
 - name: Tuna Yıldız
   photo: tuna.jpg
-  ofis: E-101
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2018
-
-- name: Uğur Can Yılmaz
-  photo: ugur_can_yilmaz.jpg
   ofis: E-101
   info: Research Assistant
   number_educ: 1

@@ -1,55 +1,21 @@
-
 - name: Erdem Canaz
   photo: erdem_canaz.jpg
   info: Undergraduate Researcher
   number_educ: 1
   education1: Undergraduate, METU, 2024(Expected)
 
-- name: Enes Canbolat
-  photo: enes_canbolat.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2021(Expected)
-
 - name: Zeynep Çöklü
   photo: zeynep_coklu.jpg
   info: Undergraduate Researcher
   number_educ: 1
   education1: Undergraduate, METU, 2023(Expected)
-  
-
-- name: Görkem Gülletutan
-  photo: gorkem_gulletutan.jpeg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2021(Expected)
 
 - name: Özgür Gülsuna
   photo: ozgurjr.jpg
   info: Undergraduate Researcher
   number_educ: 1
   education1: Undergraduate, METU, 2022(Expected)
-
-
-- name: Eren Özkara
-  photo: eren_ozkara.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2021(Expected)
-  
-- name: Onur Öztaş
-  photo: onur_oztas.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2021(Expected)
-
-
-- name: Mustafa Mert Sarıkaya
-  photo: mustafa_mert_sarikaya.png
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2021(Expected)
-  
+ 
 - name: Fatih Erden
   photo: fatih_erden.JPG
   info: Undergraduate Researcher
