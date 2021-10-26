@@ -1,3 +1,10 @@
+- name: Ertuğrul Yolcu
+  photo: ertugrul.jfif
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2022(Expected)
+
+
 - name: Musa Ulusoy
   photo: musa.jfif
   info: Undergraduate Researcher
