@@ -21,7 +21,7 @@
 
 - name: Enes Ayaz
   photo: enesayaz.jpeg
-  ofis: ARC-300
+  ofis: C-114
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2019
@@ -35,7 +35,8 @@
   education2: Msc, University of Porto Faculty of Engineering, 2006
 
 - name: Görkem Gülletutan
-  photo: gorkem_gulletutan.jpeg
+  photo: gorkem.jfif
+  ofis: C-114
   info: Undergraduate Researcher
   number_educ: 1
   education1: BSc, METU, 2021
