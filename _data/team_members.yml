@@ -1,3 +1,10 @@
+- name: Yunus Çay
+  photo: yunus.png
+  ofis: ARC-301
+  info: Research Teaching Assistant
+  number_educ: 1
+  education1: BSc, METU, 2021
+
 - name: Etki Açılan
   photo: etki_acilan.jpg
   ofis: E-101
