@@ -1,3 +1,16 @@
+- name: Mümtaz Can Kıldır
+  photo: mumtazcan.jfif
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2022(Expected)
+
+- name: Işık Emir Altunkol
+  photo: ısık_emir.jfif
+  info: Undergraduate Researcher
+  number_educ: 1
+  education1: Undergraduate, METU, 2023(Expected)
+
+
 - name: Ertuğrul Yolcu
   photo: ertugrul.jfif
   info: Undergraduate Researcher
