@@ -33,6 +33,24 @@
   number_educ: 2
   education1: BSc, Iowa State University, 2004
   education2: Msc, University of Porto Faculty of Engineering, 2006
+  
+
+- name: Parisa Rezapour
+  photo: parisa.jpg
+  ofis: ARC-301
+  info: Research Assistant
+  number_educ: 1
+  education1: Bsc, University of Tabriz, Iran 2021
+
+
+
+- name: Arash Allahyari
+  photo: arash.jpg
+  ofis: ARC-301
+  info: Research Assistant
+  number_educ: 2
+  education1: Bsc, Urmia University 2011
+  education2: Msc, Urmia University 2014
 
 - name: Görkem Gülletutan
   photo: gorkem.jfif
