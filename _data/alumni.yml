@@ -1,41 +1,57 @@
+- name: Mesut Uğur
+  info: EARSİS
+  education: MSc, METU, 2015
+
+- name: M. Erdem Sezgin
+  info: ASELSAN
+  education: MSc, METU, 2018
+
+- name: Hakan Saraç
+  info: TOGG
+  education: MSc, METU, 2022
+
+- name: Soheil Pouraltafi
+  info: PhD Candidate DTU
+  education: MSc 2021
+
 - name: Uğur Can Yılmaz
-  info: PhD Candiate in Northeastern Univ.
+  info: PhD Candidate in Northeastern Univ.
   education: MSc 2021
   
 - name: Tuna Yıldız
-  info: PhD Candiate in Northeastern Univ.
+  info: PhD Candidate in Northeastern Univ.
   education: MSc 2021
   
 - name: İlker Şahin
-  info: ASELSAN UGES
+  info: ASELSAN, Post-doc Univ. of Edinburgh
   education: PhD 2021
   
 - name: Hakan Polat
-  info: PhD Candiate in VUB University, Brussel
+  info: PhD Candidate in VUB University, Brussel
   education: Msc 2021
   
 - name: Furkan Karakaya
-  info: PhD Candiate University of Illinois Urbana-Champaign
+  info: PhD Candidate University of Illinois Urbana-Champaign
   education: Msc 2020
 
 - name: Salar Koushan
-  info: PhD Candiate in Marquette University
+  info: PhD Candidate in Marquette University
   education: Msc 2021
     
 - name: Gökhan Çakal
-  info: PhD Candiate in Univ. of Wisconsin
+  info: PhD Candidate in Univ. of Wisconsin
   education: Msc 2020
   
 - name: Göksenin Hande Bayazıt
-  info: PhD Candiate in Univ. of Eindhoven
+  info: PhD Candidate in Univ. of Eindhoven
   education: Msc 2021
   
 - name: Ahmet Fatih Eser
-  info: MSc Canditate in ETH-Zurich
+  info: MSc Candidate in ETH-Zurich
   education: Bsc 2021
 
 - name: Siamak Pourkeivannour
-  info: PhD Canditate in Univ. of Eindhoven
+  info: PhD Candidate in Univ. of Eindhoven
   education: Msc 2020
 
 - name: Erdi Saruhan
@@ -43,15 +59,15 @@
   education: Msc 2020
 
 - name: Doğa Ceylan
-  info: PhD Canditate in Univ. of Eindhoven
+  info: PhD Candidate in Univ. of Eindhoven
   education: MSc 2018
 
 - name: Melisa Sarıcı
-  info: MSc Canditate in DTU
+  info: MSc Candidate in DTU
   education: BSc 2018
 
 - name: Mert Karaçelebi
-  info: MSc candidate at ETH-Zurich
+  info: MSc Candidate at ETH-Zurich
   education: BSc 2018
 
 - name: Aysel Akgemci
@@ -59,20 +75,20 @@
   education: BSc 2016, MSc 2018
 
 - name: Erencan Duymaz
-  info: Aselsan UGES
+  info: Siemens Gamesa
   education: BSc 2016, MSc 2018
 
 - name: Caner Yağcı
-  info: MSc candidate in TU Delft
+  info: MSc Candidate in TU Delft
   education: BSc 2018
 
 - name: Deniz Şengül
-  info: Aselsan
+  info: ASELSAN
   education: MSc 2018
 
 - name: Ahmet Öner
   info: PhD candidate at Northeastern University
-  education: MSc 16
+  education: MSc 2016
 
 - name: Reza Zeinali
   info: PhD Canditate in Univ. of Eindhoven

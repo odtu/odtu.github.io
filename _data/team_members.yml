@@ -1,16 +1,17 @@
-- name: Yunus Çay
-  photo: yunus.jpg
-  ofis: ARC-301
-  info: Research Teaching Assistant
-  number_educ: 1
-  education1: BSc, METU, 2021
-
 - name: Etki Açılan
   photo: etki_acilan.jpg
   ofis: E-101
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2019
+
+- name: Öztürk Şahin Alemdar
+  photo: sahin_alemdar.jpg
+  ofis: ARC-301
+  info: Research Assistant (GÜNAM)
+  number_educ: 2
+  education1: BSc, METU, 2013
+  education2: MSc, METU, 2016
 
 - name: Ogün Altun
   photo: ogun_altun.jpg
@@ -28,21 +29,18 @@
  
 - name: Paul Brown
   photo: paul.jpg
-  ofis: ARC-301
+  ofis: E-101
   info: Research Assistant
   number_educ: 2
   education1: BSc, Iowa State University, 2004
   education2: Msc, University of Porto Faculty of Engineering, 2006
   
-
-- name: Parisa Rezapour
-  photo: parisa.jpg
+- name: Yunus Çay
+  photo: yunus.jpg
   ofis: ARC-301
-  info: Research Assistant
+  info: Research Assistant (GÜNAM)
   number_educ: 1
-  education1: Bsc, University of Tabriz, Iran 2021
-
-
+  education1: BSc, METU, 2021
 
 - name: Arash Allahyari
   photo: arash.jpg
@@ -55,7 +53,7 @@
 - name: Görkem Gülletutan
   photo: gorkem.jfif
   ofis: C-114
-  info: Undergraduate Researcher
+  info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2021
 
@@ -65,13 +63,6 @@
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2019
-
-- name: Emre Karabakla
-  photo: emre_karabakla.png
-  ofis: RÜZGEM
-  info: Research & Teaching Assistant
-  number_educ: 1
-  education1: BSc, METU, 2020
 
 - name: Barış Kuseyri
   photo: baris.jpeg
@@ -92,21 +83,23 @@
 - name: Serhat Emir Ogan
   photo: emir.jpeg
   ofis: C-106
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2017
  
 - name: Kemal Parlaktuna
   photo: kemal_parlaktuna.jpg
   ofis: E-101
-  info: Research Assistant
+  info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2020
 
-- name: Soheil Pouraltafi
-  photo: soheil.jpeg
-  ofis: E-101
+- name: Parisa Rezapour
+  photo: parisa.jpg
+  ofis: ARC-301
   info: Research Assistant
+  number_educ: 1
+  education1: Bsc, University of Tabriz, Iran 2021
 
 - name: Berkay Sağlam
   photo: berkay_saglam.jpeg
@@ -115,19 +108,6 @@
   number_educ: 1
   education1: BSc, METU, 2019
   
-- name: Hakan Saraç
-  photo: hakan_sarac.jpg
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2018
-
-- name: M. Erdem Sezgin
-  photo: foto-erdem.jpg
-  info: Research & Teaching Assistant
-  number_educ: 2
-  education1: BSc, METU, 2015
-  education2: MSc, METU, 2018
-
 - name: Furkan Tokgöz
   photo: furkan.jpg
   ofis: ARC-300
@@ -142,13 +122,6 @@
   number_educ: 2
   education1: BSc, METU, 2019
   education2: MSc, METU, 2021
-
-- name: Mesut Uğur
-  photo: mesutugur.jpg
-  info: Research Assistant
-  number_educ: 2
-  education1: BSc, METU, 2012
-  education2 : MSc, METU, 2015
 
 - name: Özgür Yazıcı
   photo: ozguryazici.jpeg
