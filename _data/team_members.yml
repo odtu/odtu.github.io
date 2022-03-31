@@ -43,7 +43,7 @@
   education1: BSc, METU, 2021
 
 - name: Arash Allahyari
-  photo: arash.jpg
+  photo: arash.png
   ofis: ARC-301
   info: Research Assistant
   number_educ: 2
@@ -95,7 +95,7 @@
   education1: BSc, METU, 2020
 
 - name: Parisa Rezapour
-  photo: parisa.jpg
+  photo: parisa.png
   ofis: ARC-301
   info: Research Assistant
   number_educ: 1
@@ -136,3 +136,7 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2018
+
+
+
+
