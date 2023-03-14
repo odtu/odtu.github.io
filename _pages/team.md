@@ -142,9 +142,7 @@ permalink: /team/
 <br/>
 
 <br><br/>
-<br><br/>
-<br><br/>
-<br><br/>
+
 ## Undergraduate Students
 
 {% assign number_printed = 0 %}
@@ -205,6 +203,8 @@ permalink: /team/
 </div>
 {% endif %}
 <br/>
+
+<br><br/>
 
 ## Alumni of PowerLab
 
