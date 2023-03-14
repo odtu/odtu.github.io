@@ -1,3 +1,15 @@
+- name: Berkay Sağlam
+  info: Msc, METU, 2022
+  education: Siemens
+
+- name: Serhat Emir Ogan
+  info: Msc, METU, 2022
+  education: PhD Candidate in VUB University, Brussel
+
+- name: Etki Açılan
+  info: Msc, METU, 2022
+  education: PhD candidate at Northeastern University
+
 - name: Enes Ayaz
   info: PhD Candidate in KTH royal institute of technology
   education: MSc, METU, 2022
@@ -107,7 +119,7 @@
   education: MSc 2016
 
 - name: Reza Zeinali
-  info: PhD Canditate in Univ. of Eindhoven
+  info: Postdoc researcher at Eindhoven University of Technology
   education: MSc 2017
 
 - name: Rasul Tarvirdilu
