@@ -25,7 +25,7 @@
   
 - name: Yunus Çay
   photo: YunusCay.png
-  ofis: ARC-301
+  ofis: C-114
   info: Research Assistant (GÜNAM)
   number_educ: 1
   education1: BSc, METU, 2021
@@ -77,6 +77,7 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2018
+  education2: MSc, METU, 2022
 
 - name: M. Samet Yakut
   photo: samet.jfif
