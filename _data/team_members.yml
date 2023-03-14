@@ -75,7 +75,7 @@
   photo: ozguryazici.jpeg
   ofis: C-114
   info: Research Assistant
-  number_educ: 1
+  number_educ: 2
   education1: BSc, METU, 2018
   education2: MSc, METU, 2022
 
@@ -92,7 +92,12 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2018
-
+  
+- name: Özgür Arda Küçükaslan
+  photo: arda_kucukaslan.png
+  info: Research Assistant
+  number_educ: 1
+  education1: Bsc, METU, 2022
 
 
 
