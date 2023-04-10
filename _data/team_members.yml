@@ -14,14 +14,13 @@
   number_educ: 1
   education1: BSc, METU, 2020
 
- 
 - name: Paul Brown
   photo: paul.jpg
   ofis: E-101
   info: Research Assistant
   number_educ: 2
   education1: BSc, Iowa State University, 2004
-  education2: Msc, University of Porto Faculty of Engineering, 2006
+  education2: Msc, University of Porto, 2006
   
 - name: Yunus Çay
   photo: YunusCay.png
@@ -29,6 +28,13 @@
   info: Research Assistant (GÜNAM)
   number_educ: 1
   education1: BSc, METU, 2021
+
+- name: Mohammad Derogarian
+  photo: mohammad_derogarian.JPG
+  ofis: ARC-300
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, Amirkabir University of Technology, 2021
 
 
 - name: Görkem Gülletutan
@@ -41,7 +47,7 @@
 
 - name: Barış Kuseyri
   photo: baris.jpeg
-  ofis: C-114
+  ofis: ARC-301
   info: Research Assistant
   number_educ: 2
   education1: BSc, Koç University, 2016
@@ -49,7 +55,7 @@
 
 - name: Mohammad Hossein Mokhtare
   photo: mohammed.jpeg
-  ofis: ARC-301
+  ofis: ARC-300
   info: Research Assistant
   number_educ: 2
   education1: BSc, University of Tabriz, 2016
@@ -64,11 +70,11 @@
   education1: BSc, METU, 2020
 
 - name: Parisa Rezapour
-  photo: parisa.png
+  photo: parisa.jpeg
   ofis: ARC-301
   info: Research Assistant
   number_educ: 1
-  education1: Bsc, University of Tabriz, Iran 2021
+  education1: Bsc, University of Tabriz, 2021
 
 
 - name: Özgür Yazıcı
@@ -80,7 +86,7 @@
   education2: MSc, METU, 2022
 
 - name: M. Samet Yakut
-  photo: samet.jfif
+  photo: samet.jpeg
   ofis: C-114
   info: Research Assistant
   number_educ: 1

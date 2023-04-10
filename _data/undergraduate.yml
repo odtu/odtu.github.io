@@ -1,38 +1,34 @@
-- name: Işık Emir Altunkol
-  photo: ısık_emir.jfif
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2023(Expected)
-
-- name: Erdem Canaz
-  photo: erdem_canaz.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2024(Expected)
-
-
-- name: Özgür Gülsuna
-  photo: ozgurjr.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2022(Expected)
- 
-- name: Fatih Erden
-  photo: fatih_erden.JPG
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2023(Expected)
-  
-- name: Mehmet Beyarslan
-  photo: mehmet_beyaslan.jpg
-  info: Undergraduate Researcher
-  number_educ: 1
-  education1: Undergraduate, METU, 2022(Expected)
-  
-  
 - name: Ozan Aktürk
   photo: ozan_akturk.jpg
-  info: Undergraduate Researcher
   number_educ: 1
-  education1: Undergraduate, METU, 2022(Expected)
+  education1:  BSc, METU, 2023
   
+- name: Işık Emir Altunkol
+  photo: ısık_emir.jfif
+  number_educ: 1
+  education1: BSc, METU, 2024
+
+- name: Mehmet Beyarslan
+  photo: mehmet_beyaslan.jpg
+  number_educ: 1
+  education1:  BSc, METU, 2023
+  
+- name: Erdem Canaz
+  photo: erdem_canaz.jpg
+  number_educ: 1
+  education1: BSc, METU, 2024
+
+- name: Fatih Erden
+  photo: fatih_erden.JPG
+  number_educ: 1
+  education1: BSc, METU, 2023
+  
+- name: Özgür Gülsuna
+  photo: ozgurjr.jpg
+  number_educ: 1
+  education1: BSc, METU, 2023
+
+- name: Elif Topaloğlu
+  photo: elif_topaloglu.jpeg
+  number_educ: 1
+  education1:  BSc, METU, 2024

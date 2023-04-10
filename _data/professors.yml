@@ -9,9 +9,20 @@
   education2: MSc, RWTH Aachen, 2010
   education3: PhD, Leibniz University, Germany, 2014
 
+- name: Keyvan Firuzi
+  photo: Keyvan-Firuzi.jpg
+  info: Assistant Professor
+  ofis: EZ-11A
+  tel: 210 2357
+  email:  var string1 = "keyvan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  number_educ: 3
+  education1: BSc, University of Tabriz, 2008
+  education2: MSc, Sharif University of Technology, 2014
+  education3: PhD, Sharif University of Technology, 2019
+  
 - name: Murat Göl
   photo: murat_gol.jpg
-  info: Assistant Professor
+  info: Associate Professor
   ofis: E-110
   tel: 210 4539
   email:  var string1 = "mgol"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
@@ -22,7 +33,7 @@
 
 - name: Ozan Keysan
   photo: ozan_keysan.jpg
-  info: Assistant Professor
+  info: Associate Professor
   ofis: C-113
   tel: 210 7586
   email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
