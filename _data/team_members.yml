@@ -44,7 +44,13 @@
   number_educ: 1
   education1: BSc, METU, 2021
 
-
+- name: Mert Eren Kandilli
+  photo: mert_kandilli.jpg
+  ofis: Verte
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2022
+  
 - name: Barış Kuseyri
   photo: baris.jpeg
   ofis: ARC-301
@@ -53,6 +59,12 @@
   education1: BSc, Koç University, 2016
   education2: MSc, University of Sheffield, 2019
 
+- name: Özgür Arda Küçükaslan
+  photo: arda_kucukaslan.png
+  info: Research Assistant
+  number_educ: 1
+  education1: Bsc, METU, 2022
+ 
 - name: Mohammad Hossein Mokhtare
   photo: mohammed.jpeg
   ofis: ARC-300
@@ -76,6 +88,19 @@
   number_educ: 1
   education1: Bsc, University of Tabriz, 2021
 
+- name: Ahmet Halis Sabırlı
+  photo: halis_sabirli.jpeg
+  ofis: Aselsan
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2021
+
+- name: M. Samet Yakut
+  photo: samet.jpeg
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2022
 
 - name: Özgür Yazıcı
   photo: ozguryazici.jpeg
@@ -84,13 +109,6 @@
   number_educ: 2
   education1: BSc, METU, 2018
   education2: MSc, METU, 2022
-
-- name: M. Samet Yakut
-  photo: samet.jpeg
-  ofis: C-114
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2022
   
 - name: Yusuf Basri Yılmaz
   photo: yusuf_basri.jpg
@@ -99,11 +117,7 @@
   number_educ: 1
   education1: BSc, METU, 2018
   
-- name: Özgür Arda Küçükaslan
-  photo: arda_kucukaslan.png
-  info: Research Assistant
-  number_educ: 1
-  education1: Bsc, METU, 2022
+
 
 
 

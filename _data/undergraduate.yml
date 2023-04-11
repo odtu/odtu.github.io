@@ -23,11 +23,25 @@
   number_educ: 1
   education1: BSc, METU, 2023
   
+- name: İsa Ersöz
+  photo: isa_ersoz.jpeg
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2023
+  
 - name: Özgür Gülsuna
   photo: ozgurjr.jpg
   number_educ: 1
   education1: BSc, METU, 2023
 
+- name: İsmail Macit
+  photo: ismail_macit.JPG
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2023
+  
 - name: Elif Topaloğlu
   photo: elif_topaloglu.jpeg
   number_educ: 1

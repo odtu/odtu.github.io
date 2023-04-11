@@ -3,7 +3,7 @@ title: "Powerlab - Projects"
 layout: gridlay
 excerpt: "Powerlab -- Projects."
 sitemap: false
-permalink: /projects/
+permalink: /projects2/
 ---
 
 

@@ -10,6 +10,8 @@ permalink: /contactus/
 
 #### [Dr. Emine Bostancı](http://eee.metu.edu.tr/index.php/personel/emine-bostanci)
 
+#### [Dr. Keyvan Firuzi](https://eee.metu.edu.tr/personel/keyvan-firuzi)
+
 #### [Dr. Murat Göl](http://eee.metu.edu.tr/index.php/personel/murat-gol)
 
 #### [Dr. Ozan Keysan](http://eee.metu.edu.tr/personel/ozan-keysan)
@@ -23,7 +25,6 @@ Tel: +90 312 210 4588
 
 #### Ayasli Office (ARC-300)
 Tel: +90 312 210 6093
-
 
 #### Address
 

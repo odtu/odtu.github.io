@@ -8,14 +8,14 @@ permalink: /
 
 ## PowerLab Research Group, METU
 
-PowerLab is a research group in Department of [Electrical and Electronics Engineering](http://eee.metu.edu.tr/) in [METU](https://www.metu.edu.tr/), Ankara. The group is also affiliated with [GÜNAM](http://gunam.metu.edu.tr/) and [RÜZGEM](http://ruzgem.metu.edu.tr/). The main research areas of the group are:
+PowerLab is a research group in Department of [Electrical and Electronics Engineering](http://eee.metu.edu.tr/) in [METU](https://www.metu.edu.tr/), Ankara. The group is also affiliated with [ODTÜ-GÜNAM](https://odtugunam.org/), [RÜZGEM](http://ruzgem.metu.edu.tr/) and [ROMER](https://romer.metu.edu.tr/). The main research areas of the group are:
 
 - Design of Electrical Machines
 - Renewable Energy
 - Power Electronics
 - Power Quality
 - Smart Grids
-
+- High Voltage
 
 Power Lab seeks  motivated graduate and undergraduate students that would like to work in power systems, power electronics and electric machines area. For more information please contact one of the [team members](/team).
 

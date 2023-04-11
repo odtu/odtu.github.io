@@ -6,64 +6,53 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publications
+## Research Group Publications
 
-## [Research Group Publications](https://avesis.metu.edu.tr/researchteamsite/powerlab/publications)
+- ### [Graduate Theses](https://avesis.metu.edu.tr/researchteamsite/powerlab/theses)
+- ### [Academic Publications](https://avesis.metu.edu.tr/researchteamsite/powerlab/publications)
+- ### [Patents](https://avesis.metu.edu.tr/researchteamsite/powerlab/publications)
 
+
+## Principal Researchers
 
 For a separate publication list of principal researchers, please visit the [Google Scholar](https://scholar.google.com/) profiles below: 
 
-#### [Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao)
+- ### [Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao)
 
-#### [Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao)
+- ### [Keyvan Firuzi](https://scholar.google.com/citations?user=eFnkCSwAAAAJ&hl=en)
 
-#### [Ozan Keysan](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao)
+- ### [Murat Göl](https://scholar.google.com.tr/citations?user=iTfkN4oAAAAJ&hl=tr&oi=ao)
+
+- ### [Ozan Keysan](https://scholar.google.com.tr/citations?user=dzuKyxwAAAAJ&hl=tr&oi=ao)
 
 
-
-## Conferences and Seminars
+## Previous Conferences and Seminars
 
 #### Gökhan Çakal, LDIA, 2019, Switzerland
 
 * [Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding](https://ieeexplore.ieee.org/document/8771020), The 12th International Symposium on Linear Drives for Industry Applications (LDIA 2019), Neuchatel, Switzerland
-
-<img src="../images/confpic/gokhanldia.jpg" width="500" align="center">
 
 
 #### Hakan Polat, IEEE PPS, Orlando USA
 
 * [Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems](https://ieeexplore.ieee.org/document/9009612), Pulsed Power and Plasma Science Conference 2019 Orlando, USA
 
-<img src="../images/confpic/hakanppps.jfif" width="500" align="center">
-
-
 #### Hande Bayazıt,  PEDS, France
 
 * [Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM](https://ieeexplore.ieee.org/document/8998851), 2019 IEEE 13th International Conference on Power Electronics and Drive Systems (PEDS), Toulouse, France, 9-12 July 2019
-
-<img src="../images/confpic/handepeds.jpg" width="500" align="center">
-
 
 
 #### Öztürk Şahin Alemdar, ECCE, Baltimore USE
 
 * [PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs](https://ieeexplore.ieee.org/document/8913081), 2019 IEEE Energy Conversion Congress and Exposition (ECCE),  Baltimore, MD, USA, 29 Sept.-3 Oct. 2019.
 
-<img src="../images/confpic/sahinecce.jpg" width="800" align="center">
-
 #### Furkan Karakaya, SiC-GaN Forum, Germany
 
 * ECPE SiC & GaN Forum Potential of Wide Bandgap Semiconductors in Power Electronic Applications, 26-27 March 2019, Munich, Germany
 
-<img src="../images/confpic/furkanseminer.jpg" width="500" align="center">
-
 #### Furkan Karakaya, EPFL, Switzerland
 
 * E3 - EPFL Excellence in Engineering Summer Fellowship Program, 1 June - 28 August 2019, Lausanne, Switzerland
-
-
-<img src="../images/confpic/furkanepfl.jpeg" width="800" align="center">
-
 
 #### İlker Şahin, EPE, Italy
 
