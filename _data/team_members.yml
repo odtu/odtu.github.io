@@ -14,6 +14,13 @@
   number_educ: 1
   education1: BSc, METU, 2020
 
+- name: Nurhan Aydınalp
+  photo: nurhan_aydinalp.jpg
+  ofis: ARC-300
+  info: Research & Teaching Assistant
+  number_educ: 1
+  education1: BSc, TEDU, 2022
+
 - name: Paul Brown
   photo: paul.jpg
   ofis: E-101
@@ -61,6 +68,7 @@
 
 - name: Özgür Arda Küçükaslan
   photo: arda_kucukaslan.png
+  ofis: E-101
   info: Research Assistant
   number_educ: 1
   education1: Bsc, METU, 2022
@@ -72,7 +80,6 @@
   number_educ: 2
   education1: BSc, University of Tabriz, 2016
   education2 : MSc, KNTU, 2019
-  
  
 - name: Kemal Parlaktuna
   photo: kemal_parlaktuna.jpg
@@ -80,6 +87,14 @@
   info: Research & Teaching Assistant
   number_educ: 1
   education1: BSc, METU, 2020
+
+- name: Somayyeh Rahimi
+  photo: somayyeh.png
+  ofis: E-101
+  info: Research & Teaching Assistant
+  number_educ: 2
+  education1: BSc, Azarbaijan Shahid Madani University, 2016
+  education2 : MSc, Azarbaijan Shahid Madani University, 2019
 
 - name: Parisa Rezapour
   photo: parisa.jpeg
@@ -94,6 +109,13 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2021
+
+- name: Arash Mohammadi Vaniar
+  photo: arash_vaniar.jpg
+  ofis: E-101
+  info: Research & Teaching Assistant
+  number_educ: 1
+  education1: BSc, Azarbaijan Shahid Madani University, 2020
 
 - name: M. Samet Yakut
   photo: samet.jpeg
