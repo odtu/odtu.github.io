@@ -41,7 +41,12 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2023
-  
+
+- name: Göktuğ Tonay
+  photo: Goktug_Tonay.jpeg
+  number_educ: 1
+  education1:  BSc, METU, 2023
+
 - name: Elif Topaloğlu
   photo: elif_topaloglu.jpeg
   number_educ: 1
