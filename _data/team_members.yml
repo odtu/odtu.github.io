@@ -1,23 +1,31 @@
 
 - name: Öztürk Şahin Alemdar
   photo: sahin_alemdar.jpg
-  ofis: ARC-301
-  info: Research Assistant (GÜNAM)
+  ofis: TOGG
+  info: Research Assistant
   number_educ: 2
   education1: BSc, METU, 2013
   education2: MSc, METU, 2016
 
+- name: Ozan Aktürk
+  photo: ozan_akturk.jpg
+  ofis: ARC-301
+  info: Research Assistant
+  number_educ: 1
+  education1:  BSc, METU, 2023
+  
 - name: Ogün Altun
   photo: ogun_altun.jpg
   ofis: C-114
   info: Research & Teaching Assistant
-  number_educ: 1
+  number_educ:2
   education1: BSc, METU, 2020
+  education2: MSc, METU, 2023
 
 - name: Nurhan Aydınalp
   photo: nurhan_aydinalp.jpg
   ofis: ARC-300
-  info: Research & Teaching Assistant
+  info: Research Assistant
   number_educ: 1
   education1: BSc, TEDU, 2022
 
@@ -43,6 +51,12 @@
   number_educ: 1
   education1: BSc, Amirkabir University of Technology, 2021
 
+- name: Fatih Erden
+  photo: fatih_erden.JPG
+  ofis: E-101
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2023
 
 - name: Görkem Gülletutan
   photo: gorkem.jfif
@@ -50,13 +64,13 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2021
-
-- name: Mert Eren Kandilli
-  photo: mert_kandilli.jpg
-  ofis: Verte
+  
+- name: Özgür Gülsuna
+  photo: ozgurjr.jpg
+  ofis: C-114
   info: Research Assistant
   number_educ: 1
-  education1: BSc, METU, 2022
+  education1: BSc, METU, 2023
   
 - name: Barış Kuseyri
   photo: baris.jpeg
@@ -69,10 +83,17 @@
 - name: Özgür Arda Küçükaslan
   photo: arda_kucukaslan.png
   ofis: E-101
-  info: Research Assistant
+  info: Research Assistant (GÜNAM)
   number_educ: 1
   education1: Bsc, METU, 2022
- 
+
+- name: İsmail Macit
+  photo: ismail_macit.JPG
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, METU, 2023
+  
 - name: Mohammad Hossein Mokhtare
   photo: mohammed.jpeg
   ofis: ARC-300
@@ -85,8 +106,9 @@
   photo: kemal_parlaktuna.jpg
   ofis: E-101
   info: Research & Teaching Assistant
-  number_educ: 1
+  number_educ: 2
   education1: BSc, METU, 2020
+  education2: MSc, METU, 2023
 
 - name: Somayyeh Rahimi
   photo: somayyeh.png
@@ -109,7 +131,14 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2021
-
+  
+- name: Göktuğ Tonay
+  photo: Goktug_Tonay.jpeg
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 1
+  education1:  BSc, METU, 2023
+  
 - name: Arash Mohammadi Vaniar
   photo: arash_vaniar.jpg
   ofis: E-101

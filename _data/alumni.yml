@@ -1,3 +1,7 @@
+- name: Özgür Yazıcı
+  info: MSc, METU, 2022
+  education: Verata
+  
 - name: Zeynep Çöklü
   info: Bsc, METU, 2022
   education: ASELSAN
@@ -35,7 +39,7 @@
   education: MSc, METU, 2015
 
 - name: M. Erdem Sezgin
-  info: ASELSAN
+  info: ABB
   education: MSc, METU, 2018
 
 - name: Hakan Saraç
@@ -95,23 +99,23 @@
   education: MSc 2018
 
 - name: Melisa Sarıcı
-  info: MSc Candidate in DTU
+  info: ICEPower
   education: BSc 2018
 
 - name: Mert Karaçelebi
-  info: MSc Candidate at ETH-Zurich
+  info: PhD candidate at TU Delft
   education: BSc 2018
 
 - name: Aysel Akgemci
-  info: Lightyear
+  info: Prodrive
   education: BSc 2016, MSc 2018
 
 - name: Erencan Duymaz
-  info: Siemens Gamesa
+  info: Nordex
   education: BSc 2016, MSc 2018
 
 - name: Caner Yağcı
-  info: MSc Candidate in TU Delft
+  info: Worley
   education: BSc 2018
 
 - name: Deniz Şengül
@@ -139,13 +143,13 @@
   education : MSc 2018
 
 - name: Begüm Kabagöz
-  info: PhD Candidate in University of Boston
+  info: Postdoc LIGO Livingston
   education : BSc 2017
 
 - name: Melih Var
-  info: MSc Candidate in Technische Universität München
+  info: BASF
   education : MSc 2017
 
 - name: Öztürk Şahin Alemdar
-  info: Engineer at Aselsan
+  info: Engineer at TOGG
   education : MSc 2016
