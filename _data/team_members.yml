@@ -152,21 +152,13 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2022
-
-- name: Özgür Yazıcı
-  photo: ozguryazici.jpeg
-  ofis: C-114
+ 
+- name: Yusuf Basri Yılmaz
+  photo: yusuf_basri.jpg
+  ofis: C-106
   info: Research Assistant
   number_educ: 2
   education1: BSc, METU, 2018
-  education2: MSc, METU, 2022
-  
-- name: Yusuf Basri Yılmaz
-  photo: yusuf_basri.jpg
-  ofis: ARC-300
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2018
-
+  education2: MSc, METU, 2021
 
 
