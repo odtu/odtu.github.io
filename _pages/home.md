@@ -39,14 +39,14 @@ Please [join to our mail-list](https://mailman.metu.edu.tr/mailman/listinfo/ee-p
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/seminer_1_vahit.jpeg" alt="Slide 1" />
 		<div class="carousel-caption d-none d-md-block">
-    		 <p>Vahid Safavi Seminer</p>
+    		 <p>Vahid Safavi Seminar</p>
   		</div>
         </div>
 
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/seminer_1_ulas.jpeg" alt="Slide 2" />
 		<div class="carousel-caption d-none d-md-block">
-    		 <p>Ulas Karaağaç Seminer</p>
+    		 <p>Ulas Karaağaç Seminar</p>
   		</div>
         </div>
 
