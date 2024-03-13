@@ -204,8 +204,6 @@ permalink: /team/
 {% endif %}
 
 
-</div>
-
 ## Alumni of PowerLab
 
 <ul>
