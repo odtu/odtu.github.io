@@ -29,6 +29,7 @@ Please [join to our mail-list](https://mailman.metu.edu.tr/mailman/listinfo/ee-p
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
 
@@ -37,35 +38,42 @@ Please [join to our mail-list](https://mailman.metu.edu.tr/mailman/listinfo/ee-p
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/seminer_1_vahit.jpeg" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/Emine_Bostancı_seminer_3.jpeg" alt="Slide 1" />
+		<div class="carousel-caption d-none d-md-block">
+    		 <p>Powerlab Seminars III</p>
+  		</div>
+        </div>
+
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/seminer_1_vahit.jpeg" alt="Slide 2" />
 		<div class="carousel-caption d-none d-md-block">
     		 <p>Vahid Safavi Seminar</p>
   		</div>
         </div>
 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/seminer_1_ulas.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/seminer_1_ulas.jpeg" alt="Slide 3" />
 		<div class="carousel-caption d-none d-md-block">
     		 <p>Ulas Karaağaç Seminar</p>
   		</div>
         </div>
 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/lab_15.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/lab_15.jpg" alt="Slide 4" />
          	<div class="carousel-caption d-none d-md-block">
     		 <p>PowerLab Office Ceiling</p>
   		</div>
 	 </div>
 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/arcelik0.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/arcelik0.jpg" alt="Slide 5" />
 		<div class="carousel-caption d-none d-md-block">
     		 <p>Visit to Arcelik, Eskisehir</p>
   		</div>
 	</div>
 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/mach_lab.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/mach_lab.jpg" alt="Slide 6" />
 		<div class="carousel-caption d-none d-md-block">
     		 <p>Electric Machines Laboratory</p>
   		</div>
