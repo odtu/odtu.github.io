@@ -56,6 +56,13 @@
   number_educ: 1
   education1: BSc, METU, 2023
 
+- name: Tugay Gül
+  photo: tugay_gul.png
+  ofis: E-101
+  info: Researcher (GÜNAM)
+  number_educ: 1
+  education1: BSc Physics, METU, 2022
+
 - name: Görkem Gülletutan
   photo: gorkem.jfif
   ofis: C-114
@@ -99,7 +106,14 @@
   number_educ: 2
   education1: BSc, University of Tabriz, 2016
   education2 : MSc, KNTU, 2019
- 
+
+- name: Tuğrul Nizamoğlu
+  photo: tugrul_nizamoglu.jpeg
+  ofis: E-101
+  info: Research Asistant
+  number_educ: 1
+  education1: Bsc, METU, 2023
+
 - name: Kemal Parlaktuna
   photo: kemal_parlaktuna.jpg
   ofis: E-101
@@ -159,10 +173,4 @@
   education1: BSc, METU, 2018
   education2: MSc, METU, 2021
 
-- name: Tugay Gül
-  photo: tugay_gul.png
-  ofis: E-101
-  info: Researcher (GÜNAM)
-  number_educ: 1
-  education1: BSc Physics, METU, 2022
 
