@@ -17,6 +17,7 @@
 
 - name: Işık Emir Altunkol
   photo: ısık_emir.jfif
+  ofis: C-114
   number_educ: 1
   education1: BSc, METU, 2024
 
@@ -37,7 +38,7 @@
   
 - name: Yunus Çay
   photo: YunusCay.png
-  ofis: Bozüyük
+  ofis: c-114
   info: Research Assistant (GÜNAM)
   number_educ: 1
   education1: BSc, METU, 2021
