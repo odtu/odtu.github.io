@@ -141,7 +141,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-</div>
+
 
 ## Undergraduate Students
 
