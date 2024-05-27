@@ -31,6 +31,7 @@ Please [join to our mail-list](https://mailman.metu.edu.tr/mailman/listinfo/ee-p
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
 
