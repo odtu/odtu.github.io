@@ -8,9 +8,33 @@
   photo: erdem_canaz.jpg
   number_educ: 1
   education1: BSc, METU, 2024
- 
-- name: Elif Topaloğlu
-  photo: elif_topaloglu.jpeg
+
+- name: Mustafa Burak Çoruk
+  photo: mustafa_coruk.jpeg
   number_educ: 1
-  education1:  BSc, METU, 2024
-  
+  education1: BSc, METU, 2025
+
+- name: Sefer İdacı
+  photo: sefer_idaci.jpeg
+  number_educ: 1
+  education1: BSc, METU, 2025
+
+- name: Mustafa Berkay Kebabçı
+  photo: berkay_kebabci.jpeg
+  number_educ: 1
+  education1: BSc, METU, 2025
+
+- name: Metin Özdemir
+  photo: metin_ozdemir.jpeg
+  number_educ: 1
+  education1: BSc, METU, 2026
+
+- name: Mehmet Emin Taş
+  photo: emin_tas.jpeg
+  number_educ: 1
+  education1: BSc, METU, 2025
+
+- name: Taha Yurtoğlu
+  photo: taha_pp.jpg
+  number_educ: 1
+  education1: BSc, METU, 2026

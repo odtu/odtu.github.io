@@ -21,13 +21,6 @@
   number_educ: 1
   education1: BSc, METU, 2024
 
-- name: Nurhan Aydınalp
-  photo: nurhan_aydinalp.jpg
-  ofis: ARC-300
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, TEDU, 2022
-
 - name: Paul Brown
   photo: paul.jpg
   ofis: E-101
@@ -40,8 +33,9 @@
   photo: YunusCay.png
   ofis: C-114
   info: Research Assistant (GÜNAM)
-  number_educ: 1
+  number_educ: 2
   education1: BSc, METU, 2021
+  education2: MSc, METU, 2024
 
 - name: Mohammad Derogarian
   photo: mohammad_derogarian.JPG
@@ -63,13 +57,6 @@
   info: Researcher (GÜNAM)
   number_educ: 1
   education1: BSc Physics, METU, 2022
-
-- name: Görkem Gülletutan
-  photo: gorkem.jfif
-  ofis: C-114
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2021
   
 - name: Özgür Gülsuna
   photo: ozgurjr.jpg
@@ -130,20 +117,6 @@
   number_educ: 2
   education1: BSc, Azarbaijan Shahid Madani University, 2016
   education2 : MSc, Azarbaijan Shahid Madani University, 2019
-
-- name: Parisa Rezapour
-  photo: parisa.jpeg
-  ofis: ARC-301
-  info: Research Assistant
-  number_educ: 1
-  education1: Bsc, University of Tabriz, 2021
-
-- name: Ahmet Halis Sabırlı
-  photo: halis_sabirli.jpeg
-  ofis: Aselsan
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2021
   
 - name: Göktuğ Tonay
   photo: Goktug_Tonay.jpeg
@@ -151,7 +124,21 @@
   info: Research Assistant
   number_educ: 1
   education1:  BSc, METU, 2023
-  
+
+- name: Elif Topaloğlu
+  photo: elif_topaloglu.jpeg
+  ofis: C-114
+  info: Research Assistant
+  number_educ: 1
+  education1:  BSc, METU, 2024
+
+- name: Berke Tosun
+  photo: berke_tosun.jpeg
+  ofis: E-118
+  info: Research Assistant
+  number_educ: 1
+  education1:  BSc, Pamukkale, 2024
+
 - name: Arash Mohammadi Vaniar
   photo: arash_vaniar.jpg
   ofis: E-101

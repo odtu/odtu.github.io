@@ -142,6 +142,8 @@ permalink: /team/
 {% endif %}
 
 
+<div class="row">
+</div>
 
 ## Undergraduate Students
 
@@ -203,6 +205,8 @@ permalink: /team/
 </div>
 {% endif %}
 
+<div class="row">
+</div>
 
 ## Alumni of PowerLab
 

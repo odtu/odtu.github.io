@@ -1,23 +1,39 @@
 
+- name: Nurhan Aydınalp
+  info: Dubai
+  education: BSc, TEDU, 2022
+
+- name: Ahmet Halis Sabırlı
+  info: Aselsan
+  education: BSc, METU, 2021
+
+- name: Parisa Rezapour
+  info: PhD Candidate in University of Stuttgart
+  education: MSc, METU, 2024
+
+- name: Görkem Gülletutan
+  info: Roketsan
+  education: MSc, METU, 2024
+
 - name: Özgür Yazıcı
-  info: MSc, METU, 2022
-  education: Verata
+  info: Verata
+  education: MSc, METU, 2022
   
 - name: Zeynep Çöklü
-  info: Bsc, METU, 2022
-  education: ASELSAN
+  info: ASELSAN
+  education: Bsc, METU, 2022
 
 - name: Berkay Sağlam
-  info: Msc, METU, 2022
-  education: Siemens
+  info: Siemens
+  education: Msc, METU, 2022
 
 - name: Serhat Emir Ogan
-  info: Msc, METU, 2022
-  education: PhD Candidate in VUB University, Brussel
+  info: PhD Candidate in VUB University, Brussel
+  education: Msc, METU, 2022
 
 - name: Etki Açılan
-  info: Msc, METU, 2022
-  education: PhD candidate at Northeastern University
+  info: PhD candidate at Northeastern University
+  education: Msc, METU, 2022
 
 - name: Enes Ayaz
   info: PhD Candidate in KTH royal institute of technology
