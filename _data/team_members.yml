@@ -117,7 +117,14 @@
   number_educ: 2
   education1: BSc, Azarbaijan Shahid Madani University, 2016
   education2 : MSc, Azarbaijan Shahid Madani University, 2019
-  
+
+- name: Pouya Alipour Vahid Sadabad
+  photo: POUYA_SADABAD.jpeg
+  ofis: E-118
+  info: Research Assistant
+  number_educ: 1
+  education1: BSc, Azarbaijan Shahid Madani University, 2021
+
 - name: Göktuğ Tonay
   photo: Goktug_Tonay.jpeg
   ofis: C-114
