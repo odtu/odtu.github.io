@@ -14,6 +14,11 @@
   number_educ: 1
   education1: BSc, METU, 2025
 
+- name: Kaan Demirkoparan
+  photo: kaan_demirkoparan.jpg
+  number_educ: 1
+  education1: BSc, METU, 2026
+
 - name: Sefer İdacı
   photo: sefer_idaci.jpeg
   number_educ: 1
@@ -28,6 +33,11 @@
   photo: metin_ozdemir.jpeg
   number_educ: 1
   education1: BSc, METU, 2026
+
+- name: Mert Sevim
+  photo: mert_sevim.jpg
+  number_educ: 1
+  education1: BSc, METU, 2025
 
 - name: Mehmet Emin Taş
   photo: emin_tas.jpeg
