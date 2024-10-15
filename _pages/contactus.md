@@ -8,8 +8,6 @@ permalink: /contactus/
 
 # Contact Us
 
-#### [Dr. Emine Bostancı](http://eee.metu.edu.tr/index.php/personel/emine-bostanci)
-
 #### [Dr. Keyvan Firuzi](https://eee.metu.edu.tr/personel/keyvan-firuzi)
 
 #### [Dr. Murat Göl](http://eee.metu.edu.tr/index.php/personel/murat-gol)

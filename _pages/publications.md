@@ -15,9 +15,7 @@ permalink: /publications/
 
 ## Principal Researchers
 
-For a separate publication list of principal researchers, please visit the [Google Scholar](https://scholar.google.com/) profiles below: 
-
-- ### [Emine Bostancı](https://scholar.google.com.tr/citations?user=m-LX_bYAAAAJ&hl=tr&oi=ao)
+For a separate publication list of principal researchers, please visit the [Google Scholar](https://scholar.google.com/) profiles below:
 
 - ### [Keyvan Firuzi](https://scholar.google.com/citations?user=eFnkCSwAAAAJ&hl=en)
 

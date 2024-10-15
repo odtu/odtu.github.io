@@ -1,13 +1,3 @@
-#- name: Emine Bostancı
-#  photo: emine_bostanci.jpg
-#  info: Assistant Professor
-#  ofis: C-107
-#  tel: 210 2363
-#  email:  var string1 = "emineb"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
-#  number_educ: 3
-#  education1: BSc, METU, 2007
-#  education2: MSc, RWTH Aachen, 2010
-#  education3: PhD, Leibniz University, Germany, 2014
 
 - name: Keyvan Firuzi
   photo: Keyvan-Firuzi.jpg
