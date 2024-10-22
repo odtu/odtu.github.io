@@ -12,3 +12,10 @@ Gemfile.lock
 Gemfile
 .Rhistory
 *.*~
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/odtu.github.io.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
