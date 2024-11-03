@@ -1,12 +1,4 @@
 
-- name: Öztürk Şahin Alemdar
-  photo: sahin_alemdar.jpg
-  ofis: TOGG
-  info: Research Assistant
-  number_educ: 2
-  education1: BSc, METU, 2013
-  education2: MSc, METU, 2016
-  
 - name: Ogün Altun
   photo: ogun_altun.jpg
   ofis: C-114
@@ -110,7 +102,7 @@
   education1: Bsc, METU, 2023
 
 - name: Kemal Parlaktuna
-  photo: kemal_parlaktuna.jpg
+  photo: kemal_parlaktuna.jpeg
   ofis: E-101
   info: Research & Teaching Assistant
   number_educ: 2
