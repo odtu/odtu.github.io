@@ -214,7 +214,7 @@ permalink: /team/
 
 {% for member in site.data.alumni %}
 
-<li> <h4>{{ member.name }}:</h4> &emsp; {{ member.education }}, &emsp;  {{ member.info }}</li>
+<li> <h4>{{ member.name }}:</h4> &emsp; {{ member.education }}, &emsp;  <a href="{{ member.info }}" target="_blank">LinkedIn</a></li>
 
 {% endfor %}
 </ul>
