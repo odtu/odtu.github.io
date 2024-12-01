@@ -105,9 +105,6 @@ Please [join to our mail-list](https://mailman.metu.edu.tr/mailman/listinfo/ee-p
 
 	 </div>
 
-
-
-    </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
