@@ -43,7 +43,7 @@ Please [join to our mail-list](https://mailman.metu.edu.tr/mailman/listinfo/ee-p
         <div class="item active">
         <img src="{{ site.url }}{{ site.baseurl }}/images/Gallery/1004_p7_presentation.jpeg" alt="Slide 1" />
 		<div class="carousel-caption d-none d-md-block">
-    		 <p>Powerlab Seminar I - 2024/2025</p>
+    		 <p>SUİT 1004 Tübitak İzleme Heyeti</p>
   		</div>
         </div>
 
