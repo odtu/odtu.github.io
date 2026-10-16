@@ -30,6 +30,13 @@
   education1: BSc, METU, 2021
   education2: MSc, METU, 2024
 
+- name: Civan S. Çevik
+  photo: civan_cevik.jpg
+  ofis: E-101
+  info: MSc Student
+  number_educ: 1
+  education1: BSc, METU, 2025
+
 - name: Kaan Demirkoparan
   photo: kaan_demirkoparan.jpg
   ofis: ARC-301
@@ -50,6 +57,20 @@
   number_educ: 1
   education1: BSc, METU, 2025
 
+- name: Yaman Ibrahim
+  photo: yaman_ibrahim.jpg
+  ofis: E-101
+  info: MSc Student
+  number_educ: 1
+  education1: BSc, METU, 2026
+
+- name: İsmayil İbrahimli
+  photo: ismayil_ibrahimli.jpg
+  ofis: E-101
+  info: MSc Student
+  number_educ: 1
+  education1: BSc, METU, 2026
+
 - name: Sefer İdacı
   photo: sefer_idaci.jpeg
   ofis: C-114
@@ -64,8 +85,8 @@
   number_educ: 1
   education1: BSc, METU, 2023
 
-- name: M. Berkay Kebapçı
-  photo: berkay_kebabci.jpeg
+- name: M. Berkay Kebabçı
+  photo: berkay_kebapci_2026.jpg
   ofis: E-101
   info: MSc Student
   number_educ: 1
@@ -78,6 +99,13 @@
   number_educ: 1
   education1: BSc, METU, 2023
 
+- name: İsmayil Nasibov
+  photo: ismayil_nasibov.jpg
+  ofis: E-101
+  info: MSc Student
+  number_educ: 1
+  education1: BSc, METU, 2025
+
 - name: Metin Özdemir
   photo: metin_ozdemir.jpeg
   ofis: ARC-300
@@ -86,7 +114,7 @@
   education1: BSc, METU, 2026
 
 - name: Kemal Parlaktuna
-  photo: kemal_parlaktuna.jpeg
+  photo: kemal_parlaktuna_2026.jpg
   ofis: E-101
   info: Research & Teaching Assistant
   number_educ: 2
@@ -94,7 +122,7 @@
   education2: MSc, METU, 2023
 
 - name: Somayyeh Rahimi
-  photo: somayyeh.png
+  photo: somayyeh_rahimi_2026.jpg
   ofis: E-101
   info: Research & Teaching Assistant
   number_educ: 2
