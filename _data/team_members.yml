@@ -1,4 +1,13 @@
 
+
+- name: Pouya Alipour
+  photo: POUYA_SADABAD.jpeg
+  ofis: E-118
+  info: PhD Student
+  number_educ: 2
+  education1: BSc, Azarbaijan Shahid Madani University, 2021
+  education2: MSc, METU, 2026
+
 - name: Ogün Altun
   photo: ogun_altun.jpg
   ofis: C-114
@@ -13,14 +22,6 @@
   number_educ: 1
   education1: BSc, METU, 2024
 
-- name: Paul Brown
-  photo: paul.jpg
-  ofis: E-101
-  info: Research Assistant
-  number_educ: 2
-  education1: BSc, Iowa State University, 2004
-  education2: Msc, University of Porto, 2006
-  
 - name: Yunus Çay
   photo: YunusCay.png
   ofis: C-114
@@ -29,6 +30,13 @@
   education1: BSc, METU, 2021
   education2: MSc, METU, 2024
 
+- name: Kaan Demirkoparan
+  photo: kaan_demirkoparan.jpg
+  ofis: ARC-301
+  info: MSc Student
+  number_educ: 1
+  education1: BSc, METU, 2026
+
 - name: Mohammad Derogarian
   photo: mohammad_derogarian.JPG
   ofis: ARC-300
@@ -36,19 +44,12 @@
   number_educ: 1
   education1: BSc, Amirkabir University of Technology, 2021
 
-- name: Fatih Erden
-  photo: fatih_erden.JPG
-  ofis: E-101
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2023
-  
-- name: Özgür Gülsuna
-  photo: ozgurjr.jpg
+- name: Sefer İdacı
+  photo: sefer_idaci.jpeg
   ofis: C-114
-  info: Research Assistant
+  info: MSc Student
   number_educ: 1
-  education1: BSc, METU, 2023
+  education1: BSc, METU, 2025
 
 - name: Arda Kasım
   photo: arda_kasim.jpeg
@@ -56,21 +57,13 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2023
-  
-- name: Barış Kuseyri
-  photo: baris.jpeg
-  ofis: ARC-301
-  info: Research Assistant
-  number_educ: 2
-  education1: BSc, Koç University, 2016
-  education2: MSc, University of Sheffield, 2019
 
-- name: Özgür Arda Küçükaslan
-  photo: arda_kucukaslan.png
+- name: M. Berkay Kebapçı
+  photo: berkay_kebabci.jpeg
   ofis: E-101
-  info: Research Assistant (GÜNAM)
+  info: MSc Student
   number_educ: 1
-  education1: Bsc, METU, 2022
+  education1: BSc, METU, 2025
 
 - name: İsmail Macit
   photo: ismail_macit.JPG
@@ -78,21 +71,13 @@
   info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2023
-  
-- name: Mohammad Hossein Mokhtare
-  photo: mohammed.jpeg
-  ofis: ARC-300
-  info: Research Assistant
-  number_educ: 2
-  education1: BSc, University of Tabriz, 2016
-  education2 : MSc, KNTU, 2019
 
-- name: Tuğrul Nizamioğlu
-  photo: tugrul_nizamoglu.jpeg
-  ofis: E-101
-  info: Research Asistant
+- name: Metin Özdemir
+  photo: metin_ozdemir.jpeg
+  ofis: ARC-300
+  info: MSc Student
   number_educ: 1
-  education1: Bsc, METU, 2023
+  education1: BSc, METU, 2026
 
 - name: Kemal Parlaktuna
   photo: kemal_parlaktuna.jpeg
@@ -110,13 +95,6 @@
   education1: BSc, Azarbaijan Shahid Madani University, 2016
   education2 : MSc, Azarbaijan Shahid Madani University, 2019
 
-- name: Pouya Alipour Vahid Sadabad
-  photo: POUYA_SADABAD.jpeg
-  ofis: E-118
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, Azarbaijan Shahid Madani University, 2021
-
 - name: Göktuğ Tonay
   photo: Goktug_Tonay.jpeg
   ofis: C-114
@@ -131,27 +109,6 @@
   number_educ: 1
   education1:  BSc, METU, 2024
 
-- name: Berke Tosun
-  photo: berke_tosun.jpeg
-  ofis: E-118
-  info: Research Assistant
-  number_educ: 1
-  education1:  BSc, Pamukkale, 2024
-
-- name: Arash Mohammadi Vaniar
-  photo: arash_vaniar.jpg
-  ofis: E-101
-  info: Research & Teaching Assistant
-  number_educ: 1
-  education1: BSc, Azarbaijan Shahid Madani University, 2021
-
-- name: M. Samet Yakut
-  photo: samet.jpeg
-  ofis: C-114
-  info: Research Assistant
-  number_educ: 1
-  education1: BSc, METU, 2022
- 
 - name: Yusuf Basri Yılmaz
   photo: yusuf_basri.jpg
   ofis: C-106
@@ -159,5 +116,3 @@
   number_educ: 2
   education1: BSc, METU, 2018
   education2: MSc, METU, 2021
-
-

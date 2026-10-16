@@ -1,0 +1,37 @@
+{%- comment -%}
+  Renders a list of people as rows of four cards.
+  Parameters:
+    members    - the data list (e.g. site.data.professors)
+    photo_width - width of the photo inside the card (default 40%)
+    show_contact - true to show e-mail and phone (principal researchers)
+    show_office  - true to show the office line
+{%- endcomment -%}
+{%- assign photo_width = include.photo_width | default: "40%" -%}
+{%- for member in include.members -%}
+{%- assign col = forloop.index0 | modulo: 4 -%}
+{%- if col == 0 %}
+<div class="row">
+{%- endif %}
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="{{ photo_width }}" style="float: left" alt="{{ member.name }}" />
+<h4>{{ member.name }}</h4>
+{%- if include.show_contact %}
+<script type="text/javascript"> {{ member.email | remove: '<p>' | remove: '</p>' }} </script>
+<b>Tel:</b> {{ member.tel }}<br>
+<b>Office:</b> {{ member.ofis }}<br>
+{%- elsif include.show_office %}
+{% if member.ofis %}Office: {{ member.ofis }}{% endif %}<br>
+<br>
+<br>
+{%- endif %}
+<ul style="overflow: hidden">
+{%- if member.number_educ %}{% for i in (1..member.number_educ) %}
+{%- assign key = "education" | append: i %}
+<li>{{ member[key] }}</li>
+{%- endfor %}{% endif %}
+</ul>
+</div>
+{%- if col == 3 or forloop.last %}
+</div>
+{%- endif -%}
+{%- endfor %}
