@@ -17,7 +17,7 @@
 <h4>{{ member.name }}</h4>
 {%- if include.show_contact %}
 <script type="text/javascript"> {{ member.email | remove: '<p>' | remove: '</p>' }} </script>
-<b>Tel:</b> {{ member.tel }}<br>
+{% if member.tel %}<b>Tel:</b> {{ member.tel }}<br>{% endif %}
 <b>Office:</b> {{ member.ofis }}<br>
 {%- elsif include.show_office %}
 {% if member.ofis %}Office: {{ member.ofis }}{% endif %}<br>

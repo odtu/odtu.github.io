@@ -31,3 +31,13 @@
   education1: BSc, METU, 2005
   education2: MSc, METU, 2007
   education3: PhD, University of Edinburgh, UK, 2013
+
+- name: İlker Şahin
+  photo: ilker_sahin_square.jpg
+  info: Assistant Professor
+  ofis: C-210
+  email: var string1 = "silker"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  number_educ: 3
+  education1: BSc, METU, 2010
+  education2: MSc, METU, 2014
+  education3: PhD, METU, 2021
