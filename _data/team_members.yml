@@ -44,6 +44,12 @@
   number_educ: 1
   education1: BSc, Amirkabir University of Technology, 2021
 
+- name: Aytunç Evlice
+  photo: aytunc_evlice.jpg
+  info: MSc Student
+  number_educ: 1
+  education1: BSc, METU, 2025
+
 - name: Sefer İdacı
   photo: sefer_idaci.jpeg
   ofis: C-114

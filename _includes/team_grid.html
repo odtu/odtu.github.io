@@ -23,6 +23,8 @@
 {% if member.ofis %}Office: {{ member.ofis }}{% endif %}<br>
 <br>
 <br>
+{%- else %}
+<div style="clear: both"></div>
 {%- endif %}
 <ul style="overflow: hidden">
 {%- if member.number_educ %}{% for i in (1..member.number_educ) %}

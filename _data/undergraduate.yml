@@ -1,1 +1,45 @@
-[]
+
+- name: Begüm Naz Akçam
+  photo: begum_naz_akcam.jpg
+  number_educ: 1
+  education1: BSc, METU, 2030
+
+- name: Tunahan Ceylan
+  photo: tunahan_ceylan.jpg
+  number_educ: 1
+  education1: BSc, METU, 2027
+
+- name: Yiğit Emre Demiral
+  photo: yigit_emre_demiral.jpg
+  number_educ: 1
+  education1: BSc, METU, 2027
+
+- name: Ziya Esmer
+  photo: ziya_esmer.jpg
+  number_educ: 1
+  education1: BSc, METU, 2028
+
+- name: Ekrem Turan Fırat
+  photo: ekrem_turan_firat.jpg
+  number_educ: 1
+  education1: BSc, METU, 2028
+
+- name: Halit Burak Kaya
+  photo: halit_burak_kaya.jpg
+  number_educ: 1
+  education1: BSc, Mechanical Eng., METU, 2028
+
+- name: Tahir Özkürkçüler
+  photo: tahir_ozkurkculer.jpg
+  number_educ: 1
+  education1: BSc, METU, 2030
+
+- name: Pınar Palalı
+  photo: pinar_palali.jpg
+  number_educ: 1
+  education1: BSc, METU, 2028
+
+- name: Ali Ozan Yücel
+  photo: ali_ozan_yucel.jpg
+  number_educ: 1
+  education1: BSc, METU, 2027
