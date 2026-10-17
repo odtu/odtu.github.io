@@ -119,6 +119,18 @@
   position: "ROKETSAN"
   link: https://tr.linkedin.com/in/hakansrc
 
+- name: Hüseyin Yürük
+  degree: PhD, METU
+  year: 2022
+  position: "Manager, ASELSAN"
+  link:
+
+- name: Mehmet Özcan
+  degree: PhD, METU
+  year: 2021
+  position: "EPDK"
+  link:
+
 - name: Ahmet Halis Sabırlı
   degree: BSc, METU
   year: 2021
@@ -207,6 +219,30 @@
   year: 2020
   position: "PhD Candidate, KU Leuven"
   link: https://www.msca-adored.eu/erdisaruhan
+
+- name: Lütfi Boyacı
+  degree: MSc, METU
+  year: 2019
+  position: "ASML"
+  link:
+
+- name: Aykut Demirel
+  degree: MSc, METU
+  year: 2019
+  position: "ASELSAN"
+  link:
+
+- name: Mehmet Kaan Mutlu
+  degree: MSc, METU
+  year: 2019
+  position: "Electronics Architect, ASML"
+  link: https://www.linkedin.com/in/mkaanmutlu
+
+- name: Hakan Temiz
+  degree: MSc, METU
+  year: 2019
+  position: "ABB"
+  link: https://tr.linkedin.com/in/tmzhakan
 
 - name: M. Erdem Sezgin
   degree: MSc, METU
