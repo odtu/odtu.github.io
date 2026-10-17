@@ -1,204 +1,309 @@
+# Alumni of PowerLab. Shown on the team page, grouped by year (newest first).
+# name: full name | degree: e.g. "MSc, METU" | year: graduation year
+# position: current role, e.g. "PhD Candidate, KTH" (optional) | link: LinkedIn or personal page (optional)
 
 - name: Mohammad Hossein Mokhtare
-  info:
-  education: PhD, METU, 2026
+  degree: PhD, METU
+  year: 2026
+  position:
+  link:
 
 - name: Fatih Erden
-  info: https://tr.linkedin.com/in/fatih-erden
-  education: MSc, METU, 2026
+  degree: MSc, METU
+  year: 2026
+  position: "TÜBİTAK MAM"
+  link: https://tr.linkedin.com/in/fatih-erden
 
 - name: Özgür Gülsuna
-  info: https://www.linkedin.com/in/ozgurgulsuna
-  education: MSc, METU, 2026
+  degree: MSc, METU
+  year: 2026
+  position: "PhD Candidate, ETH Zurich"
+  link: https://www.linkedin.com/in/ozgurgulsuna
 
 - name: Özgür Arda Küçükaslan
-  info: https://tr.linkedin.com/in/ozgurardakucukaslan
-  education: MSc, METU, 2026
+  degree: MSc, METU
+  year: 2026
+  position: "TÜBİTAK MAM"
+  link: https://tr.linkedin.com/in/ozgurardakucukaslan
 
 - name: Tuğrul Nizamioğlu
-  info:
-  education: MSc, METU, 2026
+  degree: MSc, METU
+  year: 2026
+  position: 
+  link:
 
 - name: Arash Mohammadi Vaniar
-  info:
-  education: MSc, METU, 2025
+  degree: MSc, METU
+  year: 2025
+  position: "PhD Candidate"
+  link:
 
 - name: M. Samet Yakut
-  info:
-  education: MSc, METU, 2025
-
-- name: Emine Bostancı (Former Principal Researcher)
-  info: https://tr.linkedin.com/in/emine-bostanci-%C3%B6zkan-a6775ba0
-  education: PhD, Leibniz University, Germany, 2014
-
-- name: Nurhan Aydınalp
-  info: https://tr.linkedin.com/in/nurhan-ayd%C4%B1nalp-406ab7139
-  education: BSc, TEDU, 2022
-
-- name: Ahmet Halis Sabırlı
-  info: https://tr.linkedin.com/in/ahmet-halis-sab%C4%B1rl%C4%B1-485197213
-  education: BSc, METU, 2021
+  degree: MSc, METU
+  year: 2025
+  position: "ASELSAN"
+  link:
 
 - name: Parisa Rezapour
-  info: https://tr.linkedin.com/in/parisa-rezapour-18b0781b7
-  education: MSc, METU, 2024
+  degree: MSc, METU
+  year: 2024
+  position: "PhD Candidate"
+  link: https://tr.linkedin.com/in/parisa-rezapour-18b0781b7
 
 - name: Görkem Gülletutan
-  info: https://tr.linkedin.com/in/gorkemgulletutan
-  education: MSc, METU, 2024
+  degree: MSc, METU
+  year: 2024
+  position: "Project Coordination Engineer, ROKETSAN"
+  link: https://tr.linkedin.com/in/gorkemgulletutan
+
+- name: Nurhan Aydınalp
+  degree: BSc, TEDU
+  year: 2022
+  position: "Assystem"
+  link: https://tr.linkedin.com/in/nurhan-ayd%C4%B1nalp-406ab7139
 
 - name: Özgür Yazıcı
-  info: https://tr.linkedin.com/in/%C3%B6zg%C3%BCr-yaz%C4%B1c%C4%B1-283b0588
-  education: MSc, METU, 2022
-  
+  degree: MSc, METU
+  year: 2022
+  position: "Founder, Verata"
+  link: https://tr.linkedin.com/in/%C3%B6zg%C3%BCr-yaz%C4%B1c%C4%B1-283b0588
+
 - name: Zeynep Çöklü
-  info: https://tr.linkedin.com/in/zeynep-coklu
-  education: Bsc, METU, 2022
+  degree: BSc, METU
+  year: 2022
+  position: "Design Engineer"
+  link: https://tr.linkedin.com/in/zeynep-coklu
 
 - name: Berkay Sağlam
-  info: https://tr.linkedin.com/in/berkay-saglam-bs/tr
-  education: Msc, METU, 2022
+  degree: MSc, METU
+  year: 2022
+  position: "Software Developer, Siemens"
+  link: https://tr.linkedin.com/in/berkay-saglam-bs/tr
 
 - name: Serhat Emir Ogan
-  info: https://be.linkedin.com/in/serhat-emir-ogan-6ab430108
-  education: Msc, METU, 2022
+  degree: MSc, METU
+  year: 2022
+  position: "PhD Candidate, Vrije Universiteit Brussel"
+  link: https://be.linkedin.com/in/serhat-emir-ogan-6ab430108
 
 - name: Etki Açılan
-  info: https://www.linkedin.com/in/etkiacilan/tr
-  education: Msc, METU, 2022
+  degree: MSc, METU
+  year: 2022
+  position: "Lead Engineer, GE Vernova"
+  link: https://www.linkedin.com/in/etkiacilan/tr
 
 - name: Enes Ayaz
-  info: PhD Candidate in KTH royal institute of technology
-  education: MSc, METU, 2022
-
-- name: Nail Tosun
-  info: https://tr.linkedin.com/in/nail-tosun-b00a80150
-  education: MSc, METU, 2021
+  degree: MSc, METU
+  year: 2022
+  position: "PhD Candidate, KTH"
+  link:
 
 - name: İven Güzel
-  info: https://www.linkedin.com/in/iven-guzel-50740131a/tr
-  education: MSc, METU, 2022
+  degree: MSc, METU
+  year: 2022
+  position: "PhD Candidate, UIUC"
+  link: https://www.linkedin.com/in/iven-guzel-50740131a/tr
 
 - name: Furkan Tokgöz
-  info: https://uk.linkedin.com/in/tokgozfurkan/tr
-  education: MSc, METU, 2022 
-  
-- name: Mesut Uğur
-  info: https://tr.linkedin.com/in/mesut-u%C4%9Fur-a226a5149
-  education: MSc, METU, 2015
-
-- name: M. Erdem Sezgin
-  info: https://tr.linkedin.com/in/mustafa-erdem-sezgin-2460b8ab
-  education: MSc, METU, 2018
+  degree: MSc, METU
+  year: 2022
+  position: "Monumo"
+  link: https://uk.linkedin.com/in/tokgozfurkan/tr
 
 - name: Hakan Saraç
-  info: https://tr.linkedin.com/in/hakansrc
-  education: MSc, METU, 2022
+  degree: MSc, METU
+  year: 2022
+  position: "ROKETSAN"
+  link: https://tr.linkedin.com/in/hakansrc
+
+- name: Ahmet Halis Sabırlı
+  degree: BSc, METU
+  year: 2021
+  position: "Hardware Design Engineer, ASELSAN"
+  link: https://tr.linkedin.com/in/ahmet-halis-sab%C4%B1rl%C4%B1-485197213
+
+- name: Nail Tosun
+  degree: MSc, METU
+  year: 2021
+  position: "Doctoral Student, Dyson"
+  link: https://tr.linkedin.com/in/nail-tosun-b00a80150
 
 - name: Soheil Pouraltafi
-  info: https://dk.linkedin.com/in/soheil-pouraltafi-kheljan-0ba55bb4
-  education: MSc 2021
+  degree: MSc, METU
+  year: 2021
+  position: "PhD Researcher, DTU"
+  link: https://dk.linkedin.com/in/soheil-pouraltafi-kheljan-0ba55bb4
 
 - name: Uğur Can Yılmaz
-  info: https://www.linkedin.com/in/ugurcanyilmaz/tr
-  education: MSc 2021
-  
+  degree: MSc, METU
+  year: 2021
+  position: "Senior Power System Engineer, Tesla"
+  link: https://www.linkedin.com/in/ugurcanyilmaz/tr
+
 - name: Tuna Yıldız
-  info: https://www.linkedin.com/in/tuna-yildiz-622947171/tr
-  education: MSc 2021
-  
+  degree: MSc, METU
+  year: 2021
+  position: "Electric Power Engineers (EPE)"
+  link: https://www.linkedin.com/in/tuna-yildiz-622947171/tr
+
 - name: İlker Şahin
-  info: https://tr.linkedin.com/in/ilker-%C5%9Fahin-604b61175
-  education: PhD 2021
-  
+  degree: PhD, METU
+  year: 2021
+  position: "Assistant Professor, METU"
+  link: https://tr.linkedin.com/in/ilker-%C5%9Fahin-604b61175
+
 - name: Hakan Polat
-  info: https://be.linkedin.com/in/hakan-polat-199634155
-  education: Msc 2021
-  
-- name: Furkan Karakaya
-  info: https://www.linkedin.com/in/karakaya-furkan/tr
-  education: Msc 2020
+  degree: MSc, METU
+  year: 2021
+  position: "PhD Researcher, VUB"
+  link: https://be.linkedin.com/in/hakan-polat-199634155
 
 - name: Salar Koushan
-  info: https://www.linkedin.com/in/salar-koushan-14278988
-  education: Msc 2021
-    
-- name: Gökhan Çakal
-  info: https://www.linkedin.com/in/gokhancakal
-  education: Msc 2020
-  
+  degree: MSc, METU
+  year: 2021
+  position: "PhD Student, Marquette University"
+  link: https://www.linkedin.com/in/salar-koushan-14278988
+
 - name: Göksenin Hande Bayazıt
-  info: https://nl.linkedin.com/in/ghandeb
-  education: Msc 2021
-  
+  degree: MSc, METU
+  year: 2021
+  position: "Researcher, TU Eindhoven"
+  link: https://nl.linkedin.com/in/ghandeb
+
 - name: Ahmet Fatih Eser
-  info: https://ch.linkedin.com/in/fatih-eser-7ab990143
-  education: Bsc 2021
+  degree: BSc, METU
+  year: 2021
+  position: "Diaxxo AG"
+  link: https://ch.linkedin.com/in/fatih-eser-7ab990143
+
+- name: Furkan Karakaya
+  degree: MSc, METU
+  year: 2020
+  position: "Senior Engineer, Rivian"
+  link: https://www.linkedin.com/in/karakaya-furkan/tr
+
+- name: Gökhan Çakal
+  degree: MSc, METU
+  year: 2020
+  position: "PhD Candidate, UW–Madison"
+  link: https://www.linkedin.com/in/gokhancakal
 
 - name: Siamak Pourkeivannour
-  info: https://www.linkedin.com/in/siamak-pourkeivannour-b5217877
-  education: Msc 2020
+  degree: MSc, METU
+  year: 2020
+  position: "SMIT Transformers"
+  link: https://www.linkedin.com/in/siamak-pourkeivannour-b5217877
 
 - name: Erdi Saruhan
-  info: https://www.msca-adored.eu/erdisaruhan
-  education: Msc 2020
+  degree: MSc, METU
+  year: 2020
+  position: "PhD Candidate, KU Leuven"
+  link: https://www.msca-adored.eu/erdisaruhan
+
+- name: M. Erdem Sezgin
+  degree: MSc, METU
+  year: 2018
+  position: "Power System Designer, ABB"
+  link: https://tr.linkedin.com/in/mustafa-erdem-sezgin-2460b8ab
 
 - name: Doğa Ceylan
-  info: https://nl.linkedin.com/in/doga-ceylan-b62429101
-  education: MSc 2018
+  degree: MSc, METU
+  year: 2018
+  position: "Assistant Professor, TU Eindhoven"
+  link: https://nl.linkedin.com/in/doga-ceylan-b62429101
 
 - name: Melisa Sarıcı
-  info: https://dk.linkedin.com/in/melisa-sarici-9a3360162
-  education: BSc 2018
+  degree: BSc, METU
+  year: 2018
+  position: "R&D Engineer, FLSmidth"
+  link: https://dk.linkedin.com/in/melisa-sarici-9a3360162
 
 - name: Mert Karaçelebi
-  info: https://nl.linkedin.com/in/mert-kara%C3%A7elebi-37827854
-  education: BSc 2018
+  degree: BSc, METU
+  year: 2018
+  position: "PhD Candidate, TU Delft"
+  link: https://nl.linkedin.com/in/mert-kara%C3%A7elebi-37827854
 
 - name: Aysel Akgemci
-  info: https://nl.linkedin.com/in/aysel-akgemci-382529116
-  education: BSc 2016, MSc 2018
+  degree: BSc & MSc, METU
+  year: 2018
+  position: "Philips"
+  link: https://nl.linkedin.com/in/aysel-akgemci-382529116
 
 - name: Erencan Duymaz
-  info: https://de.linkedin.com/in/erencan-duymaz
-  education: BSc 2016, MSc 2018
+  degree: BSc & MSc, METU
+  year: 2018
+  position: "Nordex Group"
+  link: https://de.linkedin.com/in/erencan-duymaz
 
 - name: Caner Yağcı
-  info: https://nl.linkedin.com/in/bekir-caner-yagci
-  education: BSc 2018
+  degree: BSc, METU
+  year: 2018
+  position: "Worley"
+  link: https://nl.linkedin.com/in/bekir-caner-yagci
 
 - name: Deniz Şengül
-  info: https://tr.linkedin.com/in/deniz-%C5%9Feng%C3%BCl-ab42b3108
-  education: MSc 2018
-
-- name: Ahmet Öner
-  info: https://es.linkedin.com/in/ahmet-%C3%B6ner-ph-d-b0102a171
-  education: MSc 2016
-
-- name: Reza Zeinali
-  info: https://nl.linkedin.com/in/reza-zeinali-2ab62462
-  education: MSc 2017
-
-- name: Rasul Tarvirdilu
-  info: https://ca.linkedin.com/in/rasultarvirdiluasl
-  education: MSc 2017
+  degree: MSc, METU
+  year: 2018
+  position: "Lead Hardware Design Engineer, ASELSAN"
+  link: https://tr.linkedin.com/in/deniz-%C5%9Feng%C3%BCl-ab42b3108
 
 - name: Mert Bildirici
-  info: https://tr.linkedin.com/in/mertbildirici
-  education : MSc 2018
+  degree: MSc, METU
+  year: 2018
+  position: "ASELSAN"
+  link: https://tr.linkedin.com/in/mertbildirici
 
 - name: Aydın Başkaya
-  info: https://tr.linkedin.com/in/aydinbaskaya
-  education : MSc 2018
+  degree: MSc, METU
+  year: 2018
+  position: "Senior Expert Researcher, TÜBİTAK"
+  link: https://tr.linkedin.com/in/aydinbaskaya
+
+- name: Reza Zeinali
+  degree: MSc, METU
+  year: 2017
+  position: "Postdoctoral Researcher"
+  link: https://nl.linkedin.com/in/reza-zeinali-2ab62462
+
+- name: Rasul Tarvirdilu
+  degree: MSc, METU
+  year: 2017
+  position: "General Motors"
+  link: https://ca.linkedin.com/in/rasultarvirdiluasl
 
 - name: Begüm Kabagöz
-  info: https://www.linkedin.com/in/h-begum-kabagoz
-  education : BSc 2017
+  degree: BSc, METU
+  year: 2017
+  position: "Postdoctoral Associate, MIT"
+  link: https://www.linkedin.com/in/h-begum-kabagoz
 
 - name: Melih Var
-  info: https://be.linkedin.com/in/melih-var-b00a1a68
-  education : MSc 2017
+  degree: MSc, METU
+  year: 2017
+  position: "BASF"
+  link: https://be.linkedin.com/in/melih-var-b00a1a68
+
+- name: Ahmet Öner
+  degree: MSc, METU
+  year: 2016
+  position: "Siemens Gamesa"
+  link: https://es.linkedin.com/in/ahmet-%C3%B6ner-ph-d-b0102a171
 
 - name: Öztürk Şahin Alemdar
-  info: https://tr.linkedin.com/in/ozturk-sahin-alemdar
-  education : MSc 2016
+  degree: MSc, METU
+  year: 2016
+  position: "ASELSAN"
+  link: https://tr.linkedin.com/in/ozturk-sahin-alemdar
+
+- name: Mesut Uğur
+  degree: MSc, METU
+  year: 2015
+  position: "CEO, Earsis"
+  link: https://tr.linkedin.com/in/mesut-u%C4%9Fur-a226a5149
+
+- name: Emine Bostancı (Former Principal Researcher)
+  degree: PhD, Leibniz University, Germany
+  year: 2014
+  position: "Porsche AG"
+  link: https://tr.linkedin.com/in/emine-bostanci-%C3%B6zkan-a6775ba0

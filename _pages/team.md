@@ -22,8 +22,4 @@ permalink: /team/
 
 ## Alumni of PowerLab
 
-<ul>
-{% for member in site.data.alumni %}
-<li> <h4>{{ member.name }}:</h4> &emsp; {{ member.education }}{% if member.info contains "http" %}, &emsp; <a href="{{ member.info }}" target="_blank">LinkedIn</a>{% elsif member.info %}, &emsp; {{ member.info }}{% endif %}</li>
-{% endfor %}
-</ul>
+{% include alumni_grid.html %}
