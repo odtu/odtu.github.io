@@ -3,6 +3,7 @@
   Data: _data/alumni.yml (name, degree, year, later_degree, position, link)
 {%- endcomment -%}
 {%- assign years = site.data.alumni | group_by: "year" | sort: "name" | reverse -%}
+<div class="alumni" markdown="0">
 {%- for group in years %}
 <div class="al-year">{{ group.name }}</div>
 <div class="al-grid">
@@ -20,3 +21,4 @@
 {%- endfor %}
 </div>
 {%- endfor %}
+</div>
