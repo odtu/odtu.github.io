@@ -1,4 +1,4 @@
-# Current graduate students. level: phd or msc (decides the section); topic: short research topic (optional)
+# Current graduate students. level: phd or msc (decides the section)
 
 - name: Pouya Alipour
   level: phd
@@ -21,7 +21,6 @@
 - name: Işık Emir Altunkol
   level: msc
   info: MSc Student
-  topic: Rotor eccentricity in axial-flux machines
   photo: ısık_emir.jfif
   ofis: C-114
   number_educ: 1
@@ -95,7 +94,6 @@
 - name: Arda Kasım
   level: msc
   info: MSc Student
-  topic: 800 V PFC rectifiers for EV chargers
   photo: arda_kasim.jpeg
   ofis: C-114
   number_educ: 1
@@ -112,7 +110,6 @@
 - name: İsmail Macit
   level: msc
   info: MSc Student
-  topic: 800 V on-board charger for EVs
   photo: ismail_macit.JPG
   ofis: C-114
   number_educ: 1
@@ -155,7 +152,6 @@
 - name: Göktuğ Tonay
   level: msc
   info: MSc Student
-  topic: Bidirectional on-board charger for EVs
   photo: Goktug_Tonay.jpeg
   ofis: C-114
   number_educ: 1
@@ -164,7 +160,6 @@
 - name: Elif Topaloğlu
   level: msc
   info: MSc Student
-  topic: Cycloidal axial-flux machines with PCB stators
   photo: elif_topaloglu.jpeg
   ofis: C-114
   number_educ: 1
@@ -173,7 +168,6 @@
 - name: Yusuf Basri Yılmaz
   level: phd
   info: PhD Student
-  topic: Dual-speed synchronous reluctance motors
   photo: yusuf_basri.jpg
   ofis: C-106
   number_educ: 2
