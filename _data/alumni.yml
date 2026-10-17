@@ -1,5 +1,6 @@
 # Alumni of PowerLab. Shown on the team page, grouped by year (newest first).
 # name: full name | degree: e.g. "MSc, METU" | year: graduation year
+# later_degree: degree earned after PowerLab, e.g. "PhD, TU Eindhoven" (optional)
 # position: current role, e.g. "PhD Candidate, KTH" (optional) | link: LinkedIn or personal page (optional)
 
 - name: Mohammad Hossein Mokhtare
@@ -88,6 +89,7 @@
 
 - name: Etki Açılan
   degree: MSc, METU
+  later_degree: PhD, Northeastern University
   year: 2022
   position: "Lead Engineer, GE Vernova"
   link: https://www.linkedin.com/in/etkiacilan/tr
@@ -106,6 +108,7 @@
 
 - name: Furkan Tokgöz
   degree: MSc, METU
+  later_degree: PhD, University of Sheffield
   year: 2022
   position: "Monumo"
   link: https://uk.linkedin.com/in/tokgozfurkan/tr
@@ -136,12 +139,14 @@
 
 - name: Uğur Can Yılmaz
   degree: MSc, METU
+  later_degree: PhD, Northeastern University
   year: 2021
   position: "Senior Power System Engineer, Tesla"
   link: https://www.linkedin.com/in/ugurcanyilmaz/tr
 
 - name: Tuna Yıldız
   degree: MSc, METU
+  later_degree: PhD, Northeastern University
   year: 2021
   position: "Electric Power Engineers (EPE)"
   link: https://www.linkedin.com/in/tuna-yildiz-622947171/tr
@@ -172,12 +177,14 @@
 
 - name: Ahmet Fatih Eser
   degree: BSc, METU
+  later_degree: MSc, ETH Zurich
   year: 2021
   position: "Diaxxo AG"
   link: https://ch.linkedin.com/in/fatih-eser-7ab990143
 
 - name: Furkan Karakaya
   degree: MSc, METU
+  later_degree: PhD, UIUC
   year: 2020
   position: "Senior Engineer, Rivian"
   link: https://www.linkedin.com/in/karakaya-furkan/tr
@@ -190,6 +197,7 @@
 
 - name: Siamak Pourkeivannour
   degree: MSc, METU
+  later_degree: PhD, TU Eindhoven
   year: 2020
   position: "SMIT Transformers"
   link: https://www.linkedin.com/in/siamak-pourkeivannour-b5217877
@@ -202,24 +210,28 @@
 
 - name: M. Erdem Sezgin
   degree: MSc, METU
+  later_degree: PhD, METU
   year: 2018
   position: "Power System Designer, ABB"
   link: https://tr.linkedin.com/in/mustafa-erdem-sezgin-2460b8ab
 
 - name: Doğa Ceylan
   degree: MSc, METU
+  later_degree: PhD, TU Eindhoven
   year: 2018
   position: "Assistant Professor, TU Eindhoven"
   link: https://nl.linkedin.com/in/doga-ceylan-b62429101
 
 - name: Melisa Sarıcı
   degree: BSc, METU
+  later_degree: MSc, DTU
   year: 2018
   position: "R&D Engineer, FLSmidth"
   link: https://dk.linkedin.com/in/melisa-sarici-9a3360162
 
 - name: Mert Karaçelebi
   degree: BSc, METU
+  later_degree: MSc, TU Delft
   year: 2018
   position: "PhD Candidate, TU Delft"
   link: https://nl.linkedin.com/in/mert-kara%C3%A7elebi-37827854
@@ -238,6 +250,7 @@
 
 - name: Caner Yağcı
   degree: BSc, METU
+  later_degree: MSc, TU Delft
   year: 2018
   position: "Worley"
   link: https://nl.linkedin.com/in/bekir-caner-yagci
@@ -262,18 +275,21 @@
 
 - name: Reza Zeinali
   degree: MSc, METU
+  later_degree: PhD, TU Eindhoven
   year: 2017
   position: "Postdoctoral Researcher"
   link: https://nl.linkedin.com/in/reza-zeinali-2ab62462
 
 - name: Rasul Tarvirdilu
   degree: MSc, METU
+  later_degree: PhD, McMaster University
   year: 2017
   position: "General Motors"
   link: https://ca.linkedin.com/in/rasultarvirdiluasl
 
 - name: Begüm Kabagöz
   degree: BSc, METU
+  later_degree: PhD, Boston University
   year: 2017
   position: "Postdoctoral Associate, MIT"
   link: https://www.linkedin.com/in/h-begum-kabagoz
@@ -286,6 +302,7 @@
 
 - name: Ahmet Öner
   degree: MSc, METU
+  later_degree: PhD, Northeastern University
   year: 2016
   position: "Siemens Gamesa"
   link: https://es.linkedin.com/in/ahmet-%C3%B6ner-ph-d-b0102a171

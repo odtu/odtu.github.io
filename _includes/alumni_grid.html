@@ -1,6 +1,6 @@
 {%- comment -%}
   Alumni grouped by graduation year, newest first.
-  Data: _data/alumni.yml (name, degree, year, position, link)
+  Data: _data/alumni.yml (name, degree, year, later_degree, position, link)
 {%- endcomment -%}
 {%- assign years = site.data.alumni | group_by: "year" | sort: "name" | reverse -%}
 {%- for group in years %}
@@ -10,6 +10,9 @@
 <div class="al-card">
 <div class="al-name">{% if member.link %}<a href="{{ member.link }}" target="_blank" rel="noopener">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</div>
 <div class="al-deg">{{ member.degree }}</div>
+{%- if member.later_degree %}
+<div class="al-deg">{{ member.later_degree }}</div>
+{%- endif %}
 {%- if member.position %}
 <div class="al-pos">{{ member.position }}</div>
 {%- endif %}
