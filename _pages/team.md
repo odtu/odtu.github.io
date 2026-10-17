@@ -43,5 +43,5 @@ PowerLab is a research group in the Electrical-Electronics Engineering Departmen
 {% include alumni_grid.html %}
 
 <div class="team-join" markdown="0">
-<b>Interested in joining?</b> We welcome motivated undergraduate and graduate students. Contact one of the principal researchers with your CV and a short note on your interests.
+<b>Interested in joining?</b> We welcome motivated undergraduate and graduate students. Depending on your research interests, just contact one of the principal researchers with your CV and a short note on your interests.
 </div>
