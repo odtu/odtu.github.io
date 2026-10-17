@@ -4,7 +4,7 @@
   info: Assistant Professor
   ofis: EZ-11A
   tel: 210 2357
-  email:  var string1 = "keyvan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  mail: keyvan@metu.edu.tr
   number_educ: 3
   education1: BSc, University of Tabriz, 2008
   education2: MSc, Sharif University of Technology, 2014
@@ -15,18 +15,19 @@
   info: Associate Professor
   ofis: E-110
   tel: 210 4539
-  email:  var string1 = "mgol"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  mail: mgol@metu.edu.tr
   number_educ: 3
   education1: BSc, METU, 2007
   education2: MSc, METU, 2009
   education3: PhD, Northeastern University, USA, 2014
 
 - name: Ozan Keysan
+  link: https://keysan.me
   photo: ozan_keysan_hd.jpg
   info: Associate Professor
   ofis: C-113
   tel: 210 7586
-  email: var string1 = "keysan"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  mail: keysan@metu.edu.tr
   number_educ: 3
   education1: BSc, METU, 2005
   education2: MSc, METU, 2007
@@ -36,7 +37,7 @@
   photo: ilker_sahin_square.jpg
   info: Assistant Professor
   ofis: C-210
-  email: var string1 = "silker"; var string2 = "@"; var string3 = "metu.edu.tr"; var string4 = string1 + string2 + string3; document.write("<a href=" + "mail" + "to:" + string1 + string2 + string3 + ">" + string4 + "</a>");
+  mail: silker@metu.edu.tr
   number_educ: 3
   education1: BSc, METU, 2010
   education2: MSc, METU, 2014

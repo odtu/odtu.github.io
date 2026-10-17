@@ -1,0 +1,31 @@
+{%- comment -%}
+  Cards for current members. Parameters:
+    members  - data list
+    pi       - true for principal researchers (shows e-mail and phone)
+    role     - role shown when a member has no "info" (e.g. "Undergraduate Researcher")
+  Data fields: name, photo, info, topic, link, mail, ofis, tel, number_educ, education1..N
+{%- endcomment -%}
+<div class="mb-grid{% if include.pi %} mb-pi{% endif %}" markdown="0">
+{%- for member in include.members %}
+<div class="mb-card">
+<div class="mb-photo"><img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="{{ member.name }}" loading="lazy"></div>
+<div class="mb-body">
+<div class="mb-name">{% if member.link %}<a href="{{ member.link }}" target="_blank" rel="noopener">{{ member.name }}</a>{% else %}{{ member.name }}{% endif %}</div>
+{%- assign role = member.info | default: include.role %}
+{%- if role %}<div class="mb-role">{{ role }}</div>{% endif %}
+{%- if member.topic %}<div class="mb-topic">{{ member.topic }}</div>{% endif %}
+<div class="mb-edu">
+{%- if member.number_educ %}{% for i in (1..member.number_educ) %}{% assign key = "education" | append: i %}<div>{{ member[key] }}</div>{% endfor %}{% endif %}
+</div>
+{%- if include.pi %}
+<div class="mb-contact">
+{%- if member.mail %}<a href="mailto:{{ member.mail }}">{{ member.mail }}</a>{% endif %}
+{%- if member.ofis %}<div>Office {{ member.ofis }}{% if member.tel %} · Tel {{ member.tel }}{% endif %}</div>{% endif %}
+</div>
+{%- elsif member.ofis %}
+<div class="mb-office">Office {{ member.ofis }}</div>
+{%- endif %}
+</div>
+</div>
+{%- endfor %}
+</div>

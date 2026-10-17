@@ -1,153 +1,181 @@
-
+# Current graduate students. level: phd or msc (decides the section); topic: short research topic (optional)
 
 - name: Pouya Alipour
+  level: phd
+  info: PhD Student
   photo: POUYA_SADABAD.jpeg
   ofis: E-118
-  info: PhD Student
   number_educ: 2
   education1: BSc, Azarbaijan Shahid Madani University, 2021
   education2: MSc, METU, 2026
 
 - name: Ogün Altun
+  level: phd
+  info: PhD Student
   photo: ogun_altun.jpg
   ofis: C-114
-  info: Research & Teaching Assistant
   number_educ: 2
   education1: BSc, METU, 2020
   education2: MSc, METU, 2023
 
 - name: Işık Emir Altunkol
+  level: msc
+  info: MSc Student
+  topic: Rotor eccentricity in axial-flux machines
   photo: ısık_emir.jfif
   ofis: C-114
   number_educ: 1
   education1: BSc, METU, 2024
 
 - name: Yunus Çay
+  level: phd
+  info: PhD Student
   photo: YunusCay.png
   ofis: C-114
-  info: Research Assistant (GÜNAM)
   number_educ: 2
   education1: BSc, METU, 2021
   education2: MSc, METU, 2024
 
 - name: Civan S. Çevik
+  level: msc
+  info: MSc Student
   photo: civan_cevik.jpg
   ofis: E-101
-  info: MSc Student
   number_educ: 1
   education1: BSc, METU, 2025
 
 - name: Kaan Demirkoparan
+  level: msc
+  info: MSc Student
   photo: kaan_demirkoparan.jpg
   ofis: ARC-301
-  info: MSc Student
   number_educ: 1
   education1: BSc, METU, 2026
 
 - name: Mohammad Derogarian
+  level: phd
+  info: PhD Student
   photo: mohammad_derogarian.JPG
   ofis: ARC-300
-  info: Research Assistant
   number_educ: 2
   education1: BSc, Amirkabir University of Technology, 2021
   education2: MSc, METU, 2026
 
 - name: Aytunç Evlice
-  photo: aytunc_evlice.jpg
+  level: msc
   info: MSc Student
+  photo: aytunc_evlice.jpg
   number_educ: 1
   education1: BSc, METU, 2025
 
 - name: Yaman Ibrahim
+  level: msc
+  info: MSc Student
   photo: yaman_ibrahim.jpg
   ofis: E-101
-  info: MSc Student
   number_educ: 1
   education1: BSc, METU, 2026
 
 - name: İsmayil İbrahimli
+  level: msc
+  info: MSc Student
   photo: ismayil_ibrahimli.jpg
   ofis: E-101
-  info: MSc Student
   number_educ: 1
   education1: BSc, METU, 2026
 
 - name: Sefer İdacı
+  level: msc
+  info: MSc Student
   photo: sefer_idaci.jpeg
   ofis: C-114
-  info: MSc Student
   number_educ: 1
   education1: BSc, METU, 2025
 
 - name: Arda Kasım
+  level: msc
+  info: MSc Student
+  topic: 800 V PFC rectifiers for EV chargers
   photo: arda_kasim.jpeg
   ofis: C-114
-  info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2023
 
 - name: M. Berkay Kebabçı
+  level: msc
+  info: MSc Student
   photo: berkay_kebapci_2026.jpg
   ofis: E-101
-  info: MSc Student
   number_educ: 1
   education1: BSc, METU, 2025
 
 - name: İsmail Macit
+  level: msc
+  info: MSc Student
+  topic: 800 V on-board charger for EVs
   photo: ismail_macit.JPG
   ofis: C-114
-  info: Research Assistant
   number_educ: 1
   education1: BSc, METU, 2023
 
 - name: İsmayil Nasibov
+  level: msc
+  info: MSc Student
   photo: ismayil_nasibov.jpg
   ofis: E-101
-  info: MSc Student
   number_educ: 1
   education1: BSc, METU, 2025
 
 - name: Metin Özdemir
+  level: msc
+  info: MSc Student
   photo: metin_ozdemir.jpeg
   ofis: ARC-300
-  info: MSc Student
   number_educ: 1
   education1: BSc, METU, 2026
 
 - name: Kemal Parlaktuna
+  level: phd
+  info: PhD Student
   photo: kemal_parlaktuna_2026.jpg
   ofis: E-101
-  info: Research & Teaching Assistant
   number_educ: 2
   education1: BSc, METU, 2020
   education2: MSc, METU, 2023
 
 - name: Somayyeh Rahimi
+  level: phd
+  info: PhD Student
   photo: somayyeh_rahimi_2026.jpg
   ofis: E-101
-  info: Research & Teaching Assistant
   number_educ: 2
   education1: BSc, Azarbaijan Shahid Madani University, 2016
   education2 : MSc, Azarbaijan Shahid Madani University, 2019
 
 - name: Göktuğ Tonay
+  level: msc
+  info: MSc Student
+  topic: Bidirectional on-board charger for EVs
   photo: Goktug_Tonay.jpeg
   ofis: C-114
-  info: Research Assistant
   number_educ: 1
   education1:  BSc, METU, 2023
 
 - name: Elif Topaloğlu
+  level: msc
+  info: MSc Student
+  topic: Cycloidal axial-flux machines with PCB stators
   photo: elif_topaloglu.jpeg
   ofis: C-114
-  info: Research Assistant
   number_educ: 1
   education1:  BSc, METU, 2024
 
 - name: Yusuf Basri Yılmaz
+  level: phd
+  info: PhD Student
+  topic: Dual-speed synchronous reluctance motors
   photo: yusuf_basri.jpg
   ofis: C-106
-  info: Research Assistant
   number_educ: 2
   education1: BSc, METU, 2018
   education2: MSc, METU, 2021

@@ -146,3 +146,47 @@ firstp {
     color: #c0392b;
     margin-top: 6px;
 }
+
+/* Team page: member cards */
+.team-nav { font-size: 14px; margin: 4px 0 18px; color: #999; }
+.team-nav a { margin-right: 14px; }
+.team-intro { font-size: 16px; color: #555; max-width: 760px; }
+.mb-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 16px;
+    margin-bottom: 10px;
+}
+.mb-grid.mb-pi { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
+.mb-card {
+    border: 1px solid #e5e5e5;
+    border-radius: 6px;
+    overflow: hidden;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+}
+.mb-photo { aspect-ratio: 1 / 1; background: #f2f2f2; }
+#gridid .mb-photo img {
+    width: 100%; height: 100%;
+    object-fit: cover; object-position: center 25%;
+    margin: 0; border-radius: 0; box-shadow: none; display: block;
+}
+.mb-body { padding: 10px 12px 12px; font-size: 13px; color: #666; }
+.mb-name { font-size: 16px; font-weight: 600; color: #222; line-height: 1.25; }
+.mb-name a { color: inherit; border-bottom: 1px dotted #999; }
+.mb-name a:hover { color: #c0392b; text-decoration: none; }
+.mb-role { color: #c0392b; margin-top: 3px; }
+.mb-topic { font-style: italic; color: #444; margin-top: 6px; line-height: 1.35; }
+.mb-edu { margin-top: 6px; font-size: 12px; color: #888; line-height: 1.45; }
+.mb-office, .mb-contact { margin-top: 6px; font-size: 12px; color: #888; }
+.mb-contact a { font-size: 13px; }
+.team-join {
+    margin: 30px 0 10px; padding: 16px 18px;
+    border-left: 3px solid #c0392b; background: #fafafa; font-size: 15px;
+}
+@media (max-width: 600px) {
+    .mb-grid, .mb-grid.mb-pi { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .mb-body { padding: 8px 9px 10px; }
+    .mb-name { font-size: 15px; }
+}
