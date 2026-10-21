@@ -1,5 +1,7 @@
 
 - name: Keyvan Firuzi
+  scholar: https://scholar.google.com/citations?user=eFnkCSwAAAAJ
+  orcid: 0000-0002-2791-3606
   photo: Keyvan-Firuzi.jpg
   info: Assistant Professor
   ofis: EZ-11A
@@ -11,6 +13,8 @@
   education3: PhD, Sharif University of Technology, 2019
   
 - name: Murat Göl
+  scholar: https://scholar.google.com/citations?user=iTfkN4oAAAAJ
+  orcid: 0000-0002-2523-1169
   photo: murat_gol_2026.jpg
   info: Professor
   ofis: E-110
@@ -22,6 +26,8 @@
   education3: PhD, Northeastern University, USA, 2014
 
 - name: Ozan Keysan
+  scholar: https://scholar.google.com/citations?user=dzuKyxwAAAAJ
+  orcid: 0000-0002-6311-7906
   link: https://keysan.me
   photo: ozan_keysan_hd.jpg
   info: Associate Professor
@@ -34,6 +40,7 @@
   education3: PhD, University of Edinburgh, UK, 2013
 
 - name: İlker Şahin
+  orcid: 0000-0003-3085-8828
   photo: ilker_sahin_square.jpg
   info: Assistant Professor
   ofis: C-210

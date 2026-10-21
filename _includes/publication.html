@@ -1,0 +1,6 @@
+{% assign p = include.p %}{% capture kindlabel %}{% case p.kind %}{% when "journal" %}Journal{% when "conference" %}Conference{% when "book" %}Book chapter{% else %}Other{% endcase %}{% endcapture %}
+<div class="pub"{% if include.filter %} data-kind="{{ p.kind }}" data-year="{{ p.year }}" data-pis="{{ p.pis | join: '|' }}" data-text="{{ p.title | append: ' ' | append: p.authors | append: ' ' | append: p.venue | strip_html | downcase | escape }}"{% endif %}>
+  <div class="pub-title"><a href="{{ p.url }}">{{ p.title | escape }}</a></div>
+  <div class="pub-authors">{{ p.authors }}</div>
+  <div class="pub-venue"><span class="pub-kind pub-k-{{ p.kind }}">{{ kindlabel }}</span>{% if p.venue %}{{ p.venue | escape }}, {% endif %}{{ p.year }}{% if p.pdf %} · <a href="{{ p.pdf }}">PDF</a>{% endif %}{% if p.cites > 0 %} · <span class="pub-cites">cited {{ p.cites }}×</span>{% endif %}</div>
+</div>

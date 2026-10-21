@@ -1,0 +1,38 @@
+name: Update publications
+
+on:
+  schedule:
+    - cron: "17 3 1 * *"   # 03:17 UTC on the 1st of every month
+  workflow_dispatch:        # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml
+
+      - name: Fetch publications from OpenAlex
+        run: python scripts/update_publications.py
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}   # optional
+
+      - name: Commit if anything changed
+        run: |
+          if [ -z "$(git status --porcelain -- _data/publications.yml _data/publications_meta.yml)" ]; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add _data/publications.yml _data/publications_meta.yml
+          git commit -m "Monthly publications update"
+          git push

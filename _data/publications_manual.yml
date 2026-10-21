@@ -1,0 +1,14 @@
+# Papers OpenAlex misses (e.g. conference papers without a DOI).
+# They are merged into the publication list on the next monthly update.
+# Copy the example, remove the leading "# " and fill in:
+#
+# - title: "Paper title"
+#   authors: "<b>O. Keysan</b>, A. Student"   # PI names in <b>...</b>
+#   venue: "2025 IEEE ECCE"
+#   kind: conference          # journal | conference | book
+#   year: 2025
+#   date: 2025-10-01
+#   doi: 10.1109/xxxx         # or leave out and give url
+#   url: https://...
+#   pis: [Ozan Keysan]
+[]

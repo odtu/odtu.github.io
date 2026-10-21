@@ -1,0 +1,31 @@
+# Patents shown on /publications/. Newest first.
+# status: granted | pending | (leave empty if unknown)
+# Source: AVESIS (avesis.metu.edu.tr/keysan/projects), October 2026.
+
+- title: "A fault early-detection method for electrical machines"
+  inventors: "İ. Şahin, O. Keysan"
+  number: "TR 2019 19743 B"
+  year: 2022
+  status: granted
+  url: https://avesis.metu.edu.tr/fikrimulkiyet/91591c78-1956-495c-b427-f093910fa4da/elektrik-makinalari-icin-bir-ariza-erken-teshis-yontemi
+
+- title: "Method of reducing estimation vectors in model predictive control of AC motors"
+  inventors: "O. Keysan, İ. Şahin"
+  number: "TR 2018 14498 (granted 2021); PCT/TR2019/050818"
+  year: 2021
+  status: granted
+  url: https://avesis.metu.edu.tr/fikrimulkiyet/69fdfdbe-00d6-4611-adde-90f4238c5793/alternatif-akim-motorlarin-model-kesitirimci-denetiminde-tahmin-vektorlerini-azaltan-yontem
+
+- title: "A winding method for electrical machines"
+  inventors: "O. Keysan, G. Çakal"
+  number: "TR 2019/19533"
+  year: 2019
+  status: granted
+  url: https://avesis.metu.edu.tr/fikrimulkiyet/721f0fcd-c3a5-460e-9d74-74856523cae2/elektrik-makinalari-icin-bir-sargi-yontemi
+
+- title: "Speed and rotor position estimation of electrical machines using rotor slot harmonics and higher order rotor slot harmonics"
+  inventors: "O. Keysan"
+  number: ""
+  year: 2011
+  status: ""
+  url: https://avesis.metu.edu.tr/fikrimulkiyet/2f1a212b-98c8-4c25-85ff-abee4e4bb38c/speed-and-rotor-position-estimation-of-electrical-machines-using-rotor-slot-harmonics-and-higher-order-rotor-slot-harmonics

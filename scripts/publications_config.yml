@@ -1,0 +1,37 @@
+# Settings for scripts/update_publications.py (monthly publications update).
+#
+# A paper is listed when one of the PIs below is an author AND that PI's
+# affiliation on the paper is METU. Papers from before joining METU
+# (e.g. PhD work elsewhere) are therefore left out automatically.
+
+institution: I201799495      # METU's id in OpenAlex
+min_year: 2010               # ignore anything older
+mailto: keysan@metu.edu.tr   # OpenAlex asks for a contact address
+max_authors: 10              # longer author lists are cut with "et al."
+include_other: false         # true = also list items that are neither journal, conference nor book
+
+# name must match _data/professors.yml exactly (used for the filter on the page).
+# since: used only when OpenAlex has no affiliation data for a paper.
+# openalex_ids: extra OpenAlex author records for the same person (optional).
+pis:
+  - name: Ozan Keysan
+    orcid: 0000-0002-6311-7906
+    since: 2013
+  - name: Murat Göl
+    orcid: 0000-0002-2523-1169
+    since: 2014
+  - name: Keyvan Firuzi
+    orcid: 0000-0002-2791-3606
+    since: 2021
+  - name: İlker Şahin
+    orcid: 0000-0003-3085-8828
+    since: 2016
+
+# Papers to hide from the list (DOI, without https://doi.org/)
+exclude_dois: []
+
+# Hide anything whose title contains one of these (case-insensitive)
+exclude_titles:
+  - "front matter"
+  - "table of contents"
+  - "author index"
