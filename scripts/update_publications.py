@@ -60,8 +60,10 @@ def api_get(path, params, cfg):
         except urllib.error.HTTPError as e:
             if e.code == 404:
                 return None
+            body = e.read()[:300].decode("utf-8", "replace")
+            print(f"HTTP {e.code} from {path}: {body}", flush=True)
             if attempt == 4:
-                raise
+                raise RuntimeError(f"OpenAlex HTTP {e.code} on {path}: {body}")
         except urllib.error.URLError:
             if attempt == 4:
                 raise
@@ -288,4 +290,15 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except SystemExit as e:
+        if e.code not in (None, 0):
+            print(f"::error::{e.code}")
+        raise
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        msg = f"{type(e).__name__}: {e}".replace("\n", " ")[:500]
+        print(f"::error::{msg}")
+        sys.exit(1)
