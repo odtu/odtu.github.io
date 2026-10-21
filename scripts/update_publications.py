@@ -84,16 +84,29 @@ def resolve_author_ids(pi, cfg):
 
 
 def fetch_works(author_ids, cfg):
-    works, cursor = [], "*"
+    """Page through /works. Uses page numbers (no API key needed); a key, if
+    given, switches to cursor paging, which OpenAlex only allows with a key."""
     filt = f"author.id:{'|'.join(author_ids)},is_paratext:false"
     if cfg.get("min_year"):
         filt += f",from_publication_date:{cfg['min_year']}-01-01"
-    while cursor:
-        page = api_get("/works", {"filter": filt, "per-page": 200, "cursor": cursor}, cfg)
+    use_cursor = bool(os.environ.get("OPENALEX_API_KEY"))
+    works, page_no, cursor = [], 1, "*"
+    while True:
+        params = {"filter": filt, "per-page": 200}
+        params.update({"cursor": cursor} if use_cursor else {"page": page_no})
+        page = api_get("/works", params, cfg)
+        total = page["meta"].get("count") or 0
+        if total > 5000:
+            raise RuntimeError(f"OpenAlex returned {total} works - the author filter was ignored")
         works.extend(page["results"])
-        cursor = page["meta"].get("next_cursor")
-        if not page["results"]:
-            break
+        if use_cursor:
+            cursor = page["meta"].get("next_cursor")
+            if not cursor or not page["results"]:
+                break
+        else:
+            if len(works) >= total or not page["results"]:
+                break
+            page_no += 1
     return works
 
 
