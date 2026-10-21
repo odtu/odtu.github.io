@@ -14,6 +14,19 @@
   pis:
   - Murat Göl
   openalex: W7165844772
+- title: 'GridAI: Edge AI Smart Grid Fault Detection with Goal-Oriented Communication'
+  authors: M. B. Aydar, S. Baghaee, <b>K. Firuzi</b>, E. Uysal‐Biyikoglu, G. YILDIRIM
+  venue: null
+  kind: conference
+  year: 2026
+  date: '2026-06-02'
+  doi: 10.1145/3812836.3814773
+  url: https://doi.org/10.1145/3812836.3814773
+  pdf: null
+  cites: 0
+  pis:
+  - Keyvan Firuzi
+  openalex: W7163134782
 - title: 'Electric Motors Exposed to Ambient Stresses During Industrial Operations: Partial Discharge Diagnostics'
   authors: W. U. Hassan, G. A. Hussain, <b>K. Firuzi</b>, A. M. Ariffin, J. A. Kay
   venue: IEEE Industry Applications Magazine
@@ -93,6 +106,19 @@
   pis:
   - Murat Göl
   openalex: W4417073578
+- title: An Auxiliary Controller for Grid-Forming Inverters to Improve the Fault and Post-Fault Behavior
+  authors: M. D. Miandoab, <b>O. Keysan</b>, E. Demirok
+  venue: null
+  kind: conference
+  year: 2025
+  date: '2025-11-27'
+  doi: 10.1109/eleco69582.2025.11329242
+  url: https://doi.org/10.1109/eleco69582.2025.11329242
+  pdf: null
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W7124839313
 - title: Static Armature Shape Optimization for Electromagnetic Launchers Considering Specific Action
   authors: G. Gülletutan, N. Tosun, M. Karagöz, B. Yıldırım, Z. Çöklü, <b>O. Keysan</b>
   venue: IEEE Transactions on Plasma Science
@@ -106,6 +132,137 @@
   pis:
   - Ozan Keysan
   openalex: W4415481267
+- title: PSO-based OPF for Soft Open Point Devices to Reduce Distribution System Losses
+  authors: M. E. Sezgin, A. Uzunalioğlu, U. Deveci, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+  kind: conference
+  year: 2025
+  date: '2025-10-20'
+  doi: 10.1109/isgteurope64741.2025.11305394
+  url: https://doi.org/10.1109/isgteurope64741.2025.11305394
+  pdf: null
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W7117621896
+- title: Implicit Solutions for Line Partitions in Electrical Distribution System Restoration MDP
+  authors: İ. Işık, A. Uzunalioğlu, U. Deveci, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+  kind: conference
+  year: 2025
+  date: '2025-10-20'
+  doi: 10.1109/isgteurope64741.2025.11305616
+  url: https://doi.org/10.1109/isgteurope64741.2025.11305616
+  pdf: null
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W7117547481
+- title: A Fault Location Method for Street Lighting Systems
+  authors: C. S. Çevik, B. Yaman, U. Deveci, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+  kind: conference
+  year: 2025
+  date: '2025-10-20'
+  doi: 10.1109/isgteurope64741.2025.11305489
+  url: https://doi.org/10.1109/isgteurope64741.2025.11305489
+  pdf: null
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W7117574339
+- title: Calculation of the Inertia Constant from the Turbine Emergency Shutdown Data
+  authors: F. Erden, <b>M. Göl</b>
+  venue: International Universities Power Engineering Conference (UPEC)
+  kind: conference
+  year: 2025
+  date: '2025-09-02'
+  doi: 10.1109/upec65436.2025.11279930
+  url: https://doi.org/10.1109/upec65436.2025.11279930
+  pdf: null
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W4417338447
+- title: A Multi-Layer Controller for Grid Forming Inverters in Microgrids
+  authors: O. Altun, K. Parlaktuna, A. Uzunalioğlu, U. Deveci, <b>O. Keysan</b>, <b>M. Göl</b>
+  venue: International Universities Power Engineering Conference (UPEC)
+  kind: conference
+  year: 2025
+  date: '2025-09-02'
+  doi: 10.1109/upec65436.2025.11279922
+  url: https://doi.org/10.1109/upec65436.2025.11279922
+  pdf: null
+  cites: 0
+  pis:
+  - Ozan Keysan
+  - Murat Göl
+  openalex: W4417338270
+- title: Capacitor Current Minimization Algorithm for Asymmetric Interleaved DC/DC Converters
+  authors: O. Altun, G. Tonay, Ö. Ş. Alemdar, <b>O. Keysan</b>
+  venue: null
+  kind: conference
+  year: 2025
+  date: '2025-09-01'
+  doi: 10.1109/ecce-europe62795.2025.11238873
+  url: https://doi.org/10.1109/ecce-europe62795.2025.11238873
+  pdf: null
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W4416727694
+- title: Two-Stage Distribution Network Reconfiguration Considering Shunt Compensation
+  authors: A. M. Vaniar, <b>M. Göl</b>
+  venue: null
+  kind: conference
+  year: 2025
+  date: '2025-06-29'
+  doi: 10.1109/powertech59965.2025.11180492
+  url: https://doi.org/10.1109/powertech59965.2025.11180492
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019304340&origin=inward
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W4414956938
+- title: 'Two-Layer Model Predictive Control of Microgrids: Cost Optimization and Resilience Through Adaptive Setpoint Coordination'
+  authors: T. Nizamioğlu, S. Rahimi, <b>M. Göl</b>
+  venue: null
+  kind: conference
+  year: 2025
+  date: '2025-06-29'
+  doi: 10.1109/powertech59965.2025.11180692
+  url: https://doi.org/10.1109/powertech59965.2025.11180692
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019302431&origin=inward
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W4414956962
+- title: Sensitivity and Collinearity Analysis of Power Plant Machine Parameters During Symmetrical and Unsymmetrical Faults
+  authors: M. B. Kebabcı, F. Erden, <b>M. Göl</b>
+  venue: null
+  kind: conference
+  year: 2025
+  date: '2025-06-29'
+  doi: 10.1109/powertech59965.2025.11180699
+  url: https://doi.org/10.1109/powertech59965.2025.11180699
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019292236&origin=inward
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W4414956559
+- title: Flexibility Management Through a Sensitivity Matrix for Ring Operated Power Distribution Systems
+  authors: K. Parlaktuna, E. Dursun, M. Özcan, <b>M. Göl</b>
+  venue: null
+  kind: conference
+  year: 2025
+  date: '2025-06-29'
+  doi: 10.1109/powertech59965.2025.11180638
+  url: https://doi.org/10.1109/powertech59965.2025.11180638
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019303353&origin=inward
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W4414941092
 - title: Optimal sizing of a grid-connected DC microgrid for agricultural applications with water-energy management system considering battery cycle life
   authors: M. H. Mokhtare, <b>O. Keysan</b>
   venue: Energy Nexus
@@ -158,6 +315,19 @@
   pis:
   - Murat Göl
   openalex: W4408072996
+- title: Permissioned blockchain-based monitoring framework for DER-integrated distribution networks
+  authors: P. Angın, M. A. Zehir, O. Ceylan, M. A. A. S. Eissa, M. C. Yüksel, U. Deveci, S. C. Yılmaz, <b>M. Göl</b>
+  venue: IET conference proceedings.
+  kind: conference
+  year: 2025
+  date: '2025-02-01'
+  doi: 10.1049/icp.2024.4658
+  url: https://doi.org/10.1049/icp.2024.4658
+  pdf: null
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W4408023479
 - title: 'Energy and Reserve Scheduling of Distribution Network in Presence of Electric Vehicle Aggregators: A Decentralized Approach'
   authors: A. T. Lemeski, R. Ebrahimi, A. Zakariazadeh, <b>K. Firuzi</b>
   venue: International Transactions on Electrical Energy Systems
@@ -184,6 +354,32 @@
   pis:
   - Ozan Keysan
   openalex: W4405855009
+- title: Preprocessing Distribution Network Topology for Improved Performance of Network Reconfiguration
+  authors: Ö. A. Küçükaslan, T. Gül, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2024
+  date: '2024-10-14'
+  doi: 10.1109/isgteurope62998.2024.10863081
+  url: https://doi.org/10.1109/isgteurope62998.2024.10863081
+  pdf: https://hdl.handle.net/11511/116284
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W4407362795
+- title: Parameter Error Identification for Type-4 Wind Turbine Models using Neural Networks
+  authors: F. Erden, B. Saglam, O. Üstündağ, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2024
+  date: '2024-10-14'
+  doi: 10.1109/isgteurope62998.2024.10863465
+  url: https://doi.org/10.1109/isgteurope62998.2024.10863465
+  pdf: https://hdl.handle.net/11511/116520
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W4407362496
 - title: Narrowband and Wideband Dual-Mode Wireless Power Transfer System With a Single Transmitter
   authors: E. Ayaz, O. Altun, Ö. Gülsuna, <b>O. Keysan</b>
   venue: IEEE Transactions on Power Electronics
@@ -210,6 +406,58 @@
   pis:
   - Murat Göl
   openalex: W4402699395
+- title: Partial Discharge Diagnostics in Electric Motors Exposed to Ambient Stresses During Industrial Operations
+  authors: W. U. Hassan, G. A. Hussain, <b>K. Firuzi</b>, A. M. Ariffin, J. A. Kay
+  venue: IEEE IAS Petroleum and Chemical Industry Technical Conference (PCIC)
+  kind: conference
+  year: 2024
+  date: '2024-09-16'
+  doi: 10.1109/pcic47799.2024.10832267
+  url: https://doi.org/10.1109/pcic47799.2024.10832267
+  pdf: https://hdl.handle.net/11511/116431
+  cites: 0
+  pis:
+  - Keyvan Firuzi
+  openalex: W4406417682
+- title: Nonlinear Modeling of the Fixed-Frequency Excited Fluxgate Current Sensor
+  authors: Y. Çay, E. Demirok, <b>O. Keysan</b>
+  venue: null
+  kind: conference
+  year: 2024
+  date: '2024-09-02'
+  doi: 10.1109/ecceeurope62508.2024.10751934
+  url: https://doi.org/10.1109/ecceeurope62508.2024.10751934
+  pdf: https://hdl.handle.net/11511/112868
+  cites: 2
+  pis:
+  - Ozan Keysan
+  openalex: W4404563892
+- title: Rewinding of Old 44 MVA Hydro Generator Considering Vibrational Forces
+  authors: M. S. Yakut, G. Gülletutan, N. Tosun, <b>O. Keysan</b>
+  venue: International Conference on Electrical Machines (ICEM)
+  kind: conference
+  year: 2024
+  date: '2024-09-01'
+  doi: 10.1109/icem60801.2024.10700125
+  url: https://doi.org/10.1109/icem60801.2024.10700125
+  pdf: https://hdl.handle.net/11511/112540
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W4403278215
+- title: Eddy Brake Reaction at Bus Structures of Medium-Large Caliber Electromagnetic Launchers
+  authors: N. Tosun, G. Gülletutan, <b>O. Keysan</b>
+  venue: International Conference on Electrical Machines (ICEM)
+  kind: conference
+  year: 2024
+  date: '2024-09-01'
+  doi: 10.1109/icem60801.2024.10700432
+  url: https://doi.org/10.1109/icem60801.2024.10700432
+  pdf: null
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W4403279002
 - title: Early prediction of battery remaining useful life using CNN-XGBoost model and Coati optimization algorithm
   authors: V. Safavi, A. M. Vaniar, N. Bazmohammadi, J. C. Vásquez, <b>O. Keysan</b>, J. M. Guerrero
   venue: Journal of Energy Storage
@@ -236,6 +484,19 @@
   pis:
   - Ozan Keysan
   openalex: W4396982302
+- title: Solar Energy Production Estimation in Distribution Networks with Limited Number of Measurements
+  authors: Ö. A. Küçükaslan, <b>M. Göl</b>
+  venue: Signal Processing and Communications Applications Conference (SIU)
+  kind: conference
+  year: 2024
+  date: '2024-05-15'
+  doi: 10.1109/siu61531.2024.10601047
+  url: https://doi.org/10.1109/siu61531.2024.10601047
+  pdf: https://hdl.handle.net/11511/110707
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W4400908581
 - title: WLAV state estimation based topology error detection and identification in distribution networks with limited number of measurements
   authors: K. Parlaktuna, E. Dursun, <b>M. Göl</b>
   venue: Electric Power Systems Research
@@ -288,6 +549,58 @@
   pis:
   - Ozan Keysan
   openalex: W4389332109
+- title: Monitoring Voltage Distortions Caused by Supraharmonics in Active Distribution Networks
+  authors: Ö. A. Küçükaslan, A. N. Ö. Erkan, K. Kaya, C. Özen, B. Büyükbaş, N. Özcan, P. Cinalioğlu, <b>M. Göl</b>, A. Bayatmakoo
+  venue: null
+  kind: conference
+  year: 2023
+  date: '2023-11-30'
+  doi: 10.1109/eleco60389.2023.10416081
+  url: https://doi.org/10.1109/eleco60389.2023.10416081
+  pdf: https://hdl.handle.net/11511/111991
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W4391584108
+- title: Lightweight Photovoltaic Forecasting Method for Agricultural Microgrids
+  authors: P. Brown, <b>M. Göl</b>
+  venue: null
+  kind: conference
+  year: 2023
+  date: '2023-11-30'
+  doi: 10.1109/eleco60389.2023.10415952
+  url: https://doi.org/10.1109/eleco60389.2023.10415952
+  pdf: https://hdl.handle.net/11511/112035
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W4391584084
+- title: Topological Error Localization in Power Distribution Networks Based on WLAV State Estimation
+  authors: K. Parlaktuna, E. Dursun, M. Özcan, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2023
+  date: '2023-10-23'
+  doi: 10.1109/isgteurope56780.2023.10407752
+  url: https://doi.org/10.1109/isgteurope56780.2023.10407752
+  pdf: https://hdl.handle.net/11511/111677
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W4391341983
+- title: Assesment of Supraharmonic Injections in Turkish Distribution Systems
+  authors: Ö. A. Küçükaslan, A. N. Ö. Erkan, K. Kaya, C. Özen, B. Büyükbaş, N. Özcan, T. B. Avşar, P. Cinalioğlu, <b>M. Göl</b>, A. Bayatmakoo
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2023
+  date: '2023-10-23'
+  doi: 10.1109/isgteurope56780.2023.10407396
+  url: https://doi.org/10.1109/isgteurope56780.2023.10407396
+  pdf: https://hdl.handle.net/11511/111687
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W4391341822
 - title: Autonomous fault detection and diagnosis for permanent magnet synchronous motors using combined variational mode decomposition, the Hilbert-Huang transform, and a convolutional neural network
   authors: M. El-Dalahmeh, M. Al‐Greer, I. Bashir, M. El‐Dalahmeh, A. Demirel, <b>O. Keysan</b>
   venue: Computers & Electrical Engineering
@@ -314,6 +627,19 @@
   pis:
   - Ozan Keysan
   openalex: W4385453032
+- title: Scaling Laws for Electromagnetic Launchers Considering an Existing Pulse Power Supply
+  authors: G. Gülletutan, <b>O. Keysan</b>, N. Tosun, F. Yurdakonar, B. Yıldırım, Z. Çöklü, M. Karagöz
+  venue: IEEE Pulsed Power Conference (PPC)
+  kind: conference
+  year: 2023
+  date: '2023-06-25'
+  doi: 10.1109/ppc47928.2023.10310959
+  url: https://doi.org/10.1109/ppc47928.2023.10310959
+  pdf: https://open.metu.edu.tr/bitstream/handle/11511/107705/index.pdf
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W4388623187
 - title: Neural Networks Detect Inter-Turn Short Circuit Faults Using Inverter Switching Statistics for a Closed-Loop Controlled Motor Drive
   authors: M. Ü. Öner, <b>İ. Şahin</b>, <b>O. Keysan</b>
   venue: IEEE Transactions on Energy Conversion
@@ -340,6 +666,19 @@
   pis:
   - Murat Göl
   openalex: W4367051281
+- title: Winding Type Alternation of a Refurbished Old Generator
+  authors: N. Tosun, G. Gülletutan, M. S. Yakut, D. A. Yilmaz, Ö. Bayer, <b>O. Keysan</b>
+  venue: IEEE Workshop on Electrical Machines Design, Control and Diagnosis
+  kind: conference
+  year: 2023
+  date: '2023-04-13'
+  doi: 10.1109/wemdcd55819.2023.10110941
+  url: https://doi.org/10.1109/wemdcd55819.2023.10110941
+  pdf: null
+  cites: 1
+  pis:
+  - Ozan Keysan
+  openalex: W4367597647
 - title: Novel Parameter Error Identification Method for Power Plant Dynamic Models
   authors: E. Acilan, <b>M. Göl</b>
   venue: IEEE Transactions on Power Systems
@@ -418,6 +757,45 @@
   pis:
   - Ozan Keysan
   openalex: W4296708723
+- title: Stochastic Model Predictive Control for Microgrids Based on Monte Carlo Simulations
+  authors: M. E. Sezgin, S. Pouraltafi-kheljan, M. Beyarslan, <b>M. Göl</b>
+  venue: International Universities Power Engineering Conference (UPEC)
+  kind: conference
+  year: 2022
+  date: '2022-08-30'
+  doi: 10.1109/upec55022.2022.9917666
+  url: https://doi.org/10.1109/upec55022.2022.9917666
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85141444392&origin=inward
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W4312498940
+- title: Operational Optimization of an Agricultural Microgrid
+  authors: P. Brown, <b>M. Göl</b>
+  venue: International Universities Power Engineering Conference (UPEC)
+  kind: conference
+  year: 2022
+  date: '2022-08-30'
+  doi: 10.1109/upec55022.2022.9917806
+  url: https://doi.org/10.1109/upec55022.2022.9917806
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85141498801&origin=inward
+  cites: 3
+  pis:
+  - Murat Göl
+  openalex: W4312925805
+- title: Improved Situational Awareness for Power Distribution Systems Based on WLAV Estimator and Direct Load Flow Solution
+  authors: K. Parlaktuna, E. Dursun, M. C. Cinalioglu, <b>M. Göl</b>
+  venue: International Universities Power Engineering Conference (UPEC)
+  kind: conference
+  year: 2022
+  date: '2022-08-30'
+  doi: 10.1109/upec55022.2022.9918011
+  url: https://doi.org/10.1109/upec55022.2022.9918011
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85141507714&origin=inward
+  cites: 3
+  pis:
+  - Murat Göl
+  openalex: W4312354475
 - title: Muzzle Voltage Experiments of the EMFY-3 Launcher
   authors: N. Tosun, M. Karagöz, F. Yurdakonar, G. Gülletutan, B. Yıldırım, <b>O. Keysan</b>
   venue: IEEE Transactions on Plasma Science
@@ -431,6 +809,45 @@
   pis:
   - Ozan Keysan
   openalex: W4285280572
+- title: Generalized Model of Modular Two Element Compensated IPT Systems with Common DC-Bus
+  authors: E. Ayaz, O. Altun, H. Polat, <b>O. Keysan</b>
+  venue: 2022 Wireless Power Week (WPW)
+  kind: conference
+  year: 2022
+  date: '2022-07-05'
+  doi: 10.1109/wpw54272.2022.9853857
+  url: https://doi.org/10.1109/wpw54272.2022.9853857
+  pdf: https://hdl.handle.net/11511/99848
+  cites: 1
+  pis:
+  - Ozan Keysan
+  openalex: W4298265443
+- title: Design of an optimized PCB motor with a GaN switched integrated motor drive
+  authors: F. Tokgöz, Ö. Gülsuna, F. Karakaya, G. Çakal, <b>O. Keysan</b>
+  venue: IET conference proceedings.
+  kind: conference
+  year: 2022
+  date: '2022-07-05'
+  doi: 10.1049/icp.2022.1088
+  url: https://doi.org/10.1049/icp.2022.1088
+  pdf: https://ieeexplore.ieee.org/document/9868630
+  cites: 3
+  pis:
+  - Ozan Keysan
+  openalex: W4293080601
+- title: A Modular Inductive Power Transfer System for Synchronous Machine Field Excitation
+  authors: O. Altun, E. Ayaz, H. Polat, <b>O. Keysan</b>
+  venue: 2022 Wireless Power Week (WPW)
+  kind: conference
+  year: 2022
+  date: '2022-07-05'
+  doi: 10.1109/wpw54272.2022.9854014
+  url: https://doi.org/10.1109/wpw54272.2022.9854014
+  pdf: https://hdl.handle.net/11511/100406
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W4299124685
 - title: Plug-in electric vehicle load modeling for charging scheduling strategies in microgrids
   authors: İ. Güzel, <b>M. Göl</b>
   venue: Sustainable Energy Grids and Networks
@@ -483,6 +900,45 @@
   pis:
   - Ozan Keysan
   openalex: W4205124392
+- title: Detection of Incipient Inter-Turn Short-Circuit Faults by Artificial Intelligence Classifiers
+  authors: O. Örgüt, <b>İ. Şahin</b>, E. O. Güneş
+  venue: OpenMETU (Middle East Technical University)
+  kind: conference
+  year: 2022
+  date: '2022-01-01'
+  doi: null
+  url: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85141618959&origin=inward
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85141618959&origin=inward
+  cites: 0
+  pis:
+  - İlker Şahin
+  openalex: W7162478724
+- title: Muzzle Voltage Characteristics of Railguns
+  authors: N. Tosun, G. Gülletutan, <b>O. Keysan</b>, F. Yurdakonar, M. Karagöz
+  venue: IEEE Pulsed Power Conference (PPC)
+  kind: conference
+  year: 2021
+  date: '2021-12-12'
+  doi: 10.1109/ppc40517.2021.9733152
+  url: https://doi.org/10.1109/ppc40517.2021.9733152
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85127251448&origin=inward
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W4226212892
+- title: Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA)
+  authors: N. Tosun, H. Polat, <b>O. Keysan</b>
+  venue: IEEE Pulsed Power Conference (PPC)
+  kind: conference
+  year: 2021
+  date: '2021-12-12'
+  doi: 10.1109/ppc40517.2021.9733121
+  url: https://doi.org/10.1109/ppc40517.2021.9733121
+  pdf: https://hdl.handle.net/11511/99695
+  cites: 5
+  pis:
+  - Ozan Keysan
+  openalex: W4226040119
 - title: Identifiability Analysis for Power Plant Parameter Calibration in the Presence of Collinear Parameters
   authors: E. Acilan, <b>M. Göl</b>
   venue: IEEE Transactions on Power Systems
@@ -510,6 +966,32 @@
   - Ozan Keysan
   - Murat Göl
   openalex: W3211945875
+- title: Parameter Estimation of Electric Vehicles for Improved Range Prediction
+  authors: B. Saglam, E. Bostancı, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2021
+  date: '2021-10-18'
+  doi: 10.1109/isgteurope52324.2021.9640048
+  url: https://doi.org/10.1109/isgteurope52324.2021.9640048
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85123938483&origin=inward
+  cites: 4
+  pis:
+  - Murat Göl
+  openalex: W4200360510
+- title: Optimal Placement of Different Types of Measurements for Active Distribution Systems
+  authors: S. Pouraltafi-kheljan, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2021
+  date: '2021-10-18'
+  doi: 10.1109/isgteurope52324.2021.9640009
+  url: https://doi.org/10.1109/isgteurope52324.2021.9640009
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85123960292&origin=inward
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W4200621250
 - title: Parallel connected GaN E‐HEMT VSI‐based servo drives for PMSMs
   authors: H. Yuruk, <b>O. Keysan</b>
   venue: IET Electric Power Applications
@@ -523,6 +1005,19 @@
   pis:
   - Ozan Keysan
   openalex: W3200734102
+- title: Plug-in Electric Vehicle Load Modeling for Smart Charging Strategies in Microgrids
+  authors: İ. Güzel, <b>M. Göl</b>
+  venue: International Conference on Smart Energy Systems and Technologies (SEST)
+  kind: conference
+  year: 2021
+  date: '2021-09-06'
+  doi: 10.1109/sest50973.2021.9543261
+  url: https://doi.org/10.1109/sest50973.2021.9543261
+  pdf: https://hdl.handle.net/11511/94938
+  cites: 4
+  pis:
+  - Murat Göl
+  openalex: W3202882771
 - title: A partitioning strategy for improved state estimation performance in ill-conditioned power systems with hybrid measurement set
   authors: T. Yıldız, E. Acilan, <b>M. Göl</b>
   venue: Electric Power Systems Research
@@ -549,6 +1044,19 @@
   pis:
   - Ozan Keysan
   openalex: W3174801047
+- title: Driving Pattern Recognition Algorithm Using Fast Fourier Transform
+  authors: İ. Güzel, <b>M. Göl</b>
+  venue: Signal Processing and Communications Applications Conference (SIU)
+  kind: conference
+  year: 2021
+  date: '2021-06-09'
+  doi: 10.1109/siu53274.2021.9477701
+  url: https://doi.org/10.1109/siu53274.2021.9477701
+  pdf: null
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W3183799336
 - title: Feasibility of Quasi-Square-Wave Zero-Voltage-Switching Bi-Directional DC/DC Converters with GaN HEMTs
   authors: F. Karakaya, Ö. Gülsuna, <b>O. Keysan</b>
   venue: Energies
@@ -667,6 +1175,58 @@
   pis:
   - Ozan Keysan
   openalex: W3132297350
+- title: Three-Phase State Estimation Based on Symmetrical Components
+  authors: <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2020
+  date: '2020-10-26'
+  doi: 10.1109/isgt-europe47291.2020.9248822
+  url: https://doi.org/10.1109/isgt-europe47291.2020.9248822
+  pdf: null
+  cites: 3
+  pis:
+  - Murat Göl
+  openalex: W3098769950
+- title: Solar Power Generation Prediction for Distribution Systems with High PV Penetration
+  authors: U. Yildiz, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2020
+  date: '2020-10-26'
+  doi: 10.1109/isgt-europe47291.2020.9248919
+  url: https://doi.org/10.1109/isgt-europe47291.2020.9248919
+  pdf: null
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W3100037416
+- title: Power Generation Nowcasting of the Behind-the-Meter Photovoltaic Systems
+  authors: S. Pouraltafi-kheljan, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2020
+  date: '2020-10-26'
+  doi: 10.1109/isgt-europe47291.2020.9248871
+  url: https://doi.org/10.1109/isgt-europe47291.2020.9248871
+  pdf: https://arxiv.org/pdf/2001.02157
+  cites: 6
+  pis:
+  - Murat Göl
+  openalex: W2999327360
+- title: Detection of Unauthorized Photo-Voltaic System Connection for Low Voltage Grids
+  authors: S. Pouraltafi-kheljan, <b>M. Göl</b>
+  venue: Signal Processing and Communications Applications Conference (SIU)
+  kind: conference
+  year: 2020
+  date: '2020-10-05'
+  doi: 10.1109/siu49456.2020.9302080
+  url: https://doi.org/10.1109/siu49456.2020.9302080
+  pdf: https://hdl.handle.net/11511/92808
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W3119274797
 - title: Adaptive controller based on grid impedance estimation for stable operation of grid‐connected inverters under weak grid conditions
   authors: H. Temiz, <b>O. Keysan</b>, E. Demirok
   venue: IET Power Electronics
@@ -680,6 +1240,33 @@
   pis:
   - Ozan Keysan
   openalex: W3083518656
+- title: Solar Power Generation Analysis and Forecasting Real-World Data Using LSTM and Autoregressive CNN
+  authors: N. Tosun, E. Sert, E. Ayaz, E. Yilmaz, <b>M. Göl</b>
+  venue: International Conference on Smart Energy Systems and Technologies (SEST)
+  kind: conference
+  year: 2020
+  date: '2020-09-01'
+  doi: 10.1109/sest48500.2020.9203124
+  url: https://doi.org/10.1109/sest48500.2020.9203124
+  pdf: https://hdl.handle.net/11511/70226
+  cites: 12
+  pis:
+  - Murat Göl
+  openalex: W3088195844
+- title: Experimental tuning and design guidelines of a dynamically reconfigured weighting factor for the predictive torque control of an induction motor
+  authors: <b>İ. Şahin</b>, <b>O. Keysan</b>, É. Monmasson
+  venue: European Conference on Power Electronics and Applications
+  kind: conference
+  year: 2020
+  date: '2020-09-01'
+  doi: 10.23919/epe20ecceeurope43536.2020.9215739
+  url: https://doi.org/10.23919/epe20ecceeurope43536.2020.9215739
+  pdf: null
+  cites: 13
+  pis:
+  - İlker Şahin
+  - Ozan Keysan
+  openalex: W3092004739
 - title: A Hybrid Simulation Model for Electromagnetic Launchers Including the Transient Inductance and Electromotive Force
   authors: N. Tosun, H. Polat, D. Ceylan, M. Karagöz, B. Yıldırım, I. Güngen, <b>O. Keysan</b>
   venue: IEEE Transactions on Plasma Science
@@ -693,6 +1280,59 @@
   pis:
   - Ozan Keysan
   openalex: W3082152629
+- title: Design and Implementation of an Optimized Printed Circuit Board Axial-Flux Permanent Magnet Machine
+  authors: F. Tokgöz, G. Çakal, <b>O. Keysan</b>
+  venue: International Conference on Electrical Machines (ICEM)
+  kind: conference
+  year: 2020
+  date: '2020-08-23'
+  doi: 10.1109/icem49940.2020.9271058
+  url: https://doi.org/10.1109/icem49940.2020.9271058
+  pdf: https://hdl.handle.net/11511/88478
+  cites: 14
+  pis:
+  - Ozan Keysan
+  openalex: W3106998247
+- title: Design and Analysis of a 2.5 MW Hybrid Excited Synchronous Wind Turbine Generator With Two Separate Rotors
+  authors: A. Akgemci, <b>O. Keysan</b>
+  venue: International Conference on Electrical Machines (ICEM)
+  kind: conference
+  year: 2020
+  date: '2020-08-23'
+  doi: 10.1109/icem49940.2020.9270739
+  url: https://doi.org/10.1109/icem49940.2020.9270739
+  pdf: https://ieeexplore.ieee.org/document/9270739/
+  cites: 3
+  pis:
+  - Ozan Keysan
+  openalex: W3109265827
+- title: A Simulink Model for the Induction Machine with an Inter-Turn Short Circuit Fault
+  authors: <b>İ. Şahin</b>, G. H. Bayazıt, <b>O. Keysan</b>
+  venue: International Conference on Electrical Machines (ICEM)
+  kind: conference
+  year: 2020
+  date: '2020-08-23'
+  doi: 10.1109/icem49940.2020.9270853
+  url: https://doi.org/10.1109/icem49940.2020.9270853
+  pdf: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85098627002&origin=inward
+  cites: 9
+  pis:
+  - İlker Şahin
+  - Ozan Keysan
+  openalex: W3109672483
+- title: MDP based Decision Support for Earthquake Damaged Distribution System Restoration
+  authors: O. Y. Arpali, U. C. Yilmaz, E. A. Göl, B. G. Erkal, <b>M. Göl</b>
+  venue: IEEE Power & Energy Society General Meeting (PESGM)
+  kind: conference
+  year: 2020
+  date: '2020-08-02'
+  doi: 10.1109/pesgm41954.2020.9281815
+  url: https://doi.org/10.1109/pesgm41954.2020.9281815
+  pdf: https://arxiv.org/pdf/1911.03317
+  cites: 6
+  pis:
+  - Murat Göl
+  openalex: W2988706547
 - title: Optimization of a Convex Rail Design for Electromagnetic Launchers
   authors: H. Polat, N. Tosun, D. Ceylan, <b>O. Keysan</b>
   venue: IEEE Transactions on Plasma Science
@@ -745,6 +1385,19 @@
   pis:
   - Murat Göl
   openalex: W3013084094
+- title: 誘導電動機の予測トルク制御のための動的再構成重みづけ係数の実験的チューニングと設計指針【JST・京大機械翻訳】
+  authors: <b>İ. Şahin</b>, K. Ozan, É. Monmasson
+  venue: IEEE Conference Proceedings
+  kind: conference
+  year: 2020
+  date: '2020-01-01'
+  doi: null
+  url: https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202002263386677619
+  pdf: null
+  cites: 0
+  pis:
+  - İlker Şahin
+  openalex: W3179635560
 - title: A Model Predictive Control for Microgrids Considering Battery Aging
   authors: U. C. Yilmaz, M. E. Sezgin, <b>M. Göl</b>
   venue: Journal of Modern Power Systems and Clean Energy
@@ -758,6 +1411,85 @@
   pis:
   - Murat Göl
   openalex: W4292196041
+- title: PCB Layout Based Short-Circuit Protection Scheme for GaN HEMTs
+  authors: Ö. Ş. Alemdar, F. Karakaya, <b>O. Keysan</b>
+  venue: IEEE Energy Conversion Congress and Exposition (ECCE)
+  kind: conference
+  year: 2019
+  date: '2019-09-01'
+  doi: 10.1109/ecce.2019.8913081
+  url: https://doi.org/10.1109/ecce.2019.8913081
+  pdf: https://hdl.handle.net/11511/42824
+  cites: 15
+  pis:
+  - Ozan Keysan
+  openalex: W2989817610
+- title: A simplified discrete-time implementation of FCS-MPC applied to an IM drive
+  authors: <b>İ. Şahin</b>, <b>O. Keysan</b>
+  venue: European Conference on Power Electronics and Applications
+  kind: conference
+  year: 2019
+  date: '2019-09-01'
+  doi: 10.23919/epe.2019.8915204
+  url: https://doi.org/10.23919/epe.2019.8915204
+  pdf: https://hdl.handle.net/11511/39426
+  cites: 8
+  pis:
+  - İlker Şahin
+  - Ozan Keysan
+  openalex: W2991083383
+- title: A Novel MDP Based Decision Support Framework to Restore Earthquake Damaged Distribution Systems
+  authors: E. A. Göl, B. G. Erkal, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2019
+  date: '2019-09-01'
+  doi: 10.1109/isgteurope.2019.8905675
+  url: https://doi.org/10.1109/isgteurope.2019.8905675
+  pdf: https://arxiv.org/pdf/1911.05389
+  cites: 11
+  pis:
+  - Murat Göl
+  openalex: W2983800761
+- title: A Comparative Study of Capacitive and Inductive Pulsed Power Supply Topologies for Electromagnetic Launcher Applications
+  authors: D. Ceylan, S. Pourkeivannour, <b>O. Keysan</b>
+  venue: International Aegean Conference on Electrical Machines and Power Electronics & International Conference on Optimization of Electrical and Electronic Equipment (ACEMP-OPTIM)
+  kind: conference
+  year: 2019
+  date: '2019-08-01'
+  doi: 10.1109/acemp-optim44294.2019.9007196
+  url: https://doi.org/10.1109/acemp-optim44294.2019.9007196
+  pdf: https://hdl.handle.net/11511/33023
+  cites: 2
+  pis:
+  - Ozan Keysan
+  openalex: W3007076504
+- title: Fault Tolerance Capabilities of Three, Four and Six-Phase Configurations of a 24 Slot Modular PMSM
+  authors: G. H. Bayazıt, M. Uğur, <b>O. Keysan</b>
+  venue: IEEE International Conference on Power Electronics and Drive Systems (PEDS)
+  kind: conference
+  year: 2019
+  date: '2019-07-01'
+  doi: 10.1109/peds44367.2019.8998851
+  url: https://doi.org/10.1109/peds44367.2019.8998851
+  pdf: https://hdl.handle.net/11511/51859
+  cites: 2
+  pis:
+  - Ozan Keysan
+  openalex: W3007855554
+- title: Design of Double Sided Linear Motor with Easy to Manufacture Hairpin Plate Winding
+  authors: G. Çakal, <b>O. Keysan</b>
+  venue: International Symposium on Linear Drives for Industry Applications (LDIA)
+  kind: conference
+  year: 2019
+  date: '2019-07-01'
+  doi: 10.1109/ldia.2019.8771020
+  url: https://doi.org/10.1109/ldia.2019.8771020
+  pdf: https://hdl.handle.net/11511/44193
+  cites: 2
+  pis:
+  - Ozan Keysan
+  openalex: W2966448219
 - title: Performance comparison of passive series R and shunt R‐C damped LCL filter for grid‐connected inverters
   authors: H. Temiz, E. Demirok, <b>O. Keysan</b>, A. Türkay, B. Çetinkaya
   venue: The Journal of Engineering
@@ -771,6 +1503,45 @@
   pis:
   - Ozan Keysan
   openalex: W2949440077
+- title: Utilization and Optimization of Superconducting Coil Parameters in Electromagnetic Launcher Systems
+  authors: H. Polat, D. Ceylan, <b>O. Keysan</b>
+  venue: null
+  kind: conference
+  year: 2019
+  date: '2019-06-01'
+  doi: 10.1109/ppps34859.2019.9009612
+  url: https://doi.org/10.1109/ppps34859.2019.9009612
+  pdf: https://hdl.handle.net/11511/37527
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W3009650423
+- title: A Malfunction Detection Method For PV Systems
+  authors: T. Yıldız, <b>M. Göl</b>
+  venue: null
+  kind: conference
+  year: 2019
+  date: '2019-06-01'
+  doi: 10.1109/ptc.2019.8810946
+  url: https://doi.org/10.1109/ptc.2019.8810946
+  pdf: https://hdl.handle.net/11511/36179
+  cites: 6
+  pis:
+  - Murat Göl
+  openalex: W2970520804
+- title: A Comparative Study on Feature Selection Based Improvement of Medium-Term Demand Forecast Accuracy
+  authors: E. İlseven, <b>M. Göl</b>
+  venue: null
+  kind: conference
+  year: 2019
+  date: '2019-06-01'
+  doi: 10.1109/ptc.2019.8810598
+  url: https://doi.org/10.1109/ptc.2019.8810598
+  pdf: https://hdl.handle.net/11511/37410
+  cites: 6
+  pis:
+  - Murat Göl
+  openalex: W2970033419
 - title: Simulations and Experiments of EMFY-1 Electromagnetic Launcher
   authors: D. Ceylan, M. Karagöz, Y. Cevik, B. Yıldırım, H. Polat, <b>O. Keysan</b>
   venue: IEEE Transactions on Plasma Science
@@ -797,6 +1568,33 @@
   pis:
   - Ozan Keysan
   openalex: W2947127374
+- title: METU Smart Campus Project (iEAST)
+  authors: Ş. Ertekin, <b>O. Keysan</b>, <b>M. Göl</b>, G. H. Bayazıt, T. Yıldız, A. Marr, M. Ganji, S. Teimourzadeh, O. B. Tör, S. Özkavaf
+  venue: Lecture notes in networks and systems
+  kind: conference
+  year: 2019
+  date: '2019-04-23'
+  doi: 10.1007/978-3-030-18072-0_34
+  url: https://doi.org/10.1007/978-3-030-18072-0_34
+  pdf: https://hdl.handle.net/11511/35035
+  cites: 0
+  pis:
+  - Ozan Keysan
+  - Murat Göl
+  openalex: W2951667642
+- title: High Bandwidth Current Control via Nonlinear Compensation and GaN-based VSI
+  authors: H. Yuruk, <b>O. Keysan</b>, B. Ulutas
+  venue: IEEE International Conference on Compatibility, Power Electronics and Power Engineering
+  kind: conference
+  year: 2019
+  date: '2019-04-01'
+  doi: 10.1109/cpe.2019.8862414
+  url: https://doi.org/10.1109/cpe.2019.8862414
+  pdf: https://hdl.handle.net/11511/47483
+  cites: 1
+  pis:
+  - Ozan Keysan
+  openalex: W2979968019
 - title: Multi-objective design optimization of a permanent magnet axial flux eddy current brake
   authors: R. Tarvirdilu-Asl, H. M. YÜKSEL, <b>O. Keysan</b>
   venue: TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES
@@ -836,6 +1634,46 @@
   pis:
   - Ozan Keysan
   openalex: W2901934606
+- title: Minimization of EMF Harmonics and Cogging Torque for a Medium Speed RFPM Wind Turbine Generator
+  authors: A. Akgemci, R. Zeinali, <b>O. Keysan</b>
+  venue: International Conference on Renewable Energy Research and Applications (ICRERA)
+  kind: conference
+  year: 2018
+  date: '2018-10-01'
+  doi: 10.1109/icrera.2018.8566734
+  url: https://doi.org/10.1109/icrera.2018.8566734
+  pdf: https://hdl.handle.net/11511/52827
+  cites: 3
+  pis:
+  - Ozan Keysan
+  openalex: W2904859157
+- title: Evaluation of Photovoltaic Systems for Reactive Power Compensation in Low Voltage Power Systems
+  authors: M. Uğur, E. Duymaz, <b>M. Göl</b>, <b>O. Keysan</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+  kind: conference
+  year: 2018
+  date: '2018-10-01'
+  doi: 10.1109/isgteurope.2018.8571808
+  url: https://doi.org/10.1109/isgteurope.2018.8571808
+  pdf: https://hdl.handle.net/11511/32873
+  cites: 3
+  pis:
+  - Murat Göl
+  - Ozan Keysan
+  openalex: W2904464560
+- title: A Hybrid State Estimation Strategy with Optimal Use of Pseudo-Measurements
+  authors: B. Ozsoy, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+  kind: conference
+  year: 2018
+  date: '2018-10-01'
+  doi: 10.1109/isgteurope.2018.8571513
+  url: https://doi.org/10.1109/isgteurope.2018.8571513
+  pdf: https://hdl.handle.net/11511/39971
+  cites: 13
+  pis:
+  - Murat Göl
+  openalex: W2904788180
 - title: Tümleşik Modüler Motor Sürücü Sistemi Tasarımı
   authors: M. Uğur, <b>O. Keysan</b>
   venue: Fırat Üniversitesi Mühendislik Bilimleri Dergisi
@@ -849,6 +1687,137 @@
   pis:
   - Ozan Keysan
   openalex: W2953644265
+- title: Load and PV Generation Forecast Based Cost Optimization for Nanogrids with PV and Battery
+  authors: M. U. Gudelek, C. R. Çırak, E. Arın, M. E. Sezgin, A. M. Özbayoğlu, <b>M. Göl</b>
+  venue: International Universities Power Engineering Conference (UPEC)
+  kind: conference
+  year: 2018
+  date: '2018-09-01'
+  doi: 10.1109/upec.2018.8541882
+  url: https://doi.org/10.1109/upec.2018.8541882
+  pdf: https://hdl.handle.net/11511/43230
+  cites: 2
+  pis:
+  - Murat Göl
+  openalex: W2905000663
+- title: Investigation of Turn-on and Turn-off Characteristics of Enhancement-Mode GaN Power Transistors
+  authors: F. Karakaya, M. Uğur, <b>O. Keysan</b>
+  venue: OpenMETU (Middle East Technical University)
+  kind: conference
+  year: 2018
+  date: '2018-09-01'
+  doi: null
+  url: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85057069382&origin=inward
+  pdf: null
+  cites: 1
+  pis:
+  - Ozan Keysan
+  openalex: W2898862174
+- title: Design of a Power Plant Emulator for the Dynamic Frequency Stability Studies
+  authors: E. Duymaz, S. Pourkeivannour, D. Ceylan, <b>İ. Şahin</b>, <b>O. Keysan</b>
+  venue: null
+  kind: conference
+  year: 2018
+  date: '2018-09-01'
+  doi: 10.1109/icelmach.2018.8507035
+  url: https://doi.org/10.1109/icelmach.2018.8507035
+  pdf: https://hdl.handle.net/11511/37617
+  cites: 3
+  pis:
+  - İlker Şahin
+  - Ozan Keysan
+  openalex: W2898597282
+- title: Design of a GaN Based Integrated Modular Motor Drive
+  authors: M. Uğur, <b>O. Keysan</b>
+  venue: null
+  kind: conference
+  year: 2018
+  date: '2018-09-01'
+  doi: 10.1109/icelmach.2018.8506862
+  url: https://doi.org/10.1109/icelmach.2018.8506862
+  pdf: https://hdl.handle.net/11511/42941
+  cites: 19
+  pis:
+  - Ozan Keysan
+  openalex: W2898224109
+- title: Design and Optimization of Reduced Torque Ripple Rotary Voice Coil Motor
+  authors: G. Çakal, R. Zeinali, <b>O. Keysan</b>
+  venue: null
+  kind: conference
+  year: 2018
+  date: '2018-09-01'
+  doi: 10.1109/icelmach.2018.8506976
+  url: https://doi.org/10.1109/icelmach.2018.8506976
+  pdf: https://hdl.handle.net/11511/43633
+  cites: 2
+  pis:
+  - Ozan Keysan
+  openalex: W2898249486
+- title: A Strategy to Evaluate Solar Power Generation Capability Based on Historical Data
+  authors: D. Şengül, <b>M. Göl</b>
+  venue: International Universities Power Engineering Conference (UPEC)
+  kind: conference
+  year: 2018
+  date: '2018-09-01'
+  doi: 10.1109/upec.2018.8542023
+  url: https://doi.org/10.1109/upec.2018.8542023
+  pdf: https://hdl.handle.net/11511/41027
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W2904597889
+- title: A New Index for Voltage Quality Assessment at Distribution Systems
+  authors: M. Karacelebi, <b>M. Göl</b>, Ö. Erçin
+  venue: International Universities Power Engineering Conference (UPEC)
+  kind: conference
+  year: 2018
+  date: '2018-09-01'
+  doi: 10.1109/upec.2018.8542073
+  url: https://doi.org/10.1109/upec.2018.8542073
+  pdf: https://hdl.handle.net/11511/40323
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W2905025820
+- title: Limited-Jerk Sinusoidal Trajectory Design for FOC of PMSM with H -Infinity Optimal Controller
+  authors: M. K. Mutlu, <b>O. Keysan</b>, B. Ulutas
+  venue: null
+  kind: conference
+  year: 2018
+  date: '2018-08-01'
+  doi: 10.1109/epepemc.2018.8521749
+  url: https://doi.org/10.1109/epepemc.2018.8521749
+  pdf: https://hdl.handle.net/11511/53133
+  cites: 1
+  pis:
+  - Ozan Keysan
+  openalex: W2901478721
+- title: DC Catenary Line Modeling of Subway Systems
+  authors: M. E. Sezgin, <b>M. Göl</b>
+  venue: IEEE Power & Energy Society General Meeting (PESGM)
+  kind: conference
+  year: 2018
+  date: '2018-08-01'
+  doi: 10.1109/pesgm.2018.8585898
+  url: https://doi.org/10.1109/pesgm.2018.8585898
+  pdf: https://hdl.handle.net/11511/53815
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W2906211088
+- title: Comparison of Inverter Topologies Suited for Integrated Modular Motor Drive Applications
+  authors: M. Uğur, H. Sarac, <b>O. Keysan</b>
+  venue: null
+  kind: conference
+  year: 2018
+  date: '2018-08-01'
+  doi: 10.1109/epepemc.2018.8521918
+  url: https://doi.org/10.1109/epepemc.2018.8521918
+  pdf: https://hdl.handle.net/11511/53410
+  cites: 9
+  pis:
+  - Ozan Keysan
+  openalex: W2901225144
 - title: Armature Shape Optimization of an Electromagnetic Launcher Including Contact Resistance
   authors: D. Ceylan, M. U. Gudelek, <b>O. Keysan</b>
   venue: IEEE Transactions on Plasma Science
@@ -875,6 +1844,33 @@
   pis:
   - Murat Göl
   openalex: W2801639576
+- title: A new model predictive torque control strategy with reduced set of prediction vectors
+  authors: <b>İ. Şahin</b>, <b>O. Keysan</b>
+  venue: IEEE International Conference on Compatibility, Power Electronics and Power Engineering
+  kind: conference
+  year: 2018
+  date: '2018-04-01'
+  doi: 10.1109/cpe.2018.8372531
+  url: https://doi.org/10.1109/cpe.2018.8372531
+  pdf: https://hdl.handle.net/11511/55760
+  cites: 3
+  pis:
+  - İlker Şahin
+  - Ozan Keysan
+  openalex: W2806498809
+- title: Investigation of Turn-on and Turn-off Characteristics
+  authors: F. Karakaya, M. Uğur, <b>O. Keysan</b>
+  venue: OpenMETU (Middle East Technical University)
+  kind: conference
+  year: 2018
+  date: '2018-01-01'
+  doi: 10.5072/zenodo.45670
+  url: https://doi.org/10.5072/zenodo.45670
+  pdf: https://hdl.handle.net/11511/54489
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W3082915528
 - title: Determination of harmonic current contributions based on robust state estimation
   authors: E. Sezgin, <b>M. Göl</b>, Ö. Salor
   venue: TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES
@@ -901,6 +1897,32 @@
   pis:
   - Murat Göl
   openalex: W2810421468
+- title: Medium-term electricity demand forecasting based on MARS
+  authors: E. İlseven, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+  kind: conference
+  year: 2017
+  date: '2017-09-01'
+  doi: 10.1109/isgteurope.2017.8260124
+  url: https://doi.org/10.1109/isgteurope.2017.8260124
+  pdf: https://hdl.handle.net/11511/55240
+  cites: 13
+  pis:
+  - Murat Göl
+  openalex: W2782679503
+- title: Effect of conducting containment on electromagnetic launcher efficiency
+  authors: D. Ceylan, <b>O. Keysan</b>
+  venue: 2017 18th International Symposium on Electromagnetic Fields in Mechatronics, Electrical and Electronic Engineering (ISEF) Book of Abstracts
+  kind: conference
+  year: 2017
+  date: '2017-09-01'
+  doi: 10.1109/isef.2017.8090733
+  url: https://doi.org/10.1109/isef.2017.8090733
+  pdf: https://hdl.handle.net/11511/43214
+  cites: 4
+  pis:
+  - Ozan Keysan
+  openalex: W2768713171
 - title: A Decentralization Method for Hybrid State Estimators
   authors: <b>M. Göl</b>
   venue: IEEE Transactions on Power Systems
@@ -914,6 +1936,71 @@
   pis:
   - Murat Göl
   openalex: W2724465523
+- title: Voltage variation model for DC catenary line of a subway system
+  authors: M. E. Sezgin, <b>M. Göl</b>
+  venue: null
+  kind: conference
+  year: 2017
+  date: '2017-06-01'
+  doi: 10.1109/ptc.2017.7980898
+  url: https://doi.org/10.1109/ptc.2017.7980898
+  pdf: https://hdl.handle.net/11511/45994
+  cites: 4
+  pis:
+  - Murat Göl
+  openalex: W2738169445
+- title: Pretest setup installation of the METU-DBL project to perform space radiation tests
+  authors: B. M. Demirköz, I. Efthymiopoulos, A. Gençer, A. Milanese, M. Yiǧitoǧlu, <b>İ. Şahin</b>, G. K. Başlar, M. S. Aydin, et al.
+  venue: International Conference on Recent Advances in Space Technologies
+  kind: conference
+  year: 2017
+  date: '2017-06-01'
+  doi: 10.1109/rast.2017.8002927
+  url: https://doi.org/10.1109/rast.2017.8002927
+  pdf: https://hdl.handle.net/11511/54671
+  cites: 5
+  pis:
+  - İlker Şahin
+  openalex: W2743917086
+- title: DC link capacitor optimization for integrated modular motor drives
+  authors: M. Uğur, <b>O. Keysan</b>
+  venue: IEEE International Symposium on Industrial Electronics (ISIE)
+  kind: conference
+  year: 2017
+  date: '2017-06-01'
+  doi: 10.1109/isie.2017.8001258
+  url: https://doi.org/10.1109/isie.2017.8001258
+  pdf: https://hdl.handle.net/11511/53720
+  cites: 30
+  pis:
+  - Ozan Keysan
+  openalex: W2744092969
+- title: Armature shape optimization of an electromagnetic launcher using genetic algorithm
+  authors: D. Ceylan, M. U. Gudelek, <b>O. Keysan</b>
+  venue: IEEE International Pulsed Power Conference (PPC)
+  kind: conference
+  year: 2017
+  date: '2017-06-01'
+  doi: 10.1109/ppc.2017.8291202
+  url: https://doi.org/10.1109/ppc.2017.8291202
+  pdf: https://hdl.handle.net/11511/53901
+  cites: 0
+  pis:
+  - Ozan Keysan
+  openalex: W2785686727
+- title: Identification of bad solar power generation data
+  authors: D. Şengül, E. Duymaz, <b>M. Göl</b>
+  venue: Signal Processing and Communications Applications Conference (SIU)
+  kind: conference
+  year: 2017
+  date: '2017-05-01'
+  doi: 10.1109/siu.2017.7960590
+  url: https://doi.org/10.1109/siu.2017.7960590
+  pdf: https://hdl.handle.net/11511/36233
+  cites: 1
+  pis:
+  - Murat Göl
+  openalex: W2732433076
 - title: Robust local parameter estimator based on least absolute value estimator
   authors: V. ÖZDEMİR, <b>M. Göl</b>
   venue: TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES
@@ -927,6 +2014,58 @@
   pis:
   - Murat Göl
   openalex: W2745223452
+- title: Preliminary Test Setup of the Metu Defocusing Beam Line, an Irradiation Test Facility in Turkey
+  authors: A. Gençer, S. Akçelik, A. Avaroğlu, M. S. Aydın, K. B. Gamze, B. Baran, B. M. Demirköz, I. Efthymiopoulos, U. Kılıç, A. Milanese, E. Özipek, <b>İ. Şahin</b>, et al.
+  venue: JACOW
+  kind: conference
+  year: 2017
+  date: '2017-01-01'
+  doi: 10.18429/jacow-ipac2017-thpva128
+  url: https://doi.org/10.18429/jacow-ipac2017-thpva128
+  pdf: https://hdl.handle.net/11511/112535
+  cites: 0
+  pis:
+  - İlker Şahin
+  openalex: W2763494275
+- title: Binary integer programming based PMU placement in the presence of conventional measurements
+  authors: E. Bulut, <b>M. Göl</b>
+  venue: IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe)
+  kind: conference
+  year: 2016
+  date: '2016-10-01'
+  doi: 10.1109/isgteurope.2016.7856323
+  url: https://doi.org/10.1109/isgteurope.2016.7856323
+  pdf: https://hdl.handle.net/11511/54589
+  cites: 8
+  pis:
+  - Murat Göl
+  openalex: W2588539307
+- title: Fault location based on state estimation in PMU observable systems
+  authors: A. Öner, <b>M. Göl</b>
+  venue: IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)
+  kind: conference
+  year: 2016
+  date: '2016-09-01'
+  doi: 10.1109/isgt.2016.7781178
+  url: https://doi.org/10.1109/isgt.2016.7781178
+  pdf: https://hdl.handle.net/11511/43908
+  cites: 9
+  pis:
+  - Murat Göl
+  openalex: W2562726103
+- title: Evaluation of the effects of photovoltaic systems on voltage quality
+  authors: D. Şengül, <b>M. Göl</b>
+  venue: North American Power Symposium (NAPS)
+  kind: conference
+  year: 2016
+  date: '2016-09-01'
+  doi: 10.1109/naps.2016.7747950
+  url: https://doi.org/10.1109/naps.2016.7747950
+  pdf: https://hdl.handle.net/11511/49168
+  cites: 4
+  pis:
+  - Murat Göl
+  openalex: W2557009248
 - title: Development of a superconducting claw-pole linear test-rig
   authors: P. P. Radyjowski, <b>O. Keysan</b>, J. Burchell, M. A. Mueller
   venue: Superconductor Science and Technology
@@ -953,3 +2092,107 @@
   pis:
   - Murat Göl
   openalex: W2343217128
+- title: 従来の測定の存在下に基づいたPMU(フェーザ測定ユニット)配置二成分整数計画法【Powered by NICT】
+  authors: E. Bulut, <b>M. Göl</b>
+  venue: IEEE Conference Proceedings
+  kind: conference
+  year: 2016
+  date: '2016-01-01'
+  doi: null
+  url: https://jglobal.jst.go.jp/public/201702247880761437
+  pdf: null
+  cites: 0
+  pis:
+  - Murat Göl
+  openalex: W2752772036
+- title: Design and implementation of an unregulated DC-DC transformer (DCX) module using LLC resonant converter
+  authors: Ö. Ş. Alemdar, <b>O. Keysan</b>
+  venue: IET International Conference on Power Electronics, Machines and Drives (PEMD)
+  kind: conference
+  year: 2016
+  date: '2016-01-01'
+  doi: 10.1049/cp.2016.0156
+  url: https://doi.org/10.1049/cp.2016.0156
+  pdf: https://hdl.handle.net/11511/44562
+  cites: 15
+  pis:
+  - Ozan Keysan
+  openalex: W2430051675
+- title: A robust parameter estimation method based on LAV estimator
+  authors: V. Ozdemir, <b>M. Göl</b>
+  venue: Modern Electric Power Systems
+  kind: conference
+  year: 2015
+  date: '2015-07-01'
+  doi: 10.1109/meps.2015.7477163
+  url: https://doi.org/10.1109/meps.2015.7477163
+  pdf: https://hdl.handle.net/11511/53626
+  cites: 2
+  pis:
+  - Murat Göl
+  openalex: W2418987822
+- title: A modified Chi-Squares test for improved bad data detection
+  authors: <b>M. Göl</b>, A. Abur
+  venue: null
+  kind: conference
+  year: 2015
+  date: '2015-06-01'
+  doi: 10.1109/ptc.2015.7232283
+  url: https://doi.org/10.1109/ptc.2015.7232283
+  pdf: https://hdl.handle.net/11511/47842
+  cites: 41
+  pis:
+  - Murat Göl
+  openalex: W1576543922
+- title: Determination of harmonic current contributions of plants supplied from PCC based on state estimation
+  authors: E. Sezgin, <b>M. Göl</b>, Ö. Salor
+  venue: Signal Processing and Communications Applications Conference (SIU)
+  kind: conference
+  year: 2015
+  date: '2015-05-01'
+  doi: 10.1109/siu.2015.7130274
+  url: https://doi.org/10.1109/siu.2015.7130274
+  pdf: https://hdl.handle.net/11511/35431
+  cites: 4
+  pis:
+  - Murat Göl
+  openalex: W2314775568
+- title: Optimal PMU placement for state estimation robustness
+  authors: <b>M. Göl</b>, A. Abur
+  venue: IEEE PES Innovative Smart Grid Technologies Europe
+  kind: conference
+  year: 2014
+  date: '2014-10-01'
+  doi: 10.1109/isgteurope.2014.7028797
+  url: https://doi.org/10.1109/isgteurope.2014.7028797
+  pdf: https://hdl.handle.net/11511/69481
+  cites: 18
+  pis:
+  - Murat Göl
+  openalex: W1977560359
+- title: Design and implementation of a 800W step down converter with optimized F-L-N parameters
+  authors: <b>İ. Şahin</b>, A. M. Hava
+  venue: IEEE International Symposium on Industrial Electronics (ISIE)
+  kind: conference
+  year: 2014
+  date: '2014-06-01'
+  doi: 10.1109/isie.2014.6864940
+  url: https://doi.org/10.1109/isie.2014.6864940
+  pdf: https://hdl.handle.net/11511/53317
+  cites: 0
+  pis:
+  - İlker Şahin
+  openalex: W2038897163
+- title: Volume and efficiency optimization of a step-down DC/DC converter based on F-L-N parameters
+  authors: <b>İ. Şahin</b>, A. M. Hava
+  venue: null
+  kind: conference
+  year: 2013
+  date: '2013-11-01'
+  doi: 10.1109/eleco.2013.6713803
+  url: https://doi.org/10.1109/eleco.2013.6713803
+  pdf: https://hdl.handle.net/11511/54674
+  cites: 1
+  pis:
+  - İlker Şahin
+  openalex: W2058137762
