@@ -15,28 +15,31 @@ Journal and conference papers by PowerLab's principal researchers and their stud
 </div>
 
 <div class="team-nav" markdown="0">
-<a href="#highlights">Highlights</a>
+<a href="#theses">Theses &amp; profiles</a>
 <a href="#all">All publications</a>
 {% if site.data.patents.size > 0 %}<a href="#patents">Patents</a>{% endif %}
-<a href="#theses">Theses &amp; profiles</a>
+</div>
+
+<h2 id="theses">Theses &amp; Profiles</h2>
+
+<div class="pub-links" markdown="0">
+<a href="https://avesis.metu.edu.tr/researchteamsite/powerlab/theses">Graduate theses (AVESIS)</a>
+<a href="https://avesis.metu.edu.tr/researchteamsite/powerlab/publications">Full list incl. national papers (AVESIS)</a>
+</div>
+
+<div class="al-grid" markdown="0">
+{% for prof in site.data.professors %}
+<div class="al-card">
+  <div class="al-name">{{ prof.name }}</div>
+  <div class="al-deg">
+    {% if prof.scholar %}<a href="{{ prof.scholar }}">Google Scholar</a>{% endif %}
+    {% if prof.orcid %}{% if prof.scholar %} · {% endif %}<a href="https://orcid.org/{{ prof.orcid }}">ORCID</a>{% endif %}
+  </div>
+</div>
+{% endfor %}
 </div>
 
 {% if pubs %}
-
-{% if site.data.publications_selected.size > 0 %}
-<h2 id="highlights">Selected Publications</h2>
-{% assign highlight = "" | split: "" %}
-{% for d in site.data.publications_selected %}
-  {% for p in pubs %}{% if p.doi == d %}{% assign highlight = highlight | push: p %}{% endif %}{% endfor %}
-{% endfor %}
-{% else %}
-<h2 id="highlights">Most Cited</h2>
-{% assign highlight = pubs | sort: "cites" | reverse %}
-{% endif %}
-
-<div class="pub-list" markdown="0">
-{% for p in highlight limit: 6 %}{% include publication.html p=p %}{% endfor %}
-</div>
 
 <h2 id="all">All Publications</h2>
 
@@ -80,25 +83,6 @@ Journal and conference papers by PowerLab's principal researchers and their stud
 {% endfor %}
 </div>
 {% endif %}
-
-<h2 id="theses">Theses &amp; Profiles</h2>
-
-<div class="pub-links" markdown="0">
-<a href="https://avesis.metu.edu.tr/researchteamsite/powerlab/theses">Graduate theses (AVESIS)</a>
-<a href="https://avesis.metu.edu.tr/researchteamsite/powerlab/publications">Full list incl. national papers (AVESIS)</a>
-</div>
-
-<div class="al-grid" markdown="0">
-{% for prof in site.data.professors %}
-<div class="al-card">
-  <div class="al-name">{{ prof.name }}</div>
-  <div class="al-deg">
-    {% if prof.scholar %}<a href="{{ prof.scholar }}">Google Scholar</a>{% endif %}
-    {% if prof.orcid %}{% if prof.scholar %} · {% endif %}<a href="https://orcid.org/{{ prof.orcid }}">ORCID</a>{% endif %}
-  </div>
-</div>
-{% endfor %}
-</div>
 
 <script>
 (function () {

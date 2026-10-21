@@ -29,7 +29,7 @@ META = ROOT / "_data" / "publications_meta.yml"
 MANUAL = ROOT / "_data" / "publications_manual.yml"
 API = "https://api.openalex.org"
 
-KEEP_TYPES = {"article", "book-chapter", "book", "review", "letter"}
+KEEP_TYPES = {"article", "conference-paper", "book-chapter", "book", "review", "letter"}
 CONF_WORDS = re.compile(
     r"conference|symposium|congress|workshop|proceedings|convention|"
     r"powertech|\becce\b|\biecon\b|\bapec\b|\bicem\b|\biemdc\b|\bpemd\b|\bpedg\b",
@@ -136,6 +136,8 @@ def classify(work, source):
     wtype = work.get("type")
     if wtype in ("book-chapter", "book"):
         return "book"
+    if wtype == "conference-paper":
+        return "conference"
     stype = (source or {}).get("type") or ""
     name = (source or {}).get("display_name") or ""
     if stype == "conference" or CONF_WORDS.search(name):
