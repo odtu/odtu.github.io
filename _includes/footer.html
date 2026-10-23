@@ -33,3 +33,10 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+<script>
+document.querySelectorAll('a.pmail').forEach(function (a) {
+  var e = a.getAttribute('data-u') + '@' + a.getAttribute('data-d');
+  a.href = 'mailto:' + e;
+  a.textContent = e;
+});
+</script>

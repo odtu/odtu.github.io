@@ -168,7 +168,7 @@ firstp {
     flex-direction: column;
 }
 .mb-photo { aspect-ratio: 1 / 1; background: #f2f2f2; }
-#gridid .mb-photo img {
+#gridid .mb-photo img, .mb-photo img {
     width: 100%; height: 100%;
     object-fit: cover; object-position: center 25%;
     margin: 0; border-radius: 0; box-shadow: none; display: block;
@@ -182,6 +182,10 @@ firstp {
 .mb-edu { margin-top: 6px; font-size: 12px; color: #888; line-height: 1.45; }
 .mb-office, .mb-contact { margin-top: 6px; font-size: 12px; color: #888; }
 .mb-contact a { font-size: 13px; }
+.contact-table { max-width: 520px; }
+.contact-table td { padding: 6px 18px 6px 0; }
+.map-wrap { position: relative; width: 100%; max-width: 900px; aspect-ratio: 4 / 3; margin: 10px 0 30px; }
+.map-wrap iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
 .team-join {
     margin: 6px 0 22px; padding: 14px 18px;
     border-left: 3px solid #c0392b; background: #fafafa; font-size: 15px;

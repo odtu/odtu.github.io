@@ -1,0 +1,6 @@
+{%- comment -%}
+  Spam-resistant e-mail link. Usage: {% include protected_email.html email=member.mail %}
+  The page source only holds "user [at] domain"; js in footer.html turns it into a mailto link.
+{%- endcomment -%}
+{%- assign pm = include.email | split: "@" -%}
+<a class="pmail" data-u="{{ pm[0] }}" data-d="{{ pm[1] }}">{{ pm[0] }} [at] {{ pm[1] }}</a>
