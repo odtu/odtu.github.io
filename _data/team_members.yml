@@ -1,5 +1,13 @@
 # Current graduate students. level: phd or msc (decides the section)
 
+- name: Rana Adnan
+  level: phd
+  info: PhD Student
+  photo: rana_adnan.jpeg
+  ofis: E-104
+  number_educ: 1
+  education1: MSc, COMSATS University (Pakistan), 2016
+
 - name: Pouya Alipour
   level: phd
   info: PhD Student
@@ -25,6 +33,14 @@
   ofis: C-114
   number_educ: 1
   education1: BSc, METU, 2024
+
+- name: Mohammad Amirkhani
+  level: phd
+  info: PhD Student
+  photo: mohammad_amirkhani.png
+  ofis: E-104
+  number_educ: 1
+  education1: MSc, Amirkabir University of Technology, 2022
 
 - name: Yunus Çay
   level: phd
@@ -107,6 +123,14 @@
   ofis: E-101
   number_educ: 1
   education1: BSc, METU, 2025
+
+- name: Muzaffer Barış Kılıç
+  level: msc
+  info: MSc Student
+  photo: muzaffer_baris_kilic.jpg
+  ofis: E-104
+  number_educ: 1
+  education1: BSc, Gazi University, 2025
 
 - name: İsmail Macit
   level: msc
