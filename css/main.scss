@@ -153,12 +153,21 @@ firstp {
 .team-nav a { margin-right: 14px; }
 .team-intro { font-size: 16px; color: #555; max-width: 760px; }
 .mb-grid {
+    --cols: 5;
+    --gap: 16px;
+    --card: calc((100% - (var(--cols) - 1) * var(--gap)) / var(--cols));
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
-    gap: 16px;
+    grid-template-columns: repeat(var(--cols), 1fr);
+    gap: var(--gap);
     margin-bottom: 10px;
 }
-.mb-grid.mb-pi { grid-template-columns: repeat(auto-fill, minmax(210px, 1fr)); }
+/* PIs: same card width as students, spread evenly across the row */
+.mb-grid.mb-pi {
+    grid-template-columns: repeat(auto-fit, var(--card));
+    justify-content: space-between;
+}
+@media (max-width: 950px) { .mb-grid { --cols: 4; } }
+@media (max-width: 760px) { .mb-grid { --cols: 3; } }
 .mb-card {
     border: 1px solid #e5e5e5;
     border-radius: 6px;
@@ -191,7 +200,7 @@ firstp {
     border-left: 3px solid #c0392b; background: #fafafa; font-size: 15px;
 }
 @media (max-width: 600px) {
-    .mb-grid, .mb-grid.mb-pi { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .mb-grid { --cols: 2; --gap: 10px; }
     .mb-body { padding: 8px 9px 10px; }
     .mb-name { font-size: 15px; }
 }
