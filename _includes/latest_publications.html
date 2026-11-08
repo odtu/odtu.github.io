@@ -1,0 +1,9 @@
+<div class="well latest-pubs">
+<h4>Latest Publications</h4>
+{% assign recent = site.data.publications | sort: "date" | reverse %}
+{% for p in recent limit:5 %}
+{% include publication.html p=p %}
+{% endfor %}
+<p class="latest-pubs-more"><a href="{{ site.url }}{{ site.baseurl }}/publications">See all publications &rarr;</a></p>
+<p class="latest-pubs-follow">For news, follow us on <a href="https://www.linkedin.com/company/metu-power-lab/">LinkedIn</a> and <a href="https://www.instagram.com/metupowerlab/">Instagram</a>.</p>
+</div>

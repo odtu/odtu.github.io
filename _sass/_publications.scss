@@ -39,3 +39,12 @@
     .pub-title { font-size: 15px; }
     .pub-filters select { flex: 1 1 100%; }
 }
+
+/* Home page: latest publications box */
+.latest-pubs .pub { padding: 8px 0 10px; }
+.latest-pubs .pub-title { font-size: 14px; }
+.latest-pubs .pub-authors { font-size: 13px; }
+.latest-pubs .pub-venue { font-size: 12px; }
+.latest-pubs .pub:last-of-type { border-bottom: none; }
+.latest-pubs-more { margin: 8px 0 4px; font-weight: 600; }
+.latest-pubs-follow { margin: 0; font-size: 13px; color: #777; }
